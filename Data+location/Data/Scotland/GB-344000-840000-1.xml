@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-34-84/GB-344000-840000-1.xml</id><title type="text"> Entry: pages-GB-34-84 GB-344000-840000-1</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-34-84/GB-344000-840000-1.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-34-84/GB-344000-840000-1.xml/1" rel="edit" /><as:entryId>GB-344000-840000-1</as:entryId><as:updateIndex>246783</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T13:00:29.000Z</updated><published>2011-05-01T13:00:29.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-344000-840000</dblock_id>
+		<year>1986</year>
+		<title>01LANDSCAPE</title>
+		<content>{LANDSCAPE                             
+{                                      
+ (Letters refer to grid squares. A,B,C 
+ :N/S .A,D,G,J:W/E)                    
+ A=Heather,rough grass,gorse           
+ B=Heather,rough grass,gorse           
+ C=Heather,rough grass,gorse,arable    
+ D=Heather,gorse,grass,conifer forestry
+ E=Rough grass,heather,gorse           
+ F=Arable,game birds                   
+ G=Arable,rough grazing                
+ H=Arable,seeded grass                 
+ I=Arable                              
+ J=Forestry,grazing                    
+ K=Forestry,grazing                    
+ L=Arable,fish farm                    
+{ATTITUDE OF LOCALS TO LANDSCAPE       
+ "It's about the only thing there is to
+ enjoy round here!"                    
+ Many go for long walks.               
+ B ROAD,C ROAD and the River Deveron   
+                                       </content>
+	</page></content></entry>

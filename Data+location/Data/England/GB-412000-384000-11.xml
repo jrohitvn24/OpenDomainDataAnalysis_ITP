@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-41-38/GB-412000-384000-11.xml</id><title type="text"> Entry: pages-GB-41-38 GB-412000-384000-11</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-41-38/GB-412000-384000-11.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-41-38/GB-412000-384000-11.xml/6" rel="edit" /><as:entryId>GB-412000-384000-11</as:entryId><as:updateIndex>312857</as:updateIndex><as:revision>5</as:revision><updated>2011-05-02T20:10:27.000Z</updated><published>2011-05-02T19:45:57.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-412000-384000</dblock_id>
+		<year>1986</year>
+		<title>11EDALE WEATHER 1980-1984</title>
+		<content>          {1980  1981  1982  1983  1984
+ Rain(in) 53.63 53.43 50.22 50.89 42.34
+ Snow(in)  5.82  9.39  1.93  4.94  5.74
+ Total    59.45 62.82 52.15 55.83 48.08
+ ______________________________________
+ Fine Days  107   104   115  137  138  
+ ______________________________________
+ Wettest  Oct    Mar   Nov   Dec   Jan 
+ Month    10.50 9.45  7.21  8.95  8.38 
+ ______________________________________
+ Driest   Apr   Jun   Jul   Jun   Apr  
+ Month   0.39  2.48  0.70  1.43  0.60  
+ ______________________________________
+ Most     Dec   Apr   Dec   Jan  Jan   
+ Snow    2.08  1.47  0.26  0.80  1.15  
+ ______________________________________
+ Long term average rainfall 52inches.  
+ Information contributed by            
+ Mrs N.Heardman of Edale.              
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

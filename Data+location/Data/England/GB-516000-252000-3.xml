@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-51-25/GB-516000-252000-3.xml</id><title type="text"> Entry: pages-GB-51-25 GB-516000-252000-3</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-51-25/GB-516000-252000-3.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-51-25/GB-516000-252000-3.xml/2" rel="edit" /><as:entryId>GB-516000-252000-3</as:entryId><as:updateIndex>196923</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T22:43:04.000Z</updated><published>2011-04-30T22:43:04.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-516000-252000</dblock_id>
+		<year>1986</year>
+		<title>03Traffic Survey  -  Part1</title>
+		<content> In September 1938 following the new   
+ classification of roads A B etc the   
+ ministry of transport carried out a   
+ traffic survey just outside of        
+ Tempsford to count the flow of        
+ traffic.The results taken over a seven
+ day period 16 hours a day were as     
+ follows                               
+     Mo   Tu   We   Th   Fr   Sa   Su  
+{MBi 175  95   83   80   124  278  406 
+{Car 1983 1514 1595 1667 2099 3048 3555
+{Bus 73   49   47   44   70   109  113 
+{Van 108  121  147  160  168  127  56  
+{StL 571  699  749  717  663  362  99  
+{Trc 1    2    5    3    1    0     0  
+{Bik 403  316  289  337  322  463  585 
+{HDV 23   27   25   40   31   9    0   
+{Ped 44   47   38   44   46   73   170 
+ KEY motorbikes cars buses or coaches  
+ vans steam lorries tractors push bikes
+ horse drawn vehicles pedestrians.     
+                                       </content>
+	</page></content></entry>

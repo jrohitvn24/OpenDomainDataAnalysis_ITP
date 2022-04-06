@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-48-20/GB-484000-201000-19.xml</id><title type="text"> Entry: pages-GB-48-20 GB-484000-201000-19</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-48-20/GB-484000-201000-19.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-48-20/GB-484000-201000-19.xml/3" rel="edit" /><as:entryId>GB-484000-201000-19</as:entryId><as:updateIndex>320415</as:updateIndex><as:revision>2</as:revision><updated>2011-05-02T20:37:54.000Z</updated><published>2011-05-02T20:36:07.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-484000-201000</dblock_id>
+		<year>1986</year>
+		<title>19Prestwood  Children's Height</title>
+		<content>We asked children in our Survey to     
+indicate their height. These are the   
+results:                               
+      {Average Height in Metres}       
+                                       
+Age:         Girls         Boys        
+                                       
+ 8-8.11      1.28          1.31        
+ 9-9.11      1.34          1.38        
+10-10.11     1.37          1.44        
+11-11.11     1.48          1.49        
+                                       
+Although in each year, boys were on    
+average taller than girls, the eleven  
+year old girls were much taller than   
+the ten year old girls.  We graphed the
+values, and there's a {sudden} increase
+in their height between 10 and 11, but 
+the boys increase in height is gradual 
+and even throughout this age range.    
+Maybe the boys will have a sudden      
+increase in growth later.              </content>
+	</page></content></entry>

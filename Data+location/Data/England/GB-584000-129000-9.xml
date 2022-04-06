@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-58-12/GB-584000-129000-9.xml</id><title type="text"> Entry: pages-GB-58-12 GB-584000-129000-9</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-58-12/GB-584000-129000-9.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-58-12/GB-584000-129000-9.xml/3" rel="edit" /><as:entryId>GB-584000-129000-9</as:entryId><as:updateIndex>173101</as:updateIndex><as:revision>2</as:revision><updated>2011-04-30T21:12:00.000Z</updated><published>2011-04-30T21:07:05.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-584000-129000</dblock_id>
+		<year>1986</year>
+		<title>09Social Survey D - Shopping</title>
+		<content>   100 households in the area were     
+ asked :{"Where do you go shopping for:
+{a) convenience goods (bread, meat,    
+{sweets, cigarettes, groceries etc.) } 
+{b) occasional goods (clothing,        
+{electrical equipment, furniture, etc.)
+ ______________________________________
+{convenience goods} {occasional goods} 
+ ROLVENDEN/LAYNE 71  TENTERDEN       57
+ TENTERDEN       47  ASHFORD         41
+ ASHFORD         28  MAIDSTONE       39
+ HASTINGS        22  TUNBRIDGE WELLS 31
+ MAIDSTONE       14  HASTINGS        25
+ CRANBROOK       10  CRANBROOK       13
+ RYE              9  RYE             12
+ OTHER VILLAGES   6  LONDON          11
+ HAWKHURST        4  CANTERBURY       9
+ TUNBRIDGE WELLS  2  ROLVENDEN/LAYNE  3
+ CANTERBURY       2  MEDWAY TOWNS     2
+ FOLKESTONE       2  FOLKESTONE       2
+ LONDON           1  OTHER VILLAGES   1
+ MEDWAY TOWNS     0  HAWKHURST        1</content>
+	</page></content></entry>

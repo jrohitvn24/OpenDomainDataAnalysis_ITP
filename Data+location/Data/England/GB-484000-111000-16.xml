@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-48-11/GB-484000-111000-16.xml</id><title type="text"> Entry: pages-GB-48-11 GB-484000-111000-16</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-48-11/GB-484000-111000-16.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-48-11/GB-484000-111000-16.xml/1" rel="edit" /><as:entryId>GB-484000-111000-16</as:entryId><as:updateIndex>343655</as:updateIndex><as:revision>0</as:revision><updated>2011-05-04T10:51:51.000Z</updated><published>2011-05-04T10:51:51.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-484000-111000</dblock_id>
+		<year>1986</year>
+		<title>16Traffic Survey (afternoon)</title>
+		<content> Time Grd.Ref Dir Car Lo Bu Bi Pe Mb   
+                                       
+ 2-3  113879  SSW 85  13  1  0  0  1   
+               SE 78  17  3  0  0  1   
+ 2-3  879132    E 39   1  1  2 32  1   
+                W 41   1  2  3 27  0   
+ 2-3  878132    N 242 26  1  0 10  5   
+              SSE 189 24  5  4 30  5   
+ 2-3  875129    S 75   1  9  0 10  0   
+               NE 200 18  9  0 16  2   
+                W 116 18  7  2  3  3   
+ 2-3  858124   SW 146 28  3  3  3  3   
+               NE 135 33  5  0  1  2   
+ KEY                                   
+ Grd.Ref=Grid Reference                
+ Dir=Direction                         
+ Car=Number of Cars                    
+ Lo=Number of Lorries                  
+ Bu=Number of Buses                    
+ Bi=Number of Bicycles                 
+ Pe=Number of Pedestrians              
+ Mb=Number of Motorcycles              </content>
+	</page></content></entry>

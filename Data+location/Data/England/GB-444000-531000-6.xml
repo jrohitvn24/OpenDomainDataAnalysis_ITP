@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-44-53/GB-444000-531000-6.xml</id><title type="text"> Entry: pages-GB-44-53 GB-444000-531000-6</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-44-53/GB-444000-531000-6.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-44-53/GB-444000-531000-6.xml/1" rel="edit" /><as:entryId>GB-444000-531000-6</as:entryId><as:updateIndex>256279</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T17:28:16.000Z</updated><published>2011-05-01T17:28:16.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-444000-531000</dblock_id>
+		<year>1986</year>
+		<title>06Surveys of 52 School Pupils</title>
+		<content>{Q. How many children in your family?  
+{A.}7 families had one child.          
+    25 families had two children.      
+    5 families had three children.     
+    1 family had five children.        
+    1 family had six children.         
+   {There is an average of 2.2 children
+{   in each family.                    
+{                                      
+{Q. How many Television sets are in    
+   {your house?                        
+{A.}No family is without a television  
+    set.                               
+    13 families have one television    
+    set.                               
+    13 families have two television    
+    sets.                              
+    12 families have three television  
+    sets.                              
+    1 family has four television sets. 
+   {There is an average of two         
+   {television sets for each family.   </content>
+	</page></content></entry>

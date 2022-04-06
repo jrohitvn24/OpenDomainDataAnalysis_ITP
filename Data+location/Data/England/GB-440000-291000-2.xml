@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-44-29/GB-440000-291000-2.xml</id><title type="text"> Entry: pages-GB-44-29 GB-440000-291000-2</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-44-29/GB-440000-291000-2.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-44-29/GB-440000-291000-2.xml/1" rel="edit" /><as:entryId>GB-440000-291000-2</as:entryId><as:updateIndex>252195</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T16:19:28.000Z</updated><published>2011-05-01T16:19:28.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-440000-291000</dblock_id>
+		<year>1986</year>
+		<title>02WHERE PEOPLE WORK</title>
+		<content>{EMPLOYMENT}                           
+ We did a survey to see where our Dad's
+ and Mom's (Skethley Estate) worked. We
+ repeated it at Westfield School       
+ (council estate near Hinckley).       
+{LOCATION        SKETCHLEY    WESTFIELD
+{                  M.   F.      M.   F.
+ Not working        2   70      17   43
+ Hinckley          61   59      62   89
+ Burbage            3   27       5    0
+ Coventry          45    4      21    0
+ Leicester         31    6      14    1
+ Nuneaton          14    5      13    1
+ Home               4 { 33   }   0 { 12
+ Other &lt; 10miles   22    4      10    1
+ Other > 10miles   17{ } 4       5    0
+{--------------------------------------
+  The mother's employment includes full
+ and part time. At Sketchley there were
+ 31 f/time: 111 p/time: 70 not working.
+ At Westfield 41f/time: 70 p/time:43not
+ working.{NOTE OUTWORKERS AT HOME      </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-46-25/GB-464000-255000-8.xml</id><title type="text"> Entry: pages-GB-46-25 GB-464000-255000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-46-25/GB-464000-255000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-46-25/GB-464000-255000-8.xml/3" rel="edit" /><as:entryId>GB-464000-255000-8</as:entryId><as:updateIndex>410961</as:updateIndex><as:revision>2</as:revision><updated>2011-05-19T15:43:02.000Z</updated><published>2011-05-19T15:41:31.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-464000-255000</dblock_id>
+		<year>1986</year>
+		<title>08Traffic Survey Wed.2nd. June</title>
+		<content>                 Lor Va Bu MC Tr Car Ho
+A5               184 92  3 14  2 401  -
+B4525 S.of A5     13 30  -  7  -  60  -
+  "   N.   "      18 34  2  2  2 108  1
+B4525 in Bugb.    20 44  -  -  2 101  -
+Great Lane         -  5  2  2  2  25  1
+Cornhill Rd.       1  2  -  -  -  23  -
+Nether Heyford Rd  5 15  2  -  2  52  -
+A5 to Stowe        1  4  -  -  -  13  -
+A5 to Neth.Heyf'd  7  7  1  -  2  44  -
+B4525 by Prim.Sch 24 50  -  2  2 116  -
+Bugbrooke High St. 6 25  2  3  4  76  1
+West End           -  -  2  2  2  17  1
+{taken 11.00 a.m. to midday}           
+ {KEY}                                 
+Lor=lorry,Va=van,Bu=bus,MC=motorcycle, 
+Tr=tractor,Car=car,Ho=Horse.           
+ {NOTE}                                
+Roads marked e.g."A5 to Stowe" are     
+roads that connect the A5 to a village.
+Otherwise roads are in or near the main
+village in this area-Bugbrooke.        </content>
+	</page></content></entry>

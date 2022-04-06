@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-26-66/GB-260000-669000-13.xml</id><title type="text"> Entry: pages-GB-26-66 GB-260000-669000-13</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-26-66/GB-260000-669000-13.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-26-66/GB-260000-669000-13.xml/1" rel="edit" /><as:entryId>GB-260000-669000-13</as:entryId><as:updateIndex>103801</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T07:06:56.000Z</updated><published>2011-04-30T07:06:56.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-260000-669000</dblock_id>
+		<year>1986</year>
+		<title>13VEHICLE COUNT BISHOPBRIGGS</title>
+		<content>{     MEADOWBURN//HILTON RD//K'LLOCH RD
+                                       
+{CARS        }17       37         247  
+{LORRIES      }2        5          35  
+{VANS         }2        6          45  
+{BUSES        }0        1           9  
+{MOTORBIKES   }0        0           1  
+{PEDALBIKES   }0        1           1  
+{TAXIS        }3        2           8  
+{C5           }0        0           0  
+{AGRICULTURAL }                        
+{ MACHINERY   }0        2           3  
+{OTHERS       }0        1           0  
+                                       
+ TOTALS      {24       55         349  
+                                       
+ This vehicle count was taken in grid  
+ square NS 6171 (02610671). It shows   
+ the comparative importance of the Main
+ Rd.(K'lloch Rd.), a secondary feeder  
+ road(Hilton Rd.) and a housing access 
+ road(Meadowburn).                     </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-58-18/GB-588000-183000-14.xml</id><title type="text"> Entry: pages-GB-58-18 GB-588000-183000-14</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-58-18/GB-588000-183000-14.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-58-18/GB-588000-183000-14.xml/3" rel="edit" /><as:entryId>GB-588000-183000-14</as:entryId><as:updateIndex>174137</as:updateIndex><as:revision>2</as:revision><updated>2011-04-30T21:12:29.000Z</updated><published>2011-04-30T21:07:35.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-588000-183000</dblock_id>
+		<year>1986</year>
+		<title>14Southend:Transport</title>
+		<content>    Southend is served by two main     
+{railway}lines into London and a large 
+{bus service}jointly run by{Eastern    
+{National}and{Southend Transport}the   
+ local corporation company.The graph   
+ below shows the frequency of trains on
+ the Fenchurch Street line into London:
+                                       
+   Time/no:      5  10  15  20  25     
+                                       
+ 6.00-9.00  : |____________________(26)
+ 9.00-12.00 : |__________          (15)
+ 12.00-3.00 : |________            (12)
+ 3.00-6.00  : |______________      (20)
+ 6.00-9.00  : |_________           (14)
+    The buses serve the whole of       
+ Southend and the surrounding area with
+ over 70 routes travelling into or     
+ through Southend.Bus fares start at   
+ 15p and increase per stage to 30p then
+ 43p then 55p and from then on in      
+ stages of 5p.                         </content>
+	</page></content></entry>

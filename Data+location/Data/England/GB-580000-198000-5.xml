@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-58-19/GB-580000-198000-5.xml</id><title type="text"> Entry: pages-GB-58-19 GB-580000-198000-5</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-58-19/GB-580000-198000-5.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-58-19/GB-580000-198000-5.xml/3" rel="edit" /><as:entryId>GB-580000-198000-5</as:entryId><as:updateIndex>174337</as:updateIndex><as:revision>2</as:revision><updated>2011-04-30T21:12:34.000Z</updated><published>2011-04-30T21:07:40.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-580000-198000</dblock_id>
+		<year>1986</year>
+		<title>05Fields on Edwin Hall Farm</title>
+		<content>{Fields Acres Hectares Cropping}       
+ 1      12.5    5.0    Wheat-feed      
+ 2      24.0    9.7    Oil Rape Seed   
+ 3      20.0    8.0     "   "    "     
+ 4      12.0    4.8    Horses/Cattle   
+ 5      15.0    6.0    Dairy cattle    
+ 6      15.0    6.0    Hay/Cattle      
+ 7      38.0   15.4    Grazing for cows
+ 8      24.0    9.7    Hay/grazing     
+ 9      24.0    9.7    Grazing for cows
+ 10     14.0    5.7    Grazing for cows
+ 11     25.0   10.0    Silage/grazing  
+ 12     9.0     3.6    Silage/grazing  
+ 13     20.0    8.0    Silage/grazing  
+ 14     14.0    5.7    Silage/grazing  
+ 15     27.0   10.9    Grazing Heifers 
+ 16     18.0    7.3    Grazing Heifers 
+ 17     21.0    8.5    Grazing Heifers 
+       _____  _____                    
+ TOTAL 338.5  137.0                    
+ Woods   6.0    2.4    Edwins Hall Wood
+                                       </content>
+	</page></content></entry>

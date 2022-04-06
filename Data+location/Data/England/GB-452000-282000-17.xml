@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-45-28/GB-452000-282000-17.xml</id><title type="text"> Entry: pages-GB-45-28 GB-452000-282000-17</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-45-28/GB-452000-282000-17.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-45-28/GB-452000-282000-17.xml/1" rel="edit" /><as:entryId>GB-452000-282000-17</as:entryId><as:updateIndex>340857</as:updateIndex><as:revision>0</as:revision><updated>2011-05-04T10:18:05.000Z</updated><published>2011-05-04T10:18:05.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-452000-282000</dblock_id>
+		<year>1986</year>
+		<title>17TELEVISION PROGRAMMES</title>
+		<content> A survey of the media showed          
+ that{Television}was the most popular  
+ and this is a graph to show the       
+ popularity of the programme types:    
+                  {MALE    FEMALE}     
+ SPORT              19        4        
+ SOAP OPERA          9       20        
+ DRAMA               6       14        
+ HORROR             13        5        
+ ACTION             18       13        
+ COMEDY             27       22        
+ CARTOON            13       11        
+ FILMS              21       21        
+ DOCUMENTARY        10       12        
+ QUIZ               11       15        
+ NEWS               17       13        
+ CHILDRENS           3        9        
+ CHAT SHOWS          6       13        
+ POP                10       17        
+ SCIENCE FICTION    13        9        
+ CEEFAX              3        2        
+                                       </content>
+	</page></content></entry>

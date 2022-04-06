@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-51-43/GB-512000-432000-11.xml</id><title type="text"> Entry: pages-GB-51-43 GB-512000-432000-11</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-51-43/GB-512000-432000-11.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-51-43/GB-512000-432000-11.xml/1" rel="edit" /><as:entryId>GB-512000-432000-11</as:entryId><as:updateIndex>198553</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T22:44:01.000Z</updated><published>2011-04-30T22:44:01.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-512000-432000</dblock_id>
+		<year>1986</year>
+		<title>11   Recreation in Bilton</title>
+		<content>   106 families of Thanet JHS., gave   
+ details about their leisure and       
+ holiday activities.                   
+       {LEISURE}      | {  HOLIDAYS}   
+     in one month     | in last 3 years
+ _________|_____|_____|__________|_____
+{PLACE }  |No.HH| VPM |{AREA  }  |No.HH
+ _________|_____|_____|__________|_____
+ Cinema   | 15  |  24 |  {BRITAIN }    
+ Eve. Cl. | 15  |  58 |Scotland  | 10  
+ Church   | 23  |  48 |Wales     | 14  
+ Theatre  | 23  |  30 |S/W Eng.  | 44  
+ Library  | 34  |  78 |N/E Eng.  | 62  
+ Sports H | 34  | 130 |   {ABROAD}     
+ L. Clubs | 36  | 101 |Greece    |  4  
+ Swim.Bath| 48  | 130 |Italy     |  4  
+ Pubs.    | 79  | 215 |Others    | 15  
+ _________|_____|_____|France    | 17  
+ Abbreviations        |Spain     | 40  
+{HH}=Households:H=Hall|________________
+{VPM}=total Visits/Month               
+ Eve. Cl.=Evening classes:L.=Licensed  </content>
+	</page></content></entry>

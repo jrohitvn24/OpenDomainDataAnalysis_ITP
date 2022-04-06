@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-50-18/GB-508000-183000-18.xml</id><title type="text"> Entry: pages-GB-50-18 GB-508000-183000-18</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-50-18/GB-508000-183000-18.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-50-18/GB-508000-183000-18.xml/2" rel="edit" /><as:entryId>GB-508000-183000-18</as:entryId><as:updateIndex>275187</as:updateIndex><as:revision>1</as:revision><updated>2011-05-01T22:07:24.000Z</updated><published>2011-05-01T22:06:00.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-508000-183000</dblock_id>
+		<year>1986</year>
+		<title>18TRAFFIC SURVEY.</title>
+		<content>                                       
+ A traffic count was carried out at the
+ junction  of West End Road and Station
+ Approach  in  South  Ruislip.   People
+ stood   at   six   points  around  the
+ junction and  counted the traffic that
+ passed over ten minutes.              
+                                       
+                                       
+       {NUMBER OF VEHICLES.            
+                                       
+ Type.       A   B   C   D   E   F     
+                                       
+{Cars}       87 119  87  68  87 119    
+{Lorries}    33  17  21  29  38  32    
+{M/Bikes}     3   9   3   1   5   4    
+{Cycles}      0   3   4   4   2   0    
+                                       
+ We  looked  for  buses, but none went 
+ past.                                 
+                                       
+ Page 19 shows a map of the location.  </content>
+	</page></content></entry>

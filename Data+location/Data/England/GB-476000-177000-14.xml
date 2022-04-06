@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-47-17/GB-476000-177000-14.xml</id><title type="text"> Entry: pages-GB-47-17 GB-476000-177000-14</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-47-17/GB-476000-177000-14.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-47-17/GB-476000-177000-14.xml/2" rel="edit" /><as:entryId>GB-476000-177000-14</as:entryId><as:updateIndex>190629</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T22:16:56.000Z</updated><published>2011-04-30T22:11:17.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-476000-177000</dblock_id>
+		<year>1986</year>
+		<title>14POPULATION &amp; WORK, WARGRAVE</title>
+		<content> Carroll diagram:population of a sample
+ 120 households selected at random.    
+    |=========|=========|              
+    |  {126}  |  {135}  |{>18 years    
+    |=========|=========|              
+    |   {67}  |   {71 } |{&lt;18 years    
+    |=========|=========|              
+      {males    females}               
+ The 1871 census shows more than 25% of
+ the village's working population were 
+ involved in agricultural and domestic 
+ work. Our 1985 survey was to  assess  
+ changes in the structure and the      
+ extent to which Wargrave has become a 
+ dormitory settlement.                 
+                                {%}    
+{EMPLOYMENT}   1.PROFESSIONAL   27     
+{STRUCTURE }   2.MANAGERIAL     48.5   
+{OF WARGRAVE } 3.CLERICAL       10.5   
+{IN 1985   }   4.SKILLED         9     
+               5.SEMI-SKILLED    5     
+               6.UNSKILLED       0     </content>
+	</page></content></entry>

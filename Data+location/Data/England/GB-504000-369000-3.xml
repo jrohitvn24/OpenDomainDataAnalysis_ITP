@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-50-36/GB-504000-369000-3.xml</id><title type="text"> Entry: pages-GB-50-36 GB-504000-369000-3</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-50-36/GB-504000-369000-3.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-50-36/GB-504000-369000-3.xml/1" rel="edit" /><as:entryId>GB-504000-369000-3</as:entryId><as:updateIndex>281505</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T08:28:32.000Z</updated><published>2011-05-02T08:28:32.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-504000-369000</dblock_id>
+		<year>1986</year>
+		<title>03Weather Records..1985.Cont.</title>
+		<content>{Date.  Wind.   Dir.  Cloud.     Soil. 
+ 13th   1-3mph  N.W.  Sc. 7/8    ----  
+ 14th   ----    ----  Cu. 5/8    15c   
+ 17th   ----    ----  Ci. 3/8    15.8c 
+ 18th   ----    ----  Cu. 2/8    15.8c 
+ 19th   ----    ----  -------    ----- 
+ 20th   1mph    ----  Cu. 2/8    15c   
+ 21st   ----    ----  St.{8/8}   15c   
+ 24th   1mph    ----  As. 4/8   {16.5c 
+ 25th   1mph    W.    Ci. 3/8    15.7c 
+ 27th  {5-10mph}N.E.  Sc. 7/8    15c   
+ 28th   ----    ----  Cu. 5/8    15c   
+{Cloud.= Cloud type in standard Met. - 
+{code and cloud cover in oktas.        
+{Soil. = Ground temperature at 30cm.   
+{Considerable diurnal variation in wind
+{speed noted during this period.       
+{  } Ye olde Millfield Weather Rhyme   
+ A Doomesday Project brought forth rain
+ A field trip brings heavy rain,       
+ A Doomesday Survey brings the{MONSOON!
+{                   Anon.              </content>
+	</page></content></entry>

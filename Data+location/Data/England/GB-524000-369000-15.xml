@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-52-36/GB-524000-369000-15.xml</id><title type="text"> Entry: pages-GB-52-36 GB-524000-369000-15</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-52-36/GB-524000-369000-15.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-52-36/GB-524000-369000-15.xml/1" rel="edit" /><as:entryId>GB-524000-369000-15</as:entryId><as:updateIndex>209503</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T23:17:08.000Z</updated><published>2011-04-30T23:17:08.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-524000-369000</dblock_id>
+		<year>1986</year>
+		<title>15HOUSING MAP</title>
+		<content>{      *******         **** ****       
+ |     **80***         20** **20       
+ |     *******            {|           
+{ ==================       |           
+  |               {|}@   @{|           
+   |             @{|}@   @{|}@         
+   |             @{|}@   @{|}@         
+   |             @{|}@   @{|}@         
+   |              {|}@   @{|}@         
+   |          @ @ {|    }@{|           
+  {================| }    {|           
+{ | |}      @@@@@@{| }&lt;&lt;&lt; {|           
+{|   |             |}&lt;&lt;&lt;&lt;&lt;{|           
+  {   |            =========           
+   {  |                    |}@@@@@@    
+ KEY{ =================================
+{=}=ROADS               @@{|}@@@@ *****
+ *=NEW ESTATES          @@{|}@@   *108*
+ @=OLD HOUSES          {   |}@    *****
+ 80,etc,=No,OF HOUSES     {|}@    *****
+ &lt;&lt;=MARKET SQ         {    |}@@        
+                                       </content>
+	</page></content></entry>

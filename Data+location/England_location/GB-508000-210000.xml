@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/dblocks-GB-50-21/GB-508000-210000.xml</id><title type="text"> Entry: dblocks-GB-50-21 GB-508000-210000</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/dblocks-GB-50-21/GB-508000-210000.xml" rel="self" /><link href="/electron/atom/v1/domesday/dblocks-GB-50-21/GB-508000-210000.xml/1" rel="edit" /><as:entryId>GB-508000-210000</as:entryId><as:updateIndex>396839</as:updateIndex><as:revision>0</as:revision><updated>2011-05-10T23:51:21.000Z</updated><published>2011-05-10T23:51:21.000Z</published><content type="application/xml"><dblock xmlns="">
+		<dblock_id>GB-508000-210000</dblock_id>
+		<lat>51.777782000165</lat>
+		<long>-0.434358665438</long>
+		<bounds>51.778696636181 -0.43518657366852 51.777940816005 -0.37940389275732 51.803554946185 -0.37848555499242 51.804311457485 -0.43429981921985 51.778696636181 -0.43518657366852</bounds>
+	</dblock></content></entry>

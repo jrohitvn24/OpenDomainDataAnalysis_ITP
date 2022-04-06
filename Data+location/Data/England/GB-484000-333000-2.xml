@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-48-33/GB-484000-333000-2.xml</id><title type="text"> Entry: pages-GB-48-33 GB-484000-333000-2</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-48-33/GB-484000-333000-2.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-48-33/GB-484000-333000-2.xml/1" rel="edit" /><as:entryId>GB-484000-333000-2</as:entryId><as:updateIndex>322363</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T20:44:33.000Z</updated><published>2011-05-02T20:44:33.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-484000-333000</dblock_id>
+		<year>1986</year>
+		<title>02HOUSING.BUILDINGS.</title>
+		<content>                                       
+ Map ref.84,33.                        
+  1 derelict barn, 1 gate house.       
+ 85,33.                                
+  1 farm, 2 empty cottages, 1 barn.    
+ 86,33.                                
+  l bungalow.                          
+ 87,33.                                
+  No buildings.                        
+ 84,34.                                
+  1 derelict farm - barn only.         
+ 85,34.  86,34.                        
+  No buildings.                        
+ 87,34.                                
+  1 farm.                              
+ 84,35.                                
+  1 inn,3 cottages.                    
+ 85,35.                                
+  3  cottages.                         
+ 86,35. l farm, 1 house.               
+ 87,35. 1 farm.                        
+                                       </content>
+	</page></content></entry>

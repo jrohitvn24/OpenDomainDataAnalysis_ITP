@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-54-26/GB-544000-264000-2.xml</id><title type="text"> Entry: pages-GB-54-26 GB-544000-264000-2</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-54-26/GB-544000-264000-2.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-54-26/GB-544000-264000-2.xml/1" rel="edit" /><as:entryId>GB-544000-264000-2</as:entryId><as:updateIndex>114941</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T07:49:31.000Z</updated><published>2011-04-30T07:49:31.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-544000-264000</dblock_id>
+		<year>1986</year>
+		<title>02LAND COVERAGE</title>
+		<content>                                       
+                                       
+ SQUARE   A  B  C  D  E  F  G  H  I    
+                                       
+ FIELDS  67,88,85,78,84,75,66,69,81 %  
+ ROADS    2, 4, 5, 8, 8, 1, 0, 5, 5 %  
+ HOUSES  16, 0, 2,12, 4, 1, 1,19, 4 %  
+ FARMS    0, 1, 0, 0, 2, 0, 0, 2, 0 %  
+ DRAINS   1, 0, 5, 2, 2, 1,31, 1, 5 %  
+ ORCHARDS 5, 7, 3, 0, 0,22, 2, 0, 5 %  
+ GARDENS  9, 0, 0, 0, 0, 0, 0, 4, 0 %  
+                                       
+ SQUARE   J  K  L                      
+ FIELDS  80,73,80 %                    
+ ROADS    9,12, 4 %                    
+ HOUSES   1, 0, 0 %                    
+ FARMS    0, 0, 6 %                    
+ DRAINS   3, 3, 4 %                    
+ ORCHARDS 7,12, 6 %                    
+ GARDENS  0, 0, 0 %                    
+                                       
+                                       </content>
+	</page></content></entry>

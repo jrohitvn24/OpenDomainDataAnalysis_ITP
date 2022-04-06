@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-40-26/GB-408000-261000-6.xml</id><title type="text"> Entry: pages-GB-40-26 GB-408000-261000-6</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-40-26/GB-408000-261000-6.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-40-26/GB-408000-261000-6.xml/3" rel="edit" /><as:entryId>GB-408000-261000-6</as:entryId><as:updateIndex>272855</as:updateIndex><as:revision>2</as:revision><updated>2011-05-01T22:03:44.000Z</updated><published>2011-05-01T22:02:16.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-408000-261000</dblock_id>
+		<year>1986</year>
+		<title>06Spernall_Holiday Habits</title>
+		<content>{34 households_ 22 returned            
+{questionnaires}                       
+                                       
+ Amount of time spent away from home on
+ holiday.                              
+            None         10 households 
+            1 week        3 households 
+            2 weeks       5 households 
+            3 weeks       2 households 
+            4 weeks       1 household  
+            5 weeks       1 household  
+                                       
+ Amount of time spent on holiday in    
+ Britain,elsewhere in Europe or in     
+ other parts of the world.             
+{Britain        Europe          World  
+{1week  2     1week  3       1week  0  
+{2weeks 5     2weeks 2       2weeks 0  
+{3weeks 1     3weeks 1       3weeks 1  
+  An airline captain had 5 weeks       
+ holiday, 1 spent in Britain,1 in      
+ Europe and 3 on "long haul" trips.    </content>
+	</page></content></entry>

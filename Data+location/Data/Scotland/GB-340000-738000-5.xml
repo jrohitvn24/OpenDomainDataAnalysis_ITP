@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-34-73/GB-340000-738000-5.xml</id><title type="text"> Entry: pages-GB-34-73 GB-340000-738000-5</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-34-73/GB-340000-738000-5.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-34-73/GB-340000-738000-5.xml/1" rel="edit" /><as:entryId>GB-340000-738000-5</as:entryId><as:updateIndex>260391</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T20:58:47.000Z</updated><published>2011-05-01T20:58:47.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-340000-738000</dblock_id>
+		<year>1986</year>
+		<title>05LAND COVER BY SECTIONS</title>
+		<content>  THE MAP AREA 4KM. BY 3KM. WAS DIVIDED
+ UP INTO 12 SECTIONS FROM NORTHWEST TO 
+ SOUTHEAST.LAND COVER IS AS FOLLOWS:_  
+                                       
+  SECTION;WOOD;HEATH;ROUGH  ;ARABLE    
+                     GRAZING           
+  A       9%   47%   44%     0%        
+  B       9.5  53    0       37.5      
+  C       64   22    6       8         
+  D       54.7 45.3  0       0         
+  E       3.1  0     0       96.9      
+  F       6.3  0     23.4    70.3      
+  G       18.8 0     12.5    68.7      
+  H       4.7  0     39      56.3      
+  I       0    0     0       100       
+  J       11   0     0       89        
+  K       4.7  0     0       95.3      
+  L       0    0     0       100       
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

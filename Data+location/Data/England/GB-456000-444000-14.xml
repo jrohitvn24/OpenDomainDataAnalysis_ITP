@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-45-44/GB-456000-444000-14.xml</id><title type="text"> Entry: pages-GB-45-44 GB-456000-444000-14</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-45-44/GB-456000-444000-14.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-45-44/GB-456000-444000-14.xml/1" rel="edit" /><as:entryId>GB-456000-444000-14</as:entryId><as:updateIndex>290921</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T17:54:25.000Z</updated><published>2011-05-02T17:54:25.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-456000-444000</dblock_id>
+		<year>1986</year>
+		<title>14TRANSPORT_TRAFFIC COUNTS</title>
+		<content> This chart shows the amount of river  
+ traffic on the River Ouse going North 
+ and South on 25th June 1985 at 2.15pm 
+ to 2.45pm.                            
+                NORTH      SOUTH       
+ Small Cruiser  1          1           
+ Dredgers       1          0           
+ Barges         1          0           
+     TOTAL      3          1           
+                                       
+ This chart shows the amount of railway
+ traffic travelling on the railway.We  
+ made the count on Thursday 20th June  
+ 1985 at 1.15pm to 2.15pm.             
+                                       
+             NORTH      SOUTH          
+ Diesel(coal) 2          2             
+ 125          4          3             
+ Goods        1          0             
+ Passenger    2          6             
+    TOTAL     9          11            
+                                       </content>
+	</page></content></entry>

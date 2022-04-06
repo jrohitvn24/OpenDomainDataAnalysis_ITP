@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-53-21/GB-536000-216000-16.xml</id><title type="text"> Entry: pages-GB-53-21 GB-536000-216000-16</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-53-21/GB-536000-216000-16.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-53-21/GB-536000-216000-16.xml/1" rel="edit" /><as:entryId>GB-536000-216000-16</as:entryId><as:updateIndex>183003</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T21:30:29.000Z</updated><published>2011-04-30T21:30:29.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-536000-216000</dblock_id>
+		<year>1986</year>
+		<title>16THE A.10 THROUGH HIGH CROSS.</title>
+		<content> The main London to Cambridge road,the 
+ A.10,runs through the village of High 
+ Cross. The village probably owes its  
+ existence to this road,as it is an    
+ historic routeway. In Roman times it  
+ was known as Ermine St. However,today 
+ the road splits the village in two. At
+ certain times of the day it is almost 
+ impossible to cross because of the    
+ constant traffic. We carried out a    
+ traffic survey to show how serious the
+ problem is:                           
+                                       
+ PER HR.| bike | car | van | hgv. |TOT.
+ -------|------|-----|-----|------|----
+{N.bound|  60  | 864 |  60 |  24  |1008
+ -------|------|-----|-----|------|----
+ S.bound|  56  | 823 |  76 |  28  | 983
+ -------|------|-----|-----|------|----
+{TOTAL  |  116 | 1687|  136|  52  |1991
+ -------|------|-----|-----|------|----
+ Many locals would welcome a by-pass!. </content>
+	</page></content></entry>

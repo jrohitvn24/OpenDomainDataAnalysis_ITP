@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-45-28/GB-452000-288000-17.xml</id><title type="text"> Entry: pages-GB-45-28 GB-452000-288000-17</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-45-28/GB-452000-288000-17.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-45-28/GB-452000-288000-17.xml/1" rel="edit" /><as:entryId>GB-452000-288000-17</as:entryId><as:updateIndex>340929</as:updateIndex><as:revision>0</as:revision><updated>2011-05-04T10:18:08.000Z</updated><published>2011-05-04T10:18:08.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-452000-288000</dblock_id>
+		<year>1986</year>
+		<title>17HOUSING</title>
+		<content>{Age of housing (years)}               
+                                       
+   Under 5: 4           5-10:   6      
+     10-20: 7          20-50:   7      
+    50-100: 11      Over 100:   7      
+                                       
+{Description of house                  
+                                       
+   Detached:      21  Cottage:  4      
+   Semi-detached: 12  Bungalow: 2      
+   Terraced:      2   Flat:     0      
+   Farmhouse:     1                    
+                                       
+{Ownership                             
+                                       
+   Mortgaged: 38  Rented: 3  Tithed: 0 
+   Housing included with business:   1 
+                                       
+                                       
+{These results are based on 42 or 72%  
+{of surveys returned to Class 2.       
+                                       </content>
+	</page></content></entry>

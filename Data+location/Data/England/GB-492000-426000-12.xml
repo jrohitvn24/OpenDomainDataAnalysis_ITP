@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-49-42/GB-492000-426000-12.xml</id><title type="text"> Entry: pages-GB-49-42 GB-492000-426000-12</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-49-42/GB-492000-426000-12.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-49-42/GB-492000-426000-12.xml/1" rel="edit" /><as:entryId>GB-492000-426000-12</as:entryId><as:updateIndex>203261</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T23:01:18.000Z</updated><published>2011-04-30T23:01:18.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-492000-426000</dblock_id>
+		<year>1986</year>
+		<title>12TRANSPORT METHODS OF TRAVEL</title>
+		<content> These are surveys taken from a sample 
+ of 100 families in the study area     
+ concerning methods of travel.         
+ Distance      Father    Mother        
+ Over 20km      8%          0%         
+ 11_20km       48%         17%         
+ under 10km     9%         16%         
+ Local area    28%         26%         
+ Retired        7%         41%         
+                                       
+ Mode of travel:                       
+         Car Bus Train Air Cycle Walk  
+ Father  80%  -    1%   2%  11%   6%   
+ Mother  38%  2%   2%   -    9%   4%   
+                                       
+ Cars per household: 4=1%, 3=1%, 2=39%,
+                     1=54%, 0=7%       
+                                       
+ Use of Public Transport:              
+         Always   Occasional  Never    
+ Train     7%         62%      31%     
+ Bus       1%         43%      56%     </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-36-82/GB-360000-828000-19.xml</id><title type="text"> Entry: pages-GB-36-82 GB-360000-828000-19</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-36-82/GB-360000-828000-19.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-36-82/GB-360000-828000-19.xml/2" rel="edit" /><as:entryId>GB-360000-828000-19</as:entryId><as:updateIndex>160259</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T17:54:15.000Z</updated><published>2011-04-30T17:54:15.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-360000-828000</dblock_id>
+		<year>1986</year>
+		<title>19Organisations in Insch.</title>
+		<content>{Club Name       Members   Meeting Time
+{--------------------------------------
+ Baby Sitting      21      Fri. Comm.  
+ Circle.                    Centre.    
+ Jessiman's        65      Thur.Rothney
+ Dancing School.            Arms.      
+ C.of S. Womans    65      Second Tues.
+ Guild.                    every month.
+ Cubs.             44      Wed.Comm.   
+                           Centre.     
+ Boxing Club.      30      Thur.School 
+                           Hall.       
+ Football Club.    26      Tues.park.  
+ Badminton Club.   30      Mon.Wed.Fri.
+ Bowling Club.     30      Bowling     
+                           Green.      
+ Insch Brownies.   21      Comm.Centre.
+ Bridge Club.      30      Wed.Oct_Apr.
+ Young Wives.      25      Comm.Centre.
+ Golf Club.       300      Committee   
+                           meets every 
+                           month.      </content>
+	</page></content></entry>

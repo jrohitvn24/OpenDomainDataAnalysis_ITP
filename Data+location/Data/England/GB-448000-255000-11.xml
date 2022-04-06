@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-44-25/GB-448000-255000-11.xml</id><title type="text"> Entry: pages-GB-44-25 GB-448000-255000-11</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-44-25/GB-448000-255000-11.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-44-25/GB-448000-255000-11.xml/2" rel="edit" /><as:entryId>GB-448000-255000-11</as:entryId><as:updateIndex>251305</as:updateIndex><as:revision>1</as:revision><updated>2011-05-01T16:18:57.000Z</updated><published>2011-05-01T16:18:57.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-448000-255000</dblock_id>
+		<year>1986</year>
+		<title>11Population of Priors Marston</title>
+		<content>{Population}on   Inhabitants        517
+ Sept 7th 1985   Males              263
+                 Females            254
+                 Children under 5    21
+                 Minors under 18     92
+                 Adults             404
+                 Adults over 60     100
+                 Widows              24
+                 Widowers             3
+                 Married couples    109
+{Nationalities }American 4  German    1
+                Austrian 1  Portugese 2
+{Movement}since  Born                 3
+ Jan 1st 1985    Died                 3
+                 Moved into village  36
+                 Left village        33
+        Families here over  5 years 120
+        Families here over 25 years  56
+    Adults born &amp; still living here  32
+ Working abroad &amp; maintaining homes   6
+  Returning to village for weekends   9
+       Adults serving in the Forces   1</content>
+	</page></content></entry>

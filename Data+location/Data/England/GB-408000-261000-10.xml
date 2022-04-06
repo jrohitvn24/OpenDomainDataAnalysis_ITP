@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-40-26/GB-408000-261000-10.xml</id><title type="text"> Entry: pages-GB-40-26 GB-408000-261000-10</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-40-26/GB-408000-261000-10.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-40-26/GB-408000-261000-10.xml/2" rel="edit" /><as:entryId>GB-408000-261000-10</as:entryId><as:updateIndex>272827</as:updateIndex><as:revision>1</as:revision><updated>2011-05-01T22:03:43.000Z</updated><published>2011-05-01T22:02:15.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-408000-261000</dblock_id>
+		<year>1986</year>
+		<title>10Spernall_Reading Habits</title>
+		<content>{Occupation   Daily paper  Library     
+                         { Membership  
+ Farmworker        0       Yes Alcester
+ Bricklayer        1       No          
+ Gamekeeper        1       No          
+ Farmer            0       No          
+ Retired           1       Yes Mobile  
+ Carpenter         0       No          
+ Farmer            1       Yes Studley 
+ Farmer            0       Yes Mobile  
+ Joiner            1       No          
+ Panel beater      0       No          
+ Farm worker       1       Yes Studley 
+ Banker            2       Yes Alcester
+ Metal merchamt    2       No          
+ Retired           1       Yes Alcester
+ Maintenance fitter1       No          
+ Teacher           0       No          
+ Retired farmer    1       Yes Mobile  
+ Farmer            1       Yes Alcester
+ Unemployed        0       Yes Alcester
+ Airline captain   0       YesStratford</content>
+	</page></content></entry>

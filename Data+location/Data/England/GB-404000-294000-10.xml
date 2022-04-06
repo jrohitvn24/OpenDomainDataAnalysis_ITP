@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-40-29/GB-404000-294000-10.xml</id><title type="text"> Entry: pages-GB-40-29 GB-404000-294000-10</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-40-29/GB-404000-294000-10.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-40-29/GB-404000-294000-10.xml/2" rel="edit" /><as:entryId>GB-404000-294000-10</as:entryId><as:updateIndex>319155</as:updateIndex><as:revision>1</as:revision><updated>2011-05-02T20:30:27.000Z</updated><published>2011-05-02T20:28:43.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-404000-294000</dblock_id>
+		<year>1986</year>
+		<title>10   USING COMPUTERS</title>
+		<content> At our local shopping centre there is 
+ a television rental shop which has a {
+{computer-linked till.}Televisions,    
+ videos and tapes are all coded. On the
+ till there is a wand which looks like 
+ a small gun with a light on it. When  
+ you run it over a code the information
+ goes to the micro-computer's memory.  
+ You can scan forwards or backwards,   
+ but you must scan only once for one   
+ credit to a customer's rental account.
+   At six o'clock when all the people  
+ in the shop have gone home, a large   
+ computer rings up the micro-computer  
+ through a modem and collects all the  
+ day's information for processing. Many
+ branches are linked by their computers
+ and managers can check stock at other 
+ shops. This{"Thorntell"}system of     
+ transferring and sorting information  
+ has made running the service much     
+ easier and more efficient.            </content>
+	</page></content></entry>

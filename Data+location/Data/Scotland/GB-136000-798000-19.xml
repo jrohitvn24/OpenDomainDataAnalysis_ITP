@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-13-79/GB-136000-798000-19.xml</id><title type="text"> Entry: pages-GB-13-79 GB-136000-798000-19</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-13-79/GB-136000-798000-19.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-13-79/GB-136000-798000-19.xml/1" rel="edit" /><as:entryId>GB-136000-798000-19</as:entryId><as:updateIndex>133057</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T10:41:11.000Z</updated><published>2011-04-30T10:41:11.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-136000-798000</dblock_id>
+		<year>1986</year>
+		<title>19MONITORING POWER SUPPLY,RHUM</title>
+		<content> Most power is supplied by a 30 kW.    
+ turbine. In addition,a smaller Pelton 
+ wheel turbine, which has been in use  
+ since 1946, was extensively overhauled
+ and coupled to a 15kW., 3 phase brush_
+ less alternator.At the same time, a   
+ sophisticated monitoring and failsafe 
+ control system was installed. This    
+ shuts down the hydro_electric systems 
+ automatically for a variety of reasons
+ ranging from electrical faults and    
+ overloads to a low water reading. As a
+ standby/backup unit, a diesel engine  
+ driving a 30kW 3 phase brushless      
+ alternator is used. This has automatic
+ start_up facility, so will start and  
+ generate electricity automatically, if
+ the hydro systems fail for any reason.
+ This scheme,since commissioning has   
+ functioned well;apart from the inevit_
+ able teething troubles! This cheap,   
+ reliable power benefits the community.</content>
+	</page></content></entry>

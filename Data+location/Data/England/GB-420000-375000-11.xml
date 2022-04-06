@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-42-37/GB-420000-375000-11.xml</id><title type="text"> Entry: pages-GB-42-37 GB-420000-375000-11</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-42-37/GB-420000-375000-11.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-42-37/GB-420000-375000-11.xml/1" rel="edit" /><as:entryId>GB-420000-375000-11</as:entryId><as:updateIndex>267553</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T21:45:54.000Z</updated><published>2011-05-01T21:45:54.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-420000-375000</dblock_id>
+		<year>1986</year>
+		<title>11TOURISM SURVEY RESULTS.</title>
+		<content>{QUESTION 1.                           
+  35% of visitors came because of the  
+ history of the village.               
+ 40% were on holiday in the area.      
+ 25% came for other reasons.           
+{QUESTION 2.                           
+  55% came from the immediate area,thst
+ is South Yorkshire,Manchester,        
+ Derbyshire and Nottinghamshire.       
+ 30% came from other areas of the      
+ British Isles.                        
+ 15% came from abroad.                 
+{QUESTION 3                            
+  20% came by coach.                   
+  10% came on foot                     
+  70% came by motor-car.               
+{QUESTION 4                            
+ .65% were making their first visit.   
+  35% were coming on a return visit.   
+{QUESTION 5.                           
+  50% yes because of the countryside.  
+  50% no-too few amenities.            </content>
+	</page></content></entry>

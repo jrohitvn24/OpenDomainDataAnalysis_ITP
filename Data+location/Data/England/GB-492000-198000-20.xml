@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-49-19/GB-492000-198000-20.xml</id><title type="text"> Entry: pages-GB-49-19 GB-492000-198000-20</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-49-19/GB-492000-198000-20.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-49-19/GB-492000-198000-20.xml/4" rel="edit" /><as:entryId>GB-492000-198000-20</as:entryId><as:updateIndex>200423</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T22:59:52.000Z</updated><published>2011-04-30T22:49:39.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-492000-198000</dblock_id>
+		<year>1986</year>
+		<title>20LOGO at the Beacon School</title>
+		<content>{Some pupils' views.}                  
+    Logo as a language is both useful  
+ and interesting. Learning to write    
+ LOGO programs on the computer can help
+ you understand how to solve problems. 
+ Amazing graphics can be produced with 
+ very simple procedures. The beauty of 
+ LOGO is that even the youngest child  
+ can learn to use it.                  
+    Anyone can make very artistic      
+ patterns with LOGO. Once the use of   
+ procedures has been tackled, it is    
+ easy to produce patterns and pictures.
+ It is no use thinking that you can    
+ draw a hand in 5 minutes. A lot of    
+ time has to be taken working out      
+ angles and distances. Quite simply,   
+ LOGO is drawing with maths.           
+{ TO SPIRAL  :length  :angle  :inc     
+{   FD  :length   RT  :angle           
+{   SPIRAL (:length + :inc) :angle :inc
+{ END                                  </content>
+	</page></content></entry>

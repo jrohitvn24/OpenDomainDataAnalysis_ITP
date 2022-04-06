@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-44-38/GB-448000-387000-19.xml</id><title type="text"> Entry: pages-GB-44-38 GB-448000-387000-19</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-44-38/GB-448000-387000-19.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-44-38/GB-448000-387000-19.xml/2" rel="edit" /><as:entryId>GB-448000-387000-19</as:entryId><as:updateIndex>268883</as:updateIndex><as:revision>1</as:revision><updated>2011-05-01T21:51:47.000Z</updated><published>2011-05-01T21:49:50.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-448000-387000</dblock_id>
+		<year>1986</year>
+		<title>19Traffic Count Figures</title>
+		<content> These figures are taken from the      
+ traffic count done on June 20th,1985. 
+ The count was done over a 15 minute   
+ period from 11.30 to 11.45am.         
+                                       
+{M18     Northbound   Southbound    %} 
+ Cars        148          156      51  
+ Artic.Lorr.  79           49      22  
+ Lorries      24           73      16  
+ Large Vans   10           22       5  
+ Small Vans   12           13       4  
+ Others        4            4       2  
+                                       
+{B6060    Westbound    Eastbound    %} 
+ Cars         50           44      74  
+ Artic.Lorr.   -            1       1  
+ Lorries       6            1       5  
+ Large Vans    3            3       5  
+ Small Vans    4            8      10  
+ Others        3            4       5  
+                                       
+                                       </content>
+	</page></content></entry>

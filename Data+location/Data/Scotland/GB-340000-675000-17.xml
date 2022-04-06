@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-34-67/GB-340000-675000-17.xml</id><title type="text"> Entry: pages-GB-34-67 GB-340000-675000-17</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-34-67/GB-340000-675000-17.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-34-67/GB-340000-675000-17.xml/1" rel="edit" /><as:entryId>GB-340000-675000-17</as:entryId><as:updateIndex>246547</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T13:00:22.000Z</updated><published>2011-05-01T13:00:22.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-340000-675000</dblock_id>
+		<year>1986</year>
+		<title>17TRANSPORT</title>
+		<content> Over a 1 hour period of study for each
+ of the A198 inland road and B1348     
+ coast road passing through the area   
+ the {VOLUME}and {TYPES} of traffic    
+ moving E-W and W-E {DIRECTIONS} were  
+            A198             B1348     
+            E-W   W-E        E-W    W-E
+ CARS       130   90         181    54 
+ LORRIES     22   22          17    15 
+ VANS        24   13          30    36 
+ BUSES        2    3           2     4 
+ CARAVANS     4    1           0     0 
+ M/CYCLES     2    0           8     9 
+ CYCLES       1    1           4     4 
+ TRACTORS     1    0           0     0 
+ L/ROVERS     2    0           0     0 
+ FORKLIFTS    1    0           0     0 
+ DUSTCART     0    0           4     1 
+ AMBULANCE    0    0           0     1 
+            189  130         246   124 
+                                       
+                                       </content>
+	</page></content></entry>

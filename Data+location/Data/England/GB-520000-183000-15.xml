@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-52-18/GB-520000-183000-15.xml</id><title type="text"> Entry: pages-GB-52-18 GB-520000-183000-15</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-52-18/GB-520000-183000-15.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-52-18/GB-520000-183000-15.xml/2" rel="edit" /><as:entryId>GB-520000-183000-15</as:entryId><as:updateIndex>206165</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T23:15:36.000Z</updated><published>2011-04-30T23:13:03.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-520000-183000</dblock_id>
+		<year>1986</year>
+		<title>15LANGUAGE: A NEASDEN SURVEY</title>
+		<content>{Northview School,}a primary school in 
+ Neasden did a survey of the languages 
+ spoken by children at the school.166  
+ children were included in the survey  
+ and these are the results :-          
+                                       
+{ENGLISH   }166       {GREEK      }2   
+{GUJERATI   }45       {HINDI      }2   
+{URDU       }16       {PORTUGUESE }2   
+{PUNJABI    }10       {TURKISH    }2   
+{CARRIBEAN/            FARSI      }1   
+{CREOLES     }6       {FRENCH     }1   
+{ARABIC      }4       {SINDI      }1   
+{TAMIL       }4       {SWEDISH    }1   
+{YARUBA      }3       {TWI        }1   
+                                       
+{17 languages}are spoken by the        
+ children of Northview school. Many    
+ children speak two languages and there
+ are some who can speak more than that.
+ We think it is great to have friends  
+ from so many different backgrounds.   </content>
+	</page></content></entry>

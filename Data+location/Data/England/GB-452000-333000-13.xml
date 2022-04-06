@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-45-33/GB-452000-333000-13.xml</id><title type="text"> Entry: pages-GB-45-33 GB-452000-333000-13</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-45-33/GB-452000-333000-13.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-45-33/GB-452000-333000-13.xml/1" rel="edit" /><as:entryId>GB-452000-333000-13</as:entryId><as:updateIndex>297369</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T19:04:29.000Z</updated><published>2011-05-02T19:04:29.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-452000-333000</dblock_id>
+		<year>1986</year>
+		<title>13CLIFTON PARENTS OCCUPATIONS</title>
+		<content>                {    MALE        FEMALE
+{SKILLED}             47            3  
+                                       
+{UNSKILLED          } 25           30  
+{                                      
+{PROFESSIONAL        }18            7  
+{                                    } 
+{SHOP WORKERS         }4            7  
+{                                      
+{WHITE COLLAR         }2            2  
+{                                      
+{OFFICE             }  4           11  
+{                                      
+{SERVICE INDUSTRIES  }13           __  
+{                                      
+{BOOTS(the Chemist) }  5            8  
+{                                      
+{PLAYERS(Tabacco)   }  6            5  
+{                                      
+{RALIEGH              }1           __  
+                                       
+                                       </content>
+	</page></content></entry>

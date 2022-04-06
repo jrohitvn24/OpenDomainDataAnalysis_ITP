@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-24-63/GB-248000-636000-2.xml</id><title type="text"> Entry: pages-GB-24-63 GB-248000-636000-2</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-24-63/GB-248000-636000-2.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-24-63/GB-248000-636000-2.xml/4" rel="edit" /><as:entryId>GB-248000-636000-2</as:entryId><as:updateIndex>118785</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T08:18:38.000Z</updated><published>2011-04-30T08:10:31.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-248000-636000</dblock_id>
+		<year>1986</year>
+		<title>02LAND COVER -  GALSTON</title>
+		<content> 02480638 _ FARMLAND (11)              
+ 02490638 _ FARMLAND (11)              
+ 02500638 _ EXTRACTIVE INDUSTRY (18)   
+ 02510638 _ FARMLAND (11)              
+ 02480637 _ PRIMARY (11)               
+            SECONDARY (15)             
+ 02490637 _ FARMLAND (11)              
+ 02500637 _ URBAN (08)                 
+ 02510637 _ PRIMARY (14)               
+            SECONDARY (08)             
+ 02480636 _ PRIMARY (11)               
+            SECONDARY (13)             
+ 02490636 _ RESIDENTIAL (01)           
+ 02500636 _ RESIDENTIAL (01)           
+ 02510636 _ FARMLAND (11)              
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

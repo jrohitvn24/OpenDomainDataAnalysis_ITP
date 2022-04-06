@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-28-19/GB-284000-198000-1.xml</id><title type="text"> Entry: pages-GB-28-19 GB-284000-198000-1</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-28-19/GB-284000-198000-1.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-28-19/GB-284000-198000-1.xml/1" rel="edit" /><as:entryId>GB-284000-198000-1</as:entryId><as:updateIndex>234985</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T11:00:33.000Z</updated><published>2011-05-01T11:00:33.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-284000-198000</dblock_id>
+		<year>1986</year>
+		<title>01POPULATION</title>
+		<content> The village of Glyncorrwg is contained
+ in our block.It has a population of{  
+{1059.}We made our census count by     
+ asking {ten }questions:               
+{1.}Males over '65'{ }              {54
+{2.}Females over '60'{    }        {116
+{3.}Males over '18' but under '65'{ 289
+{4.}Females over '18' but under'60'{320
+{5.}Males over '16' but under '18'  {17
+{6.}Females over '16' but under '18'{14
+{7.}Males over '5' but under '16'   {81
+{8.}Females over '5' but under '16' {96
+{9.}Males under '5'                 {34
+{10.}Females under '5'              {38
+                                       
+                            TOTAL {1059
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

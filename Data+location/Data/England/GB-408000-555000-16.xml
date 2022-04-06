@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-40-55/GB-408000-555000-16.xml</id><title type="text"> Entry: pages-GB-40-55 GB-408000-555000-16</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-40-55/GB-408000-555000-16.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-40-55/GB-408000-555000-16.xml/1" rel="edit" /><as:entryId>GB-408000-555000-16</as:entryId><as:updateIndex>279459</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T08:00:01.000Z</updated><published>2011-05-02T08:00:01.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-408000-555000</dblock_id>
+		<year>1986</year>
+		<title>16Traffic Survey</title>
+		<content> TIME  CARS  BUSES  LORRIES  LEFT      
+ 8-9   447   21      39      51        
+ 9-10  501   24      46      24        
+ 10-11 330   11      40      21        
+ 11-12 280   10      39      23        
+ 12-1  298   14      51      27        
+ 1-2   406    8      50      27        
+ 2-3   330   11      73      28        
+ 3-4   465   18      57      40        
+ 4-5   440   26      29      29        
+ 5-6   482   12      19      24        
+                                       
+ The busiest time for cars was between 
+{9-10a.m.}when{501}cars passed our     
+ check-point.The average number of     
+                                       
+          Cars      397.9              
+          Lorries    44.3              
+          Buses      14.5              
+          Left       29.5              
+ per hour                              
+                                       </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-NI-33-36/NI-332000-366000-3.xml</id><title type="text"> Entry: pages-NI-33-36 NI-332000-366000-3</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-NI-33-36/NI-332000-366000-3.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-NI-33-36/NI-332000-366000-3.xml/1" rel="edit" /><as:entryId>NI-332000-366000-3</as:entryId><as:updateIndex>231417</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T10:33:15.000Z</updated><published>2011-05-01T10:33:15.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>NI-332000-366000</dblock_id>
+		<year>1986</year>
+		<title>03STATISTICS 2</title>
+		<content>{HOUSING                               
+ *******                               
+{______________________________________
+  DETACHED                369          
+ SEMI-DETACHED            327          
+ BUNGALOW                 362          
+ TERRACED                 212          
+ MULTI-STOREY             132{         
+{ ____________________________________ 
+{FARMS                                 
+ *****                                 
+{_____________________________________ 
+  NUMBER             ACREAGE           
+{_____________________________________ 
+  1                   80               
+  2                   54               
+  3                   80               
+  4                   64               
+  5                  300               
+  6                  150               
+  7                   20               
+{_____________________________________ </content>
+	</page></content></entry>

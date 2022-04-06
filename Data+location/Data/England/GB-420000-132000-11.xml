@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-42-13/GB-420000-132000-11.xml</id><title type="text"> Entry: pages-GB-42-13 GB-420000-132000-11</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-42-13/GB-420000-132000-11.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-42-13/GB-420000-132000-11.xml/2" rel="edit" /><as:entryId>GB-420000-132000-11</as:entryId><as:updateIndex>240811</as:updateIndex><as:revision>1</as:revision><updated>2011-05-01T11:53:43.000Z</updated><published>2011-05-01T11:50:16.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-420000-132000</dblock_id>
+		<year>1986</year>
+		<title>11TOYS OF 7 YEAR OLDS</title>
+		<content> GUIDE TO TOYS LIKED BY 7 YEAR OLDS.   
+{TOY            NO. OF CHILDREN        
+  SC   | * * * * * * * * * * * *       
+  CA   | * * * * * * * * * *           
+  TR   | * * * * * * * *               
+  CT   | * * * * * *                   
+  CS   | * * * *                       
+  AM   | * * * *                       
+  ZD   | * * * *                       
+  LP   | * *                           
+  AT   | * *                           
+  TS   | * *                           
+  SW   | * *                           
+  SD   | * *                           
+  SH   | * *                           
+  {KEY:-}SC=SCALEXTRIC, CA=CARE BEARS, 
+ TR=TRANSFORMERS, CT=CUDDLY TOYS,      
+ CS=CARS, AM=ACTION MEN, ZD=ZOIDS,     
+ LP=MY LITTLE PONY, AT=A-TEAM,         
+ TS=TRAINS, SW=STAR WARS, SD=SOLDIERS, 
+ SH=STREET-HAWK                        
+                                       </content>
+	</page></content></entry>

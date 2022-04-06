@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-42-10/GB-428000-108000-1.xml</id><title type="text"> Entry: pages-GB-42-10 GB-428000-108000-1</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-42-10/GB-428000-108000-1.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-42-10/GB-428000-108000-1.xml/3" rel="edit" /><as:entryId>GB-428000-108000-1</as:entryId><as:updateIndex>240251</as:updateIndex><as:revision>2</as:revision><updated>2011-05-01T11:53:27.000Z</updated><published>2011-05-01T11:49:55.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-428000-108000</dblock_id>
+		<year>1986</year>
+		<title>01Opinion polls</title>
+		<content> 1.Do you live in{Lyndurst}     22y 78n
+{"YES" GOTO Q? 2>>>  "NO" GOTO Q? 11>>>
+ 2.Did you {go }to {the school }10y 12n
+ 3.Did your parents live here    8y 14n
+ 4.Did they go to the school     2y 20n
+ 5.Is a{by pass }needed         19y  3n
+ 6.Do you{work}in Lyndhurst     12y 10n
+ 7.Are you{happy}with the{shops}15y  7n
+ 8.Are you{happy}with{tourists}  9y 13n
+ 9.{Happy}with{community life}  18y 14n
+ 10{Happy}with{public transport} 5y 17n
+ 11{Live}in the{British Isles}  74y  4n
+ 12{Staying}in Lyn.{overnight } 11y 67n
+ 13{Camping or caravaning }     17y 61n
+ 14{Been}to Lyndhurst {before } 58y 20n
+ 15 Is a{by pass needed }       65y 13n
+ 16{Happy}with the {shops}      69y  9n
+ 17{Happy}with{public transport}30y 58n
+ 18{Happy}with {local people }  78y  0n
+ 19{Happy}with{public services }70y  8n
+ 20 Do you {work}in Lyn.         8y 70n
+{We leave you to work out the details! </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-50-24/GB-500000-246000-10.xml</id><title type="text"> Entry: pages-GB-50-24 GB-500000-246000-10</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-50-24/GB-500000-246000-10.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-50-24/GB-500000-246000-10.xml/2" rel="edit" /><as:entryId>GB-500000-246000-10</as:entryId><as:updateIndex>293091</as:updateIndex><as:revision>1</as:revision><updated>2011-05-02T18:25:23.000Z</updated><published>2011-05-02T18:15:27.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-500000-246000</dblock_id>
+		<year>1986</year>
+		<title>10KEMPSTON SHOPPING SURVEY</title>
+		<content>{A COMPARISON OF 2 SHOPPING CENTRES.   
+ &lt; % refer to those answering YES>     
+{  A = Springfield Centre              
+{  B = Saxon Centre &lt;Sainsbury Store>  
+                         {     A    B  
+ 1.Are these your local shops?{88   59 
+ 2.Do you shop daily?         {37   16 
+               twice weekly?  {33   17 
+               weekly?        {19   27 
+               monthly?       {11   40 
+ 3.Is this your main shopping  {       
+   area?                      {51   78 
+ 4.Would you travel further to {       
+   buy cheaper goods?         {47   22 
+ 5.Are supermarkets cheaper?  {98   85 
+ 6.Do you get good value here?{98  100 
+ 7.Does easy parking influence {       
+   you?                       {65   85 
+ 8.Would you shop here on      {       
+   Sundays?                   {65   34 
+ 9.Is service Excell./Good {13/47 22/71
+              Fair/Poor    {40/ 0  7/ 0</content>
+	</page></content></entry>

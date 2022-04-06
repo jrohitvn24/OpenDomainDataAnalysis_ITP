@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-30-70/GB-308000-702000-9.xml</id><title type="text"> Entry: pages-GB-30-70 GB-308000-702000-9</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-30-70/GB-308000-702000-9.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-30-70/GB-308000-702000-9.xml/1" rel="edit" /><as:entryId>GB-308000-702000-9</as:entryId><as:updateIndex>109915</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T07:32:02.000Z</updated><published>2011-04-30T07:32:02.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-308000-702000</dblock_id>
+		<year>1986</year>
+		<title>09Climate</title>
+		<content>{     MIN  MAX   RAIN MAX MIN SNOW SUN 
+                                       
+{1976}6.9  21.2  732  Oct Jun  44  3.7 
+                                       
+{1977}4.1  19.4  826  Feb Apr  30  3.9 
+                                       
+{1978}3.4  18.2  836  Dec Oct  64  3.6 
+                                       
+{1979}2.6  19.8  680  Dec Feb  72  3.8 
+                                       
+{1980}3.8  18.7  807  Jun Apr  36  3.5 
+                                       
+{1981}6.2  20.0  692  Sep Aug  46  4.0 
+      ________________________________ 
+{AVE. 4.5  19.6  762   -   -   49  3.8 
+      ________________________________ 
+ Temperatures celsius,rain year mm,rain
+ months of max &amp; min,days snow lying at
+ 9am,sunshine daily average hours.All  
+ figures for Cupar.Average rain Loch   
+ Leven 1961-74=846mm,which is wetter   
+ than Cupar,the nearest Met. station.  </content>
+	</page></content></entry>

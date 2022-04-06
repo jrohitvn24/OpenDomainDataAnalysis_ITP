@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-32-26/GB-328000-264000-20.xml</id><title type="text"> Entry: pages-GB-32-26 GB-328000-264000-20</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-32-26/GB-328000-264000-20.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-32-26/GB-328000-264000-20.xml/1" rel="edit" /><as:entryId>GB-328000-264000-20</as:entryId><as:updateIndex>291905</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T18:09:03.000Z</updated><published>2011-05-02T18:09:03.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-328000-264000</dblock_id>
+		<year>1986</year>
+		<title>20Leisure survey data 2</title>
+		<content> ACTIVITY       FREQ  OFT  RARELY NEVER
+                 %     %      %     %  
+                                       
+ WORK                                  
+                                       
+ At home        74.2   9.1   7.4   9.0 
+ On the farm    28.5   5.1   5.1  61.1 
+ Other          30.2   8.5  18.8  42.4 
+                                       
+ VISUAL                                
+                                       
+ Watching TV    86.2   5.1     0   8.5 
+ Videos         35.4  20.0  17.7  26.8 
+ Computer       23.4   8.5  23.4  45.1 
+ Cinema          2.2   4.5  46.8  42.2 
+                                       
+ CARING         78.2   9.1   7.4   5.1 
+                                       
+ OTHER          62.8  16.5  12.5   8.0 
+                                       
+ Compiled by L.Ash,S.Spencer,C.Townsend
+                          and W.Johnson</content>
+	</page></content></entry>

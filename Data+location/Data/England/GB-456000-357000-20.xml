@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-45-35/GB-456000-357000-20.xml</id><title type="text"> Entry: pages-GB-45-35 GB-456000-357000-20</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-45-35/GB-456000-357000-20.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-45-35/GB-456000-357000-20.xml/1" rel="edit" /><as:entryId>GB-456000-357000-20</as:entryId><as:updateIndex>297817</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T19:04:47.000Z</updated><published>2011-05-02T19:04:47.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-456000-357000</dblock_id>
+		<year>1986</year>
+		<title>20SCIENCE AND TECHNOLOGY</title>
+		<content> Rufford Colliery uses computers for   
+ control schemes and environmental     
+ monitoring.For maximum efficiency and 
+ safety,transducers are fitted to      
+ conveyors to monitor conditions which 
+ are displayed on a V.D.U.If a fault is
+ located,the operator can take early   
+ action so that coal production is     
+ disturbed as little as possible.Trans-
+ ducers analyse gases,the signals being
+ transmitted via data lines to surface 
+ computers.The computers handle control
+ of fans,pumps and methane extraction  
+ plant underground.The computers and   
+ software are made to the colliery's   
+ specification.The system runs with a  
+ master and slave set up so that any   
+ computer can run the whole scheme if  
+ necessary.Access to information and   
+ control is obtained by the control    
+ room operator keying in requirements. 
+                                       </content>
+	</page></content></entry>

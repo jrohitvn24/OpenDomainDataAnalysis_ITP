@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-44-17/GB-448000-171000-17.xml</id><title type="text"> Entry: pages-GB-44-17 GB-448000-171000-17</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-44-17/GB-448000-171000-17.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-44-17/GB-448000-171000-17.xml/5" rel="edit" /><as:entryId>GB-448000-171000-17</as:entryId><as:updateIndex>256727</as:updateIndex><as:revision>4</as:revision><updated>2011-05-01T20:45:40.000Z</updated><published>2011-05-01T20:42:54.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-448000-171000</dblock_id>
+		<year>1986</year>
+		<title>17HERMITAGE TRAFFIC SURVEY 1</title>
+		<content> Results of traffic survey conducted in
+ Hermitage on Monday, June 24th, 1985  
+ from 1430 to 1500.                    
+                                       
+{Total traffic                         
+                                       
+       Newbury Road          180       
+       High Street           161       
+       Hampstead Norris Rd.   83       
+       Priors Court Road      80       
+       Marlston Road          52       
+       Yattendon Road         49       
+                                       
+{Heavy traffic                         
+                                       
+       Newbury Road           26       
+       High Street            13       
+       Hampstead Norris Rd.   13       
+       Priors Court Road      13       
+       Marlston Road           4       
+       Yattendon Road          1       
+                                       </content>
+	</page></content></entry>

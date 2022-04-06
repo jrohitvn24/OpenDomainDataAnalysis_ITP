@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-57-20/GB-572000-204000-10.xml</id><title type="text"> Entry: pages-GB-57-20 GB-572000-204000-10</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-57-20/GB-572000-204000-10.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-57-20/GB-572000-204000-10.xml/1" rel="edit" /><as:entryId>GB-572000-204000-10</as:entryId><as:updateIndex>124613</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T08:39:03.000Z</updated><published>2011-04-30T08:39:03.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-572000-204000</dblock_id>
+		<year>1986</year>
+		<title>10Farming Sandon Lodge</title>
+		<content>{Sandon Lodge Farm,Sandon,Essex,CM2 7SJ
+ Mrs Speakman owns the farm which is   
+ managed by her son Richard Speakman.  
+{Rotation:}A 3 five-year rotation plan 
+ is used. Each five year cycle         
+ introduces a "break crop"(*) to       
+ invigorate the soil.                  
+ 1)    1st year - Oil Seed Rape.       
+       2nd year - Winter wheat 1.      
+       3rd year - Winter wheat 2.      
+       4th year - Peas *               
+       5th year - Winter barley.       
+ 2)    1st year - Winter barley.       
+       2nd year - Oil Seed Rape *      
+       3rd year - Winter Wheat 1.      
+       4th year - Winter Wheat 2.      
+       5th year - Winter Barley/Peas   
+ 3)    1st year - Oil seed Rape        
+       2nd year - Winter wheat 1.      
+       3rd year - Winter wheat 2.      
+       4th year - Peas*                
+       5th year - Winter barley.       </content>
+	</page></content></entry>

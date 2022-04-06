@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-52-12/GB-524000-123000-11.xml</id><title type="text"> Entry: pages-GB-52-12 GB-524000-123000-11</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-52-12/GB-524000-123000-11.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-52-12/GB-524000-123000-11.xml/4" rel="edit" /><as:entryId>GB-524000-123000-11</as:entryId><as:updateIndex>204613</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T23:14:52.000Z</updated><published>2011-04-30T23:10:40.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-524000-123000</dblock_id>
+		<year>1986</year>
+		<title>11LOCAL SURVEY CONT.</title>
+		<content>{DOES ANYONE IN YOUR HOUSEHOLD SMOKE?  
+ Yes:26 No:13                          
+{IF SO,WHAT KIND OF THING?             
+ Cigarettes:18 Cigars:7 Pipe:7         
+{DOES ANYONE IN YOUR HOUSEHOLD SUFFER  
+{FROM HAYFEVER?                        
+ Yes:16 No:23                          
+{WHICH LOCAL PAPER DO YOU HAVE?        
+ Mid Sussex Times:31 Evening Argus:2   
+ W.Sussex County Times:5               
+{DO YOU HAVE A SUNDAY PAPER?           
+ Yes:32 No:8                           
+{DO YOU GO TO YOUR LOCAL CHURCH?       
+ Never:19 Sometimes:18 Regularly:4     
+{HOW MANY CARS ARE THERE IN YOUR HOUSE?
+ One:13 Two:20 Three:6 Or more:3       
+{WHAT FUEL DO YOU COOK WITH?           
+ Gas:3 Electricity:33 Others:10        
+{ARE THERE ANY VEGETARIANS IN YOUR     
+{HOUSE?}Yes:4 No:38                    
+{DO YOU EVER BAKE BREAD OR CAKES?      
+ Sometimes:20 Never:4 A lot:14         </content>
+	</page></content></entry>

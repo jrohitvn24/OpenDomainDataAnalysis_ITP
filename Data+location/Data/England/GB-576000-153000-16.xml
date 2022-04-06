@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-57-15/GB-576000-153000-16.xml</id><title type="text"> Entry: pages-GB-57-15 GB-576000-153000-16</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-57-15/GB-576000-153000-16.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-57-15/GB-576000-153000-16.xml/4" rel="edit" /><as:entryId>GB-576000-153000-16</as:entryId><as:updateIndex>123845</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T08:38:42.000Z</updated><published>2011-04-30T08:35:22.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-576000-153000</dblock_id>
+		<year>1986</year>
+		<title>16HOUSE SURVEY OF BEARSTED</title>
+		<content> A HOUSE SURVEY ALONG A SECTOR EAST    
+ FROM MAIDSTONE.                       
+                                       
+{TYPES        TQ7755  TQ7855  TQ7955   
+{BUNGALOWS}                            
+ DETACHED       01      65     281     
+ SEMI-DET.      00      92      73     
+{CHALET-BUNG.                          
+ DETACHED       00      68      29     
+ SEMI-DET.      00      54      56     
+{HOUSES}                               
+ DETACHED       54     102     342     
+ SEMI-DET.      30     151     423     
+ TERRACED       16      30      34     
+ FLATS          76      00      07     
+                                       
+ (Compiled by classes 4/C, 4/X and 4/B,
+  Roseacre Junior School)              
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

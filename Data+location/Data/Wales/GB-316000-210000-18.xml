@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-31-21/GB-316000-210000-18.xml</id><title type="text"> Entry: pages-GB-31-21 GB-316000-210000-18</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-31-21/GB-316000-210000-18.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-31-21/GB-316000-210000-18.xml/2" rel="edit" /><as:entryId>GB-316000-210000-18</as:entryId><as:updateIndex>177909</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T21:20:32.000Z</updated><published>2011-04-30T21:20:32.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-316000-210000</dblock_id>
+		<year>1986</year>
+		<title>18Language</title>
+		<content>{LANGUAGE }                            
+ The Welsh language predominated until 
+ the middle of the 19th century when   
+ there was a large influx of English   
+ speaking workers. The local place     
+ names are mainly Welsh origin.        
+                                       
+ Nantyglo - coalstream                 
+ Brynmawr - big hill                   
+ Garnlydan - wide stony mound          
+ Ebbw Vale - vale of gushing water     
+ Rhyd-y-Blew - grassy ford             
+ Glyncoed - wooded valley              
+ Glanyrafon - river bank               
+ Coedcae - field of trees              
+ Twyncynghordy - assembly house hillock
+ Waungoch - red meadow                 
+ Blaen-cwm - head of valley            
+ Blaenau Gwent - valley heads of Gwent 
+ Garn Fach - little heap of stones     
+ Pont-y-Gof - blacksmith's bridge      
+                                       </content>
+	</page></content></entry>

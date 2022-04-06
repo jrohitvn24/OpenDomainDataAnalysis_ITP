@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-54-23/GB-548000-234000-6.xml</id><title type="text"> Entry: pages-GB-54-23 GB-548000-234000-6</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-54-23/GB-548000-234000-6.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-54-23/GB-548000-234000-6.xml/1" rel="edit" /><as:entryId>GB-548000-234000-6</as:entryId><as:updateIndex>114401</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T07:49:18.000Z</updated><published>2011-04-30T07:49:18.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-548000-234000</dblock_id>
+		<year>1986</year>
+		<title>06SCHOOL TIMETABLE FOR A DAY</title>
+		<content>                                       
+ NEWPORT FREE GRAMMAR SCHOOL -TUESDAY  
+                                       
+ A{typical}timetable for an average 14 
+ year old boy.                         
+           {TIME.}       {LESSON.}     
+            _____         _______      
+ PERIOD 1  9.25-10.00     Physics      
+ PERIOD 2 10.00-10.35     Physics      
+{ break} {10.35-10.50}                 
+ PERIOD 3 10.50-11.25     English      
+ PERIOD 4 11.25-12.00     Maths        
+{ lunch   12.00-13.10}                 
+ PERIOD 5 13.15-13.50     German       
+ PERIOD 6 13.50-14.25     Maths        
+{ break   14.25-14.30                  
+ PERIOD 7 14.30-15.05     Art          
+ PERIOD 8 15.05-15.40     Art          
+ Other subjects in the week; Geography,
+ French, Chemistry, Biology, R.E.,     
+ C.D.T.,P.E.,History,Drama,Music,      
+ Life and Study Skills.                </content>
+	</page></content></entry>

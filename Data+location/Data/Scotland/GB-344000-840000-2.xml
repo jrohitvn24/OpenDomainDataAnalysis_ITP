@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-34-84/GB-344000-840000-2.xml</id><title type="text"> Entry: pages-GB-34-84 GB-344000-840000-2</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-34-84/GB-344000-840000-2.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-34-84/GB-344000-840000-2.xml/1" rel="edit" /><as:entryId>GB-344000-840000-2</as:entryId><as:updateIndex>246805</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T13:00:30.000Z</updated><published>2011-05-01T13:00:30.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-344000-840000</dblock_id>
+		<year>1986</year>
+		<title>02FARMING</title>
+		<content>{FARMING                               
+  Crops                                
+ used:barley,potatoes,turnips,rough+sow
+ n grass,trout,game birds              
+{LOCALS ATTITUDE TO FARMING            
+  Q.Is it good farming here?           
+  A.Yes,good                           
+  Q.Is Glass a very profitable farming 
+ area?                                 
+  A.No,even some farms are selling out.
+  {QUESTIONS ASKED AT FISH FARM        
+{ }Fish:salmon,sea,rainbow+brown trout 
+  Q.Does he fish farm do well?         
+  A. Average.                          
+  Q. What customers are there?         
+  A. Just locals from Huntly,Elgin and 
+ Dufftown.Occasionaly some large orders
+  Q.Does the owner have just one fish  
+ farm?                                 
+  A.Yes,he had one at Elgin before     
+ this.                                 
+                                       </content>
+	</page></content></entry>

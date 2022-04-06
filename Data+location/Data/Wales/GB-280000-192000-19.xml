@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-28-19/GB-280000-192000-19.xml</id><title type="text"> Entry: pages-GB-28-19 GB-280000-192000-19</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-28-19/GB-280000-192000-19.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-28-19/GB-280000-192000-19.xml/1" rel="edit" /><as:entryId>GB-280000-192000-19</as:entryId><as:updateIndex>234885</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T11:00:29.000Z</updated><published>2011-05-01T11:00:29.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-280000-192000</dblock_id>
+		<year>1986</year>
+		<title>19BRYN-TRAFFIC SURVEY.</title>
+		<content> THE TRAFFIC GOING THROUGH THE VILLAGE 
+ WAS STUDIED ON TWO DIFFERENT DAYS;ON  
+ 22/10/84 AND ON 11/3/85.              
+{1.22/10/84-}BETWEEN-11.00a.m.-12.00.  
+   TO PORT TALBOT-   TO MAESTEG-       
+   {CARS}     {=}35 {CARS       =}25   
+   {LORRIES    =}02 {LORRIES    =}04   
+  { VANS       =}03 {VANS       =}05   
+  { MOTORBIKES =}02 {MOTORBIKES =      
+{                                      
+{2.11/3/85- }BETWEEN-1.20p.m.-2.20p.m. 
+   TO PORT TALBOT-   TO MAESTEG-       
+   {CARS       =}85 {CARS       =}95   
+   {LORRIES    =}04 {LORRIES    =}13   
+   {VANS       =}11 {VANS       =}18   
+{   BUS        =}02 {BUS        =}02   
+{   LIBRARY    =}01 {LIBRARY    =}00   
+{   MOTORBIKES =}01 {MOTORBIKES =}01   
+{   CRANE      =}01 {CRANE      =}01   
+   {AMBULANCE  =}01 {AMBULANCE  =}00   
+                                       
+                                       </content>
+	</page></content></entry>

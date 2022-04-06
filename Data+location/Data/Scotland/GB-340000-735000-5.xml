@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-34-73/GB-340000-735000-5.xml</id><title type="text"> Entry: pages-GB-34-73 GB-340000-735000-5</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-34-73/GB-340000-735000-5.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-34-73/GB-340000-735000-5.xml/1" rel="edit" /><as:entryId>GB-340000-735000-5</as:entryId><as:updateIndex>260351</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T20:58:46.000Z</updated><published>2011-05-01T20:58:46.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-340000-735000</dblock_id>
+		<year>1986</year>
+		<title>05CROPPING PATTERNS</title>
+		<content>{HECTARES}       SAMPLE FARMS          
+ ______________________________________
+ CROPS    1     2     3    4     5    %
+ ______________________________________
+ TURNIPS  -     6.2   -    -     -    1
+ SWEDES  16     -     -    -     -    4
+{BARLEY  78.4  37.1  25.3  9.0  41.8 42
+ WHEAT   11.4   -     9.8 10.1   -    7
+ PEAS    11.5   -     -    -     -    3
+ BEANS    6.0   -     -    -     -    1
+ POTATO  13.7   5.8   6.5  5.5   5.0  8
+ P GRASS  -     6.5   -    -     -    1
+{R.GRASS 66.1  12.5  13.8  -    15.4 24
+ OIL RAPE 7.4   -     7.5  -     -    3
+ FRUIT    -     -     -   25.8   -    6
+ ______________________________________
+ TOTALS 210.5  68.1  62.9 50.4  62.2   
+ ______________________________________
+ 1=SHIELHILL  2=CRAIGHILL 3=N.POWRIE   
+ 4=WHITEWALLS 5=MOATMILL               
+ TOTAL AREA OF SAMPLE = 454.1{HECTARES 
+ PERCENTAGES CALCULATED ON TOTAL AREA  </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-56-19/GB-564000-195000-8.xml</id><title type="text"> Entry: pages-GB-56-19 GB-564000-195000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-56-19/GB-564000-195000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-56-19/GB-564000-195000-8.xml/3" rel="edit" /><as:entryId>GB-564000-195000-8</as:entryId><as:updateIndex>187083</as:updateIndex><as:revision>2</as:revision><updated>2011-04-30T21:54:28.000Z</updated><published>2011-04-30T21:41:04.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-564000-195000</dblock_id>
+		<year>1986</year>
+		<title>08BILLERICAY NW Bus Transport.</title>
+		<content>{                                      
+   Buses leave from the station at     
+ regular intervals. Local services     
+ operate at \hour intervals; less      
+ frequently services are run to        
+ Basildon and Chelmsford.              
+                                       
+{Bus no.     Route         Frequency   
+  236     Outwood Common   3 every hour
+  256     Little Burstead  3 a day     
+  255       Basildon       2 a day     
+  234  Downham Wickford    _           
+  235  Ramsden Bellhouse   _ Every     
+  152     Chelmsford       _ Half      
+  153     Chelmsford       _ Hour      
+  154     Chelmsford       _           
+  236  Perry Street   Monday to Friday 
+                      peak period only 
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

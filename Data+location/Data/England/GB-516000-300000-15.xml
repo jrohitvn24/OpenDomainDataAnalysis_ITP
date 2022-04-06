@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-51-30/GB-516000-300000-15.xml</id><title type="text"> Entry: pages-GB-51-30 GB-516000-300000-15</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-51-30/GB-516000-300000-15.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-51-30/GB-516000-300000-15.xml/2" rel="edit" /><as:entryId>GB-516000-300000-15</as:entryId><as:updateIndex>197465</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T22:43:26.000Z</updated><published>2011-04-30T22:43:25.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-516000-300000</dblock_id>
+		<year>1986</year>
+		<title>15TRAFFIC ACCIDENTS</title>
+		<content>   In the grid there were in 1985:-    
+           {89}accidents involving     
+ bikes and motorbikes.                 
+            {0}are fatal,              
+           {15}are serious,            
+           {74}are slight.             
+   There are{16}accidents along the    
+{main Peterborough ring-road.      }   
+   When we surveyed the main road      
+ intersection where the Peterborough   
+ ring road meets the main North/South  
+ Road,these were our results.{         
+{DIRECTION LORRY/VAN BUS CAR BIKE MBIKE
+   NORTH      189     8  920  10   18  
+   SOUTH      150    14  750  11   19  
+   EAST       405     5  890   1    4  
+   WEST       147     3  410   0   21  
+                                       
+   The survey took place on Wednesday  
+ 19th.June 1985 and lasted for one     
+ hour.                                 
+                                       </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-44-29/GB-440000-291000-3.xml</id><title type="text"> Entry: pages-GB-44-29 GB-440000-291000-3</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-44-29/GB-440000-291000-3.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-44-29/GB-440000-291000-3.xml/1" rel="edit" /><as:entryId>GB-440000-291000-3</as:entryId><as:updateIndex>252199</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T16:19:29.000Z</updated><published>2011-05-01T16:19:29.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-440000-291000</dblock_id>
+		<year>1986</year>
+		<title>03MAIN OCCUPATIONS</title>
+		<content>{JOBS OF SKETCHLEY/WESTFIELD PARENTS   
+{MEN FULLTIME                    Sk  W 
+ Factoryworker(hosiery,car,etc)  43  42
+ Engineer                        26   9
+ Director                        12   3
+ Management                      17  15
+ Bank/accountant/executive       41  17
+ Electrician/plumber/builder      9   7
+ Teacher/social worker           15   5
+ Driver                          14  12
+ Police/fireman                   4   4
+ Salesman                        10   5
+ Storeman/gaurd/attendant         0   9
+ --------------------------------------
+{WOMEN F/TIME   Sk   W  P/TIME  Sk  W  
+ Teacher        10   5          12   0 
+ Secretar/clerk  7   5          25   7 
+ Hosiery         5  18          16  20 
+ Shop assistant  1   0          19   8 
+ Cleaner         0   0           5  14 
+ Playgrp/childmi 0   2           3   5 
+ Dinnerlady      0   0           7   3 </content>
+	</page></content></entry>

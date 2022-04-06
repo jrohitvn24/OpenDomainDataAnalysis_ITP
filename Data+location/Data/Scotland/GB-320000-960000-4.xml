@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-32-96/GB-320000-960000-4.xml</id><title type="text"> Entry: pages-GB-32-96 GB-320000-960000-4</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-32-96/GB-320000-960000-4.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-32-96/GB-320000-960000-4.xml/1" rel="edit" /><as:entryId>GB-320000-960000-4</as:entryId><as:updateIndex>324677</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T20:55:23.000Z</updated><published>2011-05-02T20:55:23.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-320000-960000</dblock_id>
+		<year>1986</year>
+		<title>04FARMING</title>
+		<content> QUESTIONNAIRE RESULTS CONTINUED       
+{TRANSPORT                  AVERAGE    
+ Jeep/Truck/Land Rover/Van     1       
+ Tractors                      2       
+ Diggers                       1       
+ 2 wheeled motor bike          0       
+ 3 wheeled motor bike          0       
+ 4 wheled motor bike           o       
+ Fork lift                     0       
+{POULTRY        AVERAGE                
+ Hens              14                  
+ Ducks             1                   
+ Turkeys           0                   
+ Geese             0                   
+{LAND USE       AVERAGE AMOUNT OF ACRES
+ Crops             73                  
+ Grazing           121                 
+ Hill              62                  
+                                       
+{                                      
+{                                      
+                                       </content>
+	</page></content></entry>

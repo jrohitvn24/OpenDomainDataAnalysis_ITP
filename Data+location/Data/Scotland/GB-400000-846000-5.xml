@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-40-84/GB-400000-846000-5.xml</id><title type="text"> Entry: pages-GB-40-84 GB-400000-846000-5</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-40-84/GB-400000-846000-5.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-40-84/GB-400000-846000-5.xml/2" rel="edit" /><as:entryId>GB-400000-846000-5</as:entryId><as:updateIndex>273961</as:updateIndex><as:revision>1</as:revision><updated>2011-05-01T22:04:16.000Z</updated><published>2011-05-01T22:02:50.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-400000-846000</dblock_id>
+		<year>1986</year>
+		<title>05Village Survey</title>
+		<content> 5.Place of work                       
+   Does the head of the household work 
+   in                                  
+                                       
+  {The village  Peterhead  St Fergus   
+  {M 17%        M 14%      or Boddam   
+  {L 24%        L 27%      M 5%        
+                          {L 6%        
+                                       
+  {Aberdeen     Offshore   Other       
+  {M 11%        M 9%       M 25%       
+  {L 5%         L 4%       L 19%       
+                                       
+   Question not relevant{M 19% L 15%   
+                                       
+ 6.Travel to work.Does the head of the 
+   household travel to work by         
+  {                                    
+{  Bus }       {Car        Walk/Other  
+  {M 1%         M 50%      M 28%       
+  {L 2%         L 43%      L 36%       
+                                       </content>
+	</page></content></entry>

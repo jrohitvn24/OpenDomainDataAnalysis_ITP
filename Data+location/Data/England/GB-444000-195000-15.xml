@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-44-19/GB-444000-195000-15.xml</id><title type="text"> Entry: pages-GB-44-19 GB-444000-195000-15</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-44-19/GB-444000-195000-15.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-44-19/GB-444000-195000-15.xml/4" rel="edit" /><as:entryId>GB-444000-195000-15</as:entryId><as:updateIndex>257101</as:updateIndex><as:revision>3</as:revision><updated>2011-05-01T20:45:51.000Z</updated><published>2011-05-01T20:43:49.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-444000-195000</dblock_id>
+		<year>1986</year>
+		<title>15CARS AND TRANSPORT (FIGURES)</title>
+		<content>                                       
+   {NUMBER OF CARS PER HOUSEHOLD}      
+                                       
+   none    13                          
+   1       47                          
+   2       31                          
+   3        7                          
+   4        2                          
+                                       
+   {NUMBER OF JOURNEYS BY ADULTS}      
+                                       
+   by car       1090  (83%)            
+   by motor bike  69  (5%)             
+   by push bike   60  (4.5%)           
+   by bus         90  (6.8%)           
+   by taxi         4  (0.3%)           
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

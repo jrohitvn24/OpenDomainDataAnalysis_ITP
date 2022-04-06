@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-23-63/GB-232000-639000-20.xml</id><title type="text"> Entry: pages-GB-23-63 GB-232000-639000-20</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-23-63/GB-232000-639000-20.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-23-63/GB-232000-639000-20.xml/1" rel="edit" /><as:entryId>GB-232000-639000-20</as:entryId><as:updateIndex>135245</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T10:59:18.000Z</updated><published>2011-04-30T10:59:18.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-232000-639000</dblock_id>
+		<year>1986</year>
+		<title>20Irvine's Birds and Animals.</title>
+		<content> BIRDS:                                
+{Wood Pigeon          Swift            
+{Lapwing              Swan             
+{Black Headed Gull    Cuckoo           
+{Tawny Owl            Kingfisher       
+{Skylark              Wren             
+{Sparrow Hawk         Blue Tit         
+{Magpie               Great Tit        
+{Chaffinch            Starling         
+{Black Bird           Willow Warbler   
+{Thrush               Greenfinch       
+{Pied Wagtail         Sparrow          
+{Robin                Herring Gull     
+{Rook                 Sand Martin      
+{Swallow              House Martin     
+{Kestrel                               
+ ANIMALS:                              
+{Mole                 Fox              
+{Water Vole           Rabbit           
+{Hare                 Deer             
+{Rat                  Badger           
+{Field Mouse          Bat              </content>
+	</page></content></entry>

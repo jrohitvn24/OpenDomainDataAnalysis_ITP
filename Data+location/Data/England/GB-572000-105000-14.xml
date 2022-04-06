@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-57-10/GB-572000-105000-14.xml</id><title type="text"> Entry: pages-GB-57-10 GB-572000-105000-14</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-57-10/GB-572000-105000-14.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-57-10/GB-572000-105000-14.xml/4" rel="edit" /><as:entryId>GB-572000-105000-14</as:entryId><as:updateIndex>123141</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T08:38:24.000Z</updated><published>2011-04-30T08:33:56.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-572000-105000</dblock_id>
+		<year>1986</year>
+		<title>14Bexhill tourist survey 1</title>
+		<content> Taken on Bexhill seafront             
+ Sample number:126                     
+ No. visitors:84   No. Residents:42    
+{VISITORS                              
+{1.Length of stay:                     
+ One day=46 One week=20  One month=13  
+ Longer=5                              
+{2.Distance travelled:                 
+ Locally(&lt;30mls)=24  Under 100 mls=29  
+ Midlands,E.Anglia=14 North,Wales=6    
+ Scotland=6  Abroad=11 (Germany 9,     
+ France 1, Canada 1)                   
+{3.Reason for coming to Bexhill:       
+ Holiday=58  Business=18               
+ Visit friends/family=6                
+{4.No. visits to Bexhill in last 5yrs: 
+ Never=28  Under 2=12  3-5=14  over5=30
+{5.Where staying:                      
+ Not=36  Hotel=8  Guest house=4        
+ Private house=24 Other=12(9 caravan   
+ 3 tent)                               
+                                       </content>
+	</page></content></entry>

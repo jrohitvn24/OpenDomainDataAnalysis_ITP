@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-50-36/GB-504000-369000-2.xml</id><title type="text"> Entry: pages-GB-50-36 GB-504000-369000-2</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-50-36/GB-504000-369000-2.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-50-36/GB-504000-369000-2.xml/1" rel="edit" /><as:entryId>GB-504000-369000-2</as:entryId><as:updateIndex>281503</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T08:28:32.000Z</updated><published>2011-05-02T08:28:32.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-504000-369000</dblock_id>
+		<year>1986</year>
+		<title>02Weather records...June 1985</title>
+		<content>{Date.   Max. Min. Dry. Wet. Rain. Bar.
+ 13th    22c   0c  11c  11c  1mm   975 
+ 14th    13c   7c  10\c  9c  ---   982 
+ 17th    17c   7c  13c  10\c 3mm  {988 
+ 18th   {26c} 11c  13\c 12\c 2mm   983 
+ 19th    17c   9c  14c  13\c ---   983 
+ 20th    24c  10c  13c  11c  ---   983 
+ 21st    21c  11c  12c  11c  2mm   986 
+ 24th    21c  11\c 15c  13\c{10mm} 981 
+ 25th    18c  10c  14c  12c  ---   983 
+ 27th    18c   8c {15c  14c} 8mm   983 
+ 28th    19c {13c  15c} 12c  1mm { 988 
+                                       
+{Max.= maximum temperature             
+{Min.= minimum temperature             
+{Rain= amount of rain(mm)              
+{Bar.= barometer/pressure (Mb)         
+{                                      
+{Highlighted figures show the highest  
+{readings.                             
+{Readings taken at 0900 hrs            
+{       }CONTINUED ON PAGE 3           </content>
+	</page></content></entry>

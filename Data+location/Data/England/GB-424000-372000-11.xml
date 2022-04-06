@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-42-37/GB-424000-372000-11.xml</id><title type="text"> Entry: pages-GB-42-37 GB-424000-372000-11</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-42-37/GB-424000-372000-11.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-42-37/GB-424000-372000-11.xml/1" rel="edit" /><as:entryId>GB-424000-372000-11</as:entryId><as:updateIndex>267593</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T21:45:56.000Z</updated><published>2011-05-01T21:45:56.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-424000-372000</dblock_id>
+		<year>1986</year>
+		<title>11AUDIO AND RADIO SURVEY</title>
+		<content>          RESULTS OF SURVEY            
+{AUDIO                                 
+{   Record / Tape Player : > half      
+{   Tape Cassette Player : > quarter   
+{   Record Player        : a few       
+{   Compact Disc  Player : none}       
+                                       
+{RADIO}                                
+                                       
+ Regular Usage                         
+  Sets     :  1    2    3              
+  Families : 1/8  1/2  1/4 (fraction)  
+                                       
+ Hours per Week                        
+  Largest fractions:                   
+      Hrs      :   &lt;10    11_20        
+      Fraction :   1/3     1/5         
+                                       
+ Radio Stations Received               
+  BBC Radio 1:>1/4  BBC Radio 2:>1/2   
+  BBC Radio 3: 0    BBC Radio 4:few    
+                                       </content>
+	</page></content></entry>

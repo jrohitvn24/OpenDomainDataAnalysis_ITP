@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-45-15/GB-452000-159000-10.xml</id><title type="text"> Entry: pages-GB-45-15 GB-452000-159000-10</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-45-15/GB-452000-159000-10.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-45-15/GB-452000-159000-10.xml/1" rel="edit" /><as:entryId>GB-452000-159000-10</as:entryId><as:updateIndex>289195</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T17:44:28.000Z</updated><published>2011-05-02T17:44:28.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-452000-159000</dblock_id>
+		<year>1986</year>
+		<title>10Employment &amp; Transport</title>
+		<content>    The block graph shows where the    
+ main areas of employment are found.   
+ Access to London is provided by       
+ British Rail from Basingstoke,Newbury 
+ and Reading and the M3  and M4 are    
+ also convenient.                      
+   ====                                
+ 30|  |              A  Local area     
+   |  |              L  London         
+   |  |              B  Basingstoke    
+   |  |              N  Newbury        
+ 20|  |======        R  Reading        
+   |32|  |  |                          
+   |  |  |  |===                       
+   |  |  |  |  |===                    
+ 10|  |21|20|  |  |                    
+   |  |  |  |15|  |                    
+   |  |  |  |  |12|                    
+   |  |  |  |  |  |                    
+   |  |  |  |  |  |                    
+   ________________                    
+     A  L  B  N  R                     </content>
+	</page></content></entry>

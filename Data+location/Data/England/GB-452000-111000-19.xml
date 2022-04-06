@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-45-11/GB-452000-111000-19.xml</id><title type="text"> Entry: pages-GB-45-11 GB-452000-111000-19</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-45-11/GB-452000-111000-19.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-45-11/GB-452000-111000-19.xml/1" rel="edit" /><as:entryId>GB-452000-111000-19</as:entryId><as:updateIndex>288551</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T17:43:58.000Z</updated><published>2011-05-02T17:43:58.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-452000-111000</dblock_id>
+		<year>1986</year>
+		<title>19Employment for Curdridge.</title>
+		<content>     Curdridge is an agricultural area,
+ so we tried to find out how far the   
+ parents of Curdridge school children  
+ travelled each day for work.          
+{m}mother{Places of employment f}father
+                {m  f}             {  f
+ Waltham Chase   1     Gosport {  }   4
+ Bishops Waltham 4  2  Portsmouth     3
+ Park Gate       1  1  Otterbourne    1
+ Boorley Green   1  1  Storrington(S) 1
+ Wickham         2  1  Basingstoke    1
+ Eastleigh       1  2  Titchfield     2
+ Droxford        1     West End       1
+ Botley          3  1  Woolston       1
+ Southampton     3  2  Hamble         1
+ Havant          1     Waterlooville  1
+ Swanmore        1  1  Fawley         1
+ Fareham         1  2  Winchester     3
+ Curdridge       7  4  Whitechurch(B) 1
+ At home         2     Twyford        2
+ Travelling      2     Hursley        1
+ No job         11 (B)-Bucks.(S)-Sussex</content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-31-72/GB-312000-729000-17.xml</id><title type="text"> Entry: pages-GB-31-72 GB-312000-729000-17</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-31-72/GB-312000-729000-17.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-31-72/GB-312000-729000-17.xml/1" rel="edit" /><as:entryId>GB-312000-729000-17</as:entryId><as:updateIndex>180093</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T21:21:44.000Z</updated><published>2011-04-30T21:21:44.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-312000-729000</dblock_id>
+		<year>1986</year>
+		<title>17Transport_ 2. Traffic</title>
+		<content>{Traffic Census in Guildtown.}         
+                                       
+ We took a census of the number of     
+ vehicles going through the village    
+ every day from 9.55am to 10.30am      
+ during the week beginning 22nd April. 
+                                       
+                                       
+           Mon  Tue  Wed  Thu  Fri  Tot
+ Lorries    19    5    9    4    7   44
+ Vans       30   13   10   18   20   91
+ Bicycle     1    0    2    2    1    6
+ Tractors    2    0    4    0    1    7
+ Cars       68   77   71   79  101  396
+ Buses       2    2    2    1    5   12
+                                       
+ Totals    122   97   98  104  135  556
+                                       
+ Average number of vehicles passing in 
+ 30 to 35 minutes was 111.2. Many of   
+ these appeared to exceed the 40mph    
+ speed limit.                          </content>
+	</page></content></entry>

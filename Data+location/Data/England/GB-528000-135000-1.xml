@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-52-13/GB-528000-135000-1.xml</id><title type="text"> Entry: pages-GB-52-13 GB-528000-135000-1</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-52-13/GB-528000-135000-1.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-52-13/GB-528000-135000-1.xml/3" rel="edit" /><as:entryId>GB-528000-135000-1</as:entryId><as:updateIndex>204985</as:updateIndex><as:revision>2</as:revision><updated>2011-04-30T23:15:02.000Z</updated><published>2011-04-30T23:10:52.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-528000-135000</dblock_id>
+		<year>1986</year>
+		<title>01Introduction</title>
+		<content>{                                      
+{                                      
+{                                      
+{Our grid reference number is}05280135 
+{The schools involved in the project   
+{are }Milton Mount First and Middle,   
+ Three Bridges First and Three Bridges 
+ Middle.{In order to simplify the      
+{project it was decided to allocate the
+{schools with squares e.g.             
+{                                      
+{      A-----------------              
+{                                      
+{      B-----------------              
+{                                      
+{      C-----------------              
+{                                      
+{        1   2   3    4                
+{Three Bridges First School were given 
+{squares }A1,B4.{Three Bridges Middle  
+{School}B1,C1,C2,C3andC4.{Milton Mount}
+ A2,A3,B2,B3andA4{                     </content>
+	</page></content></entry>

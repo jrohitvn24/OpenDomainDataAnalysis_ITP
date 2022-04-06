@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-59-22/GB-592000-225000-19.xml</id><title type="text"> Entry: pages-GB-59-22 GB-592000-225000-19</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-59-22/GB-592000-225000-19.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-59-22/GB-592000-225000-19.xml/3" rel="edit" /><as:entryId>GB-592000-225000-19</as:entryId><as:updateIndex>127069</as:updateIndex><as:revision>2</as:revision><updated>2011-04-30T08:53:39.000Z</updated><published>2011-04-30T08:48:09.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-592000-225000</dblock_id>
+		<year>1986</year>
+		<title>19STATISTICS-WEST BERGHOLT</title>
+		<content> (SEE PAGE 17 FOR EXPLANATION)         
+{ LEISURE ACTIVITIES      MALE  FEMALE 
+  SWIMMING(OUTDOOR)       4{24 }4{36   
+  SWIMING(INDOOR)         7{28 }7{40   
+  FISHING                 4{ 0 }0{12   
+  SAILING                 1 {0 }0 {8   
+  FOOTBALL/RUGBY{        }7{ 0 }0{ 8   
+  GOLF                    4 {0 }1 {4   
+  CRICKET                 1{24 }0 {0   
+  TENNIS                  1{12 }1{20   
+  ATHLETICS               3{ 4 }1 {4   
+  KEEP FIT                1 {4 }5{32   
+  CYCLING{               }2{36 }2{44   
+  BADMINTON               2 {8 }2 {8   
+  SQUASH                  4{20 }1{12   
+  TABLE TENNIS            2 {4 }1{20   
+  DARTS                  11{12 }4{ 4   
+  BILLIARDS/SNOOKER      15{12 }2{12   
+  BOWLING/BOWLS           1 {8 }1 {0   
+  RAMBLING/HIKING         1{12} 0{16   
+  WALKING(2 MILES+)      19{48}17{44   
+                                       </content>
+	</page></content></entry>

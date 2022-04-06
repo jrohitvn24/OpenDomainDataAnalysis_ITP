@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-48-10/GB-480000-108000-1.xml</id><title type="text"> Entry: pages-GB-48-10 GB-480000-108000-1</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-48-10/GB-480000-108000-1.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-48-10/GB-480000-108000-1.xml/2" rel="edit" /><as:entryId>GB-480000-108000-1</as:entryId><as:updateIndex>343399</as:updateIndex><as:revision>1</as:revision><updated>2011-05-04T10:51:42.000Z</updated><published>2011-05-04T10:48:28.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-480000-108000</dblock_id>
+		<year>1986</year>
+		<title>01      TRAFFIC SURVEY</title>
+		<content> These are the results of a traffic    
+ survey conducted on Friday 7th June   
+ 1985 between 12.50 and 13.50 on the   
+ B2178{CHICHESTER}to{FUNTINGDON}road   
+ at the signpost to Woodend.           
+                                       
+{Vehicle        From CHI.   From FUNT. 
+ Artic.lorry        1           3      
+ > 6 wheels         2           2      
+   6 wheels        15           8      
+ Vans              24          18      
+ Coach/Bus          2           3      
+ Minibus            1           2      
+ Private cars     178         163      
+ Farm vehicles      1           1      
+ Motorcycles        1           0      
+ Mopeds             1           2      
+ Invalid cars       1           0      
+ Bicycles           2           2      
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

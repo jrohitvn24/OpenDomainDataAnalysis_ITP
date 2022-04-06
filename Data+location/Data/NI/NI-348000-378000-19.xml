@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-NI-34-37/NI-348000-378000-19.xml</id><title type="text"> Entry: pages-NI-34-37 NI-348000-378000-19</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-NI-34-37/NI-348000-378000-19.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-NI-34-37/NI-348000-378000-19.xml/1" rel="edit" /><as:entryId>NI-348000-378000-19</as:entryId><as:updateIndex>233787</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T10:49:35.000Z</updated><published>2011-05-01T10:49:35.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>NI-348000-378000</dblock_id>
+		<year>1986</year>
+		<title>19BREEZEMOUNT ESTATE _ CONLIG</title>
+		<content> 1.Moved from  {   (a) }BELFAST{     12
+{ }which town ?   {(b) }BANGOR      {23
+{   }            { (c) }NEWTOWNARDS {00
+{                  (d) }OTHER   {    16
+                                       
+ 2.Prefer living in BREEZEMOUNT:{yes}36
+{                                no }15
+ 3.Shopping venu ?{(a) }BANGOR      {44
+                  {(b) }NEWTOWNARDS {07
+                  {(c) }CONLIG      {00
+                                       
+ 4.Transport mode ?:{(i)  }walking   02
+                    {(ii) }car       23
+                    {(iii)}bus       26
+                                       
+ 5.Use Community Centre ?:     {yes }13
+                                {no} 38
+ 6.Husband/wife                        
+   work within    {(a)   }5 miles   {12
+   what distance ?{(b)  }10 miles  { 07
+                  {(c)} >10 miles   {09
+                  {(d)}unemployed  { 23</content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-48-10/GB-488000-102000-6.xml</id><title type="text"> Entry: pages-GB-48-10 GB-488000-102000-6</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-48-10/GB-488000-102000-6.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-48-10/GB-488000-102000-6.xml/3" rel="edit" /><as:entryId>GB-488000-102000-6</as:entryId><as:updateIndex>343549</as:updateIndex><as:revision>2</as:revision><updated>2011-05-04T10:51:47.000Z</updated><published>2011-05-04T10:48:34.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-488000-102000</dblock_id>
+		<year>1986</year>
+		<title>06HOUSING RUNCTON - SURVEY</title>
+		<content> What type of accommodation do you live
+ in?                                   
+  detached house/bungalow           23 
+  semi-detached house/bungalow       8 
+  terraced house                     0 
+  flat/maisonette                    0 
+  other (please specify) det/cottage 1 
+                        public house 1 
+                                       
+ Do you have a garden?                 
+                          Yes       33 
+                          No         0 
+                                       
+ How long have you lived in the house? 
+                                       
+ 1yr(6) 2yrs(2) 3yrs(4) 4yrs(2) 5yrs(1)
+ 6yrs(2) 8yrs(1) 10yrs(3) 11yrs(2)     
+ 12yrs(1) 16yrs(1) 18yrs(1) 19yrs(1)   
+ 20yrs(2) 35yrs(1) 38yrs(1) 40yrs(1)   
+ 55yrs(1)                              
+                     Average  11.75yrs 
+                                       </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-NI-33-38/NI-332000-384000-2.xml</id><title type="text"> Entry: pages-NI-33-38 NI-332000-384000-2</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-NI-33-38/NI-332000-384000-2.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-NI-33-38/NI-332000-384000-2.xml/1" rel="edit" /><as:entryId>NI-332000-384000-2</as:entryId><as:updateIndex>231773</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T10:33:25.000Z</updated><published>2011-05-01T10:33:25.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>NI-332000-384000</dblock_id>
+		<year>1986</year>
+		<title>02EDUCATION--STATISTICS</title>
+		<content> SCHOOL  TYPE  PUPILS'  NO.OF  NO.OF   
+ NAME          AGES     PUPILS TEACHERS
+{MONKSTOWN                             
+{NURSERY}      3-4+     70     2       
+{MOSSLEY      }                        
+{NURSERY}      3-4+     75     2       
+{BALLYDUFF                             
+{PRIMARY      }4-11+    408    19      
+{HOLLYBANK                             
+{PRIMARY     } 4-11+    466    22      
+{MOSSLEY                               
+{PRIMARY      }4-11+    608    23      
+{ST.McNISSI                            
+{PRIMARY      }4-11+    200    8       
+{MONKSTOWN                             
+{COMMUNITY                             
+{SCHOOL       }11-16+   819    56      
+{JORDANSTOWN                           
+{SCHOOLS FOR                           
+{AUDITORY &amp;                            
+{VISUALLY     }3-17+    124    25      
+{HANDICAPPED                       1985</content>
+	</page></content></entry>

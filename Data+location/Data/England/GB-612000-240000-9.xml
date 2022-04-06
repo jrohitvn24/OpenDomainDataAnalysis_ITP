@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-61-24/GB-612000-240000-9.xml</id><title type="text"> Entry: pages-GB-61-24 GB-612000-240000-9</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-61-24/GB-612000-240000-9.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-61-24/GB-612000-240000-9.xml/1" rel="edit" /><as:entryId>GB-612000-240000-9</as:entryId><as:updateIndex>140035</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T14:19:14.000Z</updated><published>2011-04-30T14:19:14.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-612000-240000</dblock_id>
+		<year>1986</year>
+		<title>09Traffic Survey 2.7.85</title>
+		<content>This survey describes traffic flow:    
+a) through the estate and              
+b) to and from the estate and the A12  
+   via Sprites Lane.                   
+Time: between 1.45 and 2.45 p.m.       
+            Bridgewater Rd Sprites Lane
+               UP   DOWN    UP   DOWN  
+                                       
+Bicycle         7     4      2     2   
+Motor Bike      7     9      4     4   
+'Bus            7     9      2     0   
+Artics          2     2     10     4   
+Lorry           2     4     20    12   
+Vans            7    10     28    18   
+Cars 1+        70    26     47    36   
+Cars 1 only   102    80     85    58   
+                                       
+Artics = articulated lorries           
+Cars 1+= cars with passengers          
+Cars 1 only= cars with driver only     
+                                       
+(4th Year children, Sprites Junior Sch)</content>
+	</page></content></entry>

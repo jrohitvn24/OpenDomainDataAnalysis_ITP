@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-51-22/GB-512000-228000-8.xml</id><title type="text"> Entry: pages-GB-51-22 GB-512000-228000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-51-22/GB-512000-228000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-51-22/GB-512000-228000-8.xml/1" rel="edit" /><as:entryId>GB-512000-228000-8</as:entryId><as:updateIndex>196431</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T22:42:46.000Z</updated><published>2011-04-30T22:42:46.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-512000-228000</dblock_id>
+		<year>1986</year>
+		<title>08BIRD SURVEY AROUND WELLBURY</title>
+		<content>{Birds around Wellbury summer 1985     
+{B Confirm.Breeding, PB Pos.Breeding   
+{R Rarely seen, F Flying over ONLY.    
+ Grey Heron{F};Mallard{PB}; Kestrel{PB 
+ Partridge{PB};Red-Legged Partridge{B }
+ Pheasant{B};Woodcock{R};Lapwing{B}    
+ Feral Pigeon;Wood Pigeon{B}Turtle Dove
+{PB}Collared Dove{PB}Cuckoo.Barn Owl{PB
+ Tawny Owl{PB};Swift;Greater Spotted   
+ Woodpecker;Skylark{B};Swallow;House   
+ Martin{B};Carrion Crow;Rook{B}Jackdaw;
+ Jay{PB};Great Tit{B};Blue Tit{B};Long 
+ Tail Tit{PB};Marsh Tit;Coal Tit;      
+ Nuthatch;Tree Creeper{PB};Wren{B};Song
+ Thrush{PB};Mistle Thrush;Blackbird{B};
+ Robin{B};Blackcap{PB};Whitethroat{PB};
+ Chiffchaff;Goldcrest;Spotted          
+ Flycatcher{B};Dunnock{B};Pied Wagtail;
+ Meadow Pipit{PB}Tree Pipit{R};Starling
+{B}Greenfinch;Chaffinch{B};Corn Bunting
+ Linnet;Yellow Hammer{B};Tree Sparrow; 
+ House Sparrow{B}                      </content>
+	</page></content></entry>

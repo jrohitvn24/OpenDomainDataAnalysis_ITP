@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-NI-33-36/NI-332000-366000-2.xml</id><title type="text"> Entry: pages-NI-33-36 NI-332000-366000-2</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-NI-33-36/NI-332000-366000-2.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-NI-33-36/NI-332000-366000-2.xml/1" rel="edit" /><as:entryId>NI-332000-366000-2</as:entryId><as:updateIndex>231411</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T10:33:15.000Z</updated><published>2011-05-01T10:33:15.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>NI-332000-366000</dblock_id>
+		<year>1986</year>
+		<title>02STATISTICS 1</title>
+		<content>{LAND-USE                              
+{********}                             
+ TYPE OF LAND         NO. OF FIELDS    
+ ------------         -------------    
+{__________________________________    
+  ARABLE                  99           
+ GRAZING                 154           
+ ROUGH GRAZING            26           
+ WOODLAND                 40           
+ UNPRODUCTIVE             13           
+{__________________________________    
+  BUILDINGS          NO. IN AREA       
+{__________________________________    
+  FARMS                 60             
+ RESTAURANTS             1             
+ SHOPS                  15             
+ OTHER BUSINESSES       10             
+ GOVERNMENT              4             
+ CHURCHES               10             
+ HOSPITALS               3             
+ SCHOOLS                 3             
+{__________________________________    </content>
+	</page></content></entry>

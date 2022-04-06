@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-28-70/GB-288000-708000-9.xml</id><title type="text"> Entry: pages-GB-28-70 GB-288000-708000-9</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-28-70/GB-288000-708000-9.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-28-70/GB-288000-708000-9.xml/3" rel="edit" /><as:entryId>GB-288000-708000-9</as:entryId><as:updateIndex>238001</as:updateIndex><as:revision>2</as:revision><updated>2011-05-01T11:34:34.000Z</updated><published>2011-05-01T11:22:56.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-288000-708000</dblock_id>
+		<year>1986</year>
+		<title>09Population of Blackford</title>
+		<content> Approximate size of population :c550  
+                                       
+ Total in survey                : 201  
+                                       
+ Age    Male (%)  Female (%)  Total (%)
+ --------------------------------------
+  0-9    11  12.4   13  11.6    11.9   
+ 10-19   14  15.7   13  11.6    13.4   
+ 20-29   10  11.2   18  16.1    13.9   
+ 30-39   15  16.9   14  12.5    14.4   
+ 40-49   11  12.4   11   9.8    10.9   
+ 50-59   12  13.5   12  10.7    11.9   
+ 60-69    9  10.1   13  11.6    10.9   
+ 70-79    4   4.5   10   8.9     7.0   
+ 80-89    3   3.3    6   5.4     4.5   
+ 90-99    _    _     2   1.8     0.8   
+ --------------------------------------
+ Total   89 100.0  112 100.0   100.0   
+ Largest age range            : 30-39  
+ Largest Male age range is    : 30-39  
+ Largest Female age range is  : 20-29  
+                                       </content>
+	</page></content></entry>

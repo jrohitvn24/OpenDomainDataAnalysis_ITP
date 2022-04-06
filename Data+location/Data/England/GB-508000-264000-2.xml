@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-50-26/GB-508000-264000-2.xml</id><title type="text"> Entry: pages-GB-50-26 GB-508000-264000-2</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-50-26/GB-508000-264000-2.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-50-26/GB-508000-264000-2.xml/2" rel="edit" /><as:entryId>GB-508000-264000-2</as:entryId><as:updateIndex>293881</as:updateIndex><as:revision>1</as:revision><updated>2011-05-02T18:25:47.000Z</updated><published>2011-05-02T18:15:58.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-508000-264000</dblock_id>
+		<year>1986</year>
+		<title>02POPULATION N.BEDS.</title>
+		<content>{Settlements}Chapel Yard; Wood End;    
+ Pertenhall; Chadwell End; Green End.  
+{Electoral Register}                   
+ number of voters 1971 = 141           
+                  1984 = 153           
+{Census Totals 1981}                   
+ Persons age 0 - 15 yrs = 48           
+            16 - 29 yrs = 32           
+            30 - 44 yrs = 47           
+            45 - 64 yrs = 43           
+            over 65 yrs = 42           
+ Birthplace of Household Heads _       
+  U.K. = 208       Abroad  =   4       
+{HOUSEHOLD TENURES}                    
+ Owner occupied-freehold 52;leasehold 0
+ Council House            5            
+ Rented with business     1            
+ By virtue of employment  7            
+ Rented unfurnished      10            
+         TOTAL TENURES   75            
+                                       
+                                       </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-54-21/GB-548000-210000-4.xml</id><title type="text"> Entry: pages-GB-54-21 GB-548000-210000-4</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-54-21/GB-548000-210000-4.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-54-21/GB-548000-210000-4.xml/2" rel="edit" /><as:entryId>GB-548000-210000-4</as:entryId><as:updateIndex>114051</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T07:49:09.000Z</updated><published>2011-04-30T07:44:56.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-548000-210000</dblock_id>
+		<year>1986</year>
+		<title>04Traffic Count  M11</title>
+		<content> We did a traffic count on the{M11}in  
+ our D Block. We counted the traffic at
+ 7.30am, 12.30pm and 5.30pm. The       
+ heaviest{southbound}traffic was at    
+ 7.30am. The heaviest{northbound}      
+ traffic was at 5.30pm.                
+                                       
+ We counted for ten minutes and        
+ multiplied the counts by 6 to give us{
+{vehicles per hour.}                   
+                                       
+            7.30am    12.30pm   5.30pm 
+           {N}   S   {N}   S   {N}  S  
+                                       
+ Cars     {816}1770{ 978} 666{2628}1098
+ Lorries  {294} 300{ 288} 222{ 186} 132
+ Tankers  { 18}   6{  12}   6{  12}   6
+ Vans     { 72} 138{  60}  48{ 186}  78
+ Buses      {0}   6{   0}   0{   0}   0
+ Coaches    {6}  24{   6}  12{  12}  12
+ M/Bikes    {0}  12 {  0}   6{  18}  12
+ Total  { 1206}2256{1344} 960{3042}1338</content>
+	</page></content></entry>

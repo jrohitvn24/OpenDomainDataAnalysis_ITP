@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-55-10/GB-552000-108000-4.xml</id><title type="text"> Entry: pages-GB-55-10 GB-552000-108000-4</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-55-10/GB-552000-108000-4.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-55-10/GB-552000-108000-4.xml/4" rel="edit" /><as:entryId>GB-552000-108000-4</as:entryId><as:updateIndex>169507</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T20:51:10.000Z</updated><published>2011-04-30T20:43:59.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-552000-108000</dblock_id>
+		<year>1986</year>
+		<title>04Park Mead School Timetable</title>
+		<content>    {MON   TUES   WED   THURS   FRI    
+                                       
+{9.00}M     A      T      H      S     
+                                       
+{9.45}F   R   E   N  C  H      Maths   
+                                       
+{10.15}A  S  S  E  M  B  L  Y          
+                                       
+{10.40 B    R      E      A       K    
+                                       
+{10.55}E   N   G   L   I   S   H       
+                                       
+{12.00 D I N N E R    B R E A K        
+                                       
+{12.50}S I L E N T  R E A D I N G      
+                                       
+{1.20}Art Science Health Craft Sports  
+                                       
+{2.15 B      R      E      A      K    
+                                       
+{2.30}Art Music  Geog History Finishing
+                              off work </content>
+	</page></content></entry>

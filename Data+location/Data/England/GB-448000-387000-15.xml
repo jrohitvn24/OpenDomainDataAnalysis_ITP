@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-44-38/GB-448000-387000-15.xml</id><title type="text"> Entry: pages-GB-44-38 GB-448000-387000-15</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-44-38/GB-448000-387000-15.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-44-38/GB-448000-387000-15.xml/3" rel="edit" /><as:entryId>GB-448000-387000-15</as:entryId><as:updateIndex>268875</as:updateIndex><as:revision>2</as:revision><updated>2011-05-01T21:51:47.000Z</updated><published>2011-05-01T21:49:50.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-448000-387000</dblock_id>
+		<year>1986</year>
+		<title>15Thurcroft Housing Survey</title>
+		<content> These were the results of the housing 
+ survey that we did in Thurcroft.      
+                                       
+ l.Type of house: Detached 8%          
+                  Semi-detached 58%    
+                  Terraced 22%         
+                  Other 12%            
+                                       
+ 2.Owner of house: Local Council 44%   
+                   Private 35%         
+                   NCB 21%             
+                                       
+ 3.Age of house: Less than 5 years 4%  
+                 5-10 years 10%        
+                 11-20 years 14%       
+                 21-50 years 46%       
+                 More than 50 years 26%
+                                       
+ These figures were based on a random  
+ sample of 320 houses in Thurcroft.    
+                                       
+                                       </content>
+	</page></content></entry>

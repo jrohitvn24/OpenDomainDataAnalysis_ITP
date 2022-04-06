@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-42-43/GB-424000-438000-13.xml</id><title type="text"> Entry: pages-GB-42-43 GB-424000-438000-13</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-42-43/GB-424000-438000-13.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-42-43/GB-424000-438000-13.xml/1" rel="edit" /><as:entryId>GB-424000-438000-13</as:entryId><as:updateIndex>261873</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T21:05:58.000Z</updated><published>2011-05-01T21:05:58.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-424000-438000</dblock_id>
+		<year>1986</year>
+		<title>13Who Works Where</title>
+		<content> Cookridge is not a working place but a
+ dormitory for Leeds. It has grown to  
+ be as large as it is because it is    
+ only 5 miles from the centre of Leeds 
+ where thousands of people work. This  
+ discovery was the result of a survey  
+ covering all the parents of the older 
+ children in our school.               
+{Location :Junior 2 : Junior 1 : Totals
+{          Dads Mums  Dads Mums }      
+ Cookridge   8   22    11   17   19  39
+ Leeds      51   26    57   19  108  45
+ Yorkshire  25    8    20    4   45  12
+ England    10    0     8    0   18   0
+{Totals     94   56    96   40  190  96
+ We found that most fathers work in    
+ other parts of Leeds and those who    
+ work outside Yorkshire usually had    
+ their main office in Leeds. Most      
+ mothers only work part time and as    
+ near as possible to Cookridge.        
+                                       </content>
+	</page></content></entry>

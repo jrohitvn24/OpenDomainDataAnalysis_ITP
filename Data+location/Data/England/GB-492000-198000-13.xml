@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-49-19/GB-492000-198000-13.xml</id><title type="text"> Entry: pages-GB-49-19 GB-492000-198000-13</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-49-19/GB-492000-198000-13.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-49-19/GB-492000-198000-13.xml/4" rel="edit" /><as:entryId>GB-492000-198000-13</as:entryId><as:updateIndex>200407</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T22:59:52.000Z</updated><published>2011-04-30T22:49:39.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-492000-198000</dblock_id>
+		<year>1986</year>
+		<title>13Place of Birth &amp; Work</title>
+		<content>{Place of Work:  L.M.    H.H.    C.B.  
+ At home (2)     6 19%  12 41%  15 27% 
+ Within 5 km     4 13%   9 31%   4  7% 
+ London          2  6%   4 14%  18 33% 
+ Other in U.K.   3 10%   2  7%   4  7% 
+ Outside  U.K.   3 10%   0       2  4% 
+ Retired        13 42%   2  7%  12 22% 
+{TOTAL          31      29      55}    
+                                       
+{Place of Birth  L.M.    H.H.    C.B.  
+ S.Bucks&lt;25km    7 37%   5 28%   3  8% 
+ London          3 16%   4 22%  17 43% 
+  25 -   99km    2 11%   2 11%   2  5% 
+ 100 -  200km    2 11%   0       3  8% 
+ U.K. > 200km    2 11%   5 28%   9 23% 
+ Abroad          3 16%   0       6 16% 
+{TOTAL          19      18      40     
+                                       
+ (2) mainly home-makers / housepersons 
+ L.M.  Little Missenden                
+ H.H.  Hyde Heath                      
+ C.B.  Chesham Bois                    </content>
+	</page></content></entry>

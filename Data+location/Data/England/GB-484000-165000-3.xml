@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-48-16/GB-484000-165000-3.xml</id><title type="text"> Entry: pages-GB-48-16 GB-484000-165000-3</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-48-16/GB-484000-165000-3.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-48-16/GB-484000-165000-3.xml/3" rel="edit" /><as:entryId>GB-484000-165000-3</as:entryId><as:updateIndex>321483</as:updateIndex><as:revision>2</as:revision><updated>2011-05-02T20:40:06.000Z</updated><published>2011-05-02T20:39:17.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-484000-165000</dblock_id>
+		<year>1986</year>
+		<title>03TRANSPORT 1</title>
+		<content>{MAJOR ROADS                           
+ A322 Bagshot Road-dual carriageway    
+ North to East.                        
+ A3095 Crowthorne Road-dual carriage-  
+ way-North to Southwest.               
+ B3430 Nine Mile Ride-East to West     
+{BUS ROUTES                            
+ 151&amp;152 Bracknell Bus Station,East-   
+ hampstead,Great Hollands,Southern Ind-
+ ustrial Estate,Wildridings,Bracknell  
+ Bus Station.                          
+ 154&amp;155 Bracknell Bus Station,Harmans-
+ water,Bullbrook,Bracknell Bus Station.
+ 156&amp;157 Bracknell Bus Station,Hanworth
+ Birch Hill, Bracknell Bus Station.    
+ 158&amp;159 Bracknell Bus Station,Crown   
+ Wood,Birch Hill,Bracknell Bus Station.
+ X6&amp;X16 LONDON EXPRESS,Wokingham,Brack-
+ nell Bus Station,Harmanswater,Great   
+ Hollands,Hanworth,Birch Hill,Bagshot  
+ Green Lane,London Victoria.           
+{ }                                    </content>
+	</page></content></entry>

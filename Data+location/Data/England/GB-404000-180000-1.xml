@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-40-18/GB-404000-180000-1.xml</id><title type="text"> Entry: pages-GB-40-18 GB-404000-180000-1</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-40-18/GB-404000-180000-1.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-40-18/GB-404000-180000-1.xml/3" rel="edit" /><as:entryId>GB-404000-180000-1</as:entryId><as:updateIndex>295117</as:updateIndex><as:revision>2</as:revision><updated>2011-05-02T18:43:34.000Z</updated><published>2011-05-02T18:41:56.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-404000-180000</dblock_id>
+		<year>1986</year>
+		<title>01Introducing Wootton Bassett</title>
+		<content>{Position}    : small market town,     
+                north Wiltshire,       
+                5 miles SW of Swindon, 
+                on A3102,              
+                2 miles M4 Junction 16.
+{Nearest}     : Chippenham,Lyneham,    
+{towns}         Malmesbury,Swindon,    
+                Cirencester,Marlborough
+{Site}        : ridge of Limestone     
+                overlooking clay vales.
+{Local council:}North Wilts District   
+                Council.               
+{Population}  : 9135 (1981 Census)     
+{Market Day}  : Wednesday              
+{Industries}  : Dairy products,farm    
+                machinery,stone depot  
+{Farming}     : grassland for dairying,
+                some cereals near town 
+                                       
+{Please note  : the N part of W.Bassett
+{               is in block grid ref.  
+{               04040183               </content>
+	</page></content></entry>

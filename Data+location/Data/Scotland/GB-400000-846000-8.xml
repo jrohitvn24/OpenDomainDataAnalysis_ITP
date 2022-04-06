@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-40-84/GB-400000-846000-8.xml</id><title type="text"> Entry: pages-GB-40-84 GB-400000-846000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-40-84/GB-400000-846000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-40-84/GB-400000-846000-8.xml/2" rel="edit" /><as:entryId>GB-400000-846000-8</as:entryId><as:updateIndex>273967</as:updateIndex><as:revision>1</as:revision><updated>2011-05-01T22:04:16.000Z</updated><published>2011-05-01T22:02:51.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-400000-846000</dblock_id>
+		<year>1986</year>
+		<title>08Village Survey</title>
+		<content> 12.What extra amenities would you like
+    your village to have               
+                                       
+   {MINTLAW                            
+                                       
+ 1.{Swimming Pool      38%             
+ 2.{Community Centre   28%             
+ 3.{Church              9%             
+ 4.{More Shops          9%             
+                                       
+   {LONGSIDE                           
+                                       
+ 1.{Community Centre   10%             
+ 2.{More Shops        7.5%             
+ 3.{Doctor's Surgery    6%             
+ 4.{Chemist             5%             
+                                       
+{N.B.}Mintlaw has no church.Services   
+      are held in Mintlaw School.      
+      Longside people travel to doctors
+      surgery in Mintlaw.              
+                                       </content>
+	</page></content></entry>

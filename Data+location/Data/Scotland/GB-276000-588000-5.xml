@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-27-58/GB-276000-588000-5.xml</id><title type="text"> Entry: pages-GB-27-58 GB-276000-588000-5</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-27-58/GB-276000-588000-5.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-27-58/GB-276000-588000-5.xml/1" rel="edit" /><as:entryId>GB-276000-588000-5</as:entryId><as:updateIndex>100725</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T06:58:54.000Z</updated><published>2011-04-30T06:58:54.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-276000-588000</dblock_id>
+		<year>1986</year>
+		<title>05Shopping Survey</title>
+		<content>{Shopping Survey Taken From 52 Adults  
+{Living In Domesday Survey Area.       
+ 1.Do you work in Moniaive? YES=18     
+                             NO=34     
+ 2.Do you live in Moniaive? YES=18     
+                             NO=34     
+ 3.Where do you shop? IN VILLAGE=16    
+                       THORNHILL=6     
+                        DUMFRIES=30    
+ 4.Do you use public transport? YES=6  
+                                 NO=46 
+ 5.Do Moniaive shops cater for all your
+   needs? YES=14  NO=38                
+ 6.Are Moniaive shops'prices compared  
+ to Dumfries shops'prices  TOO DEAR=42 
+                              CHEAP=0  
+                        ABOUT RIGHT=10 
+ 7.Do you regularly shop at a freezer  
+ centre?   YES=6  NO=46                
+ 8.Would a lack of shops ever make you 
+ consider living somewhere else? YES=2 
+                                  NO=50</content>
+	</page></content></entry>

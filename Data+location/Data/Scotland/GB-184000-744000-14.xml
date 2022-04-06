@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-18-74/GB-184000-744000-14.xml</id><title type="text"> Entry: pages-GB-18-74 GB-184000-744000-14</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-18-74/GB-184000-744000-14.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-18-74/GB-184000-744000-14.xml/2" rel="edit" /><as:entryId>GB-184000-744000-14</as:entryId><as:updateIndex>146281</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T16:30:53.000Z</updated><published>2011-04-30T16:30:53.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-184000-744000</dblock_id>
+		<year>1986</year>
+		<title>14BIRDS SEEN IN LISMORE 2</title>
+		<content>{DIVERS                 DUCKS}(cont.)  
+ Great northern diver  Common Scooter  
+ Red throated diver    Eider           
+ Little{GREBE         }Red breasted    
+ Hooded{CROW}              Merganser   
+ Rook                  Goosander       
+ Raven                                 
+ Jackdaw               Corncrake       
+{DUCKS                }Moorhen         
+ Mallard               Coot            
+ Pintail               Oyster catcher  
+ Widgeon               Peewit          
+ Gadwell               Ringed plover   
+ Teal                  Golden plover   
+ Shoveller             Turnstone       
+ Shelduck              Woodcock        
+ Pochard               Curlew          
+ Scaup                 Redshank        
+ Tufted                Greenshank      
+ Golden-eye            Common sandpiper
+ Long- tailed                          
+                                       </content>
+	</page></content></entry>

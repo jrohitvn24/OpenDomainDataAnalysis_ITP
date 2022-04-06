@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-52-13/GB-524000-135000-8.xml</id><title type="text"> Entry: pages-GB-52-13 GB-524000-135000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-52-13/GB-524000-135000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-52-13/GB-524000-135000-8.xml/3" rel="edit" /><as:entryId>GB-524000-135000-8</as:entryId><as:updateIndex>204945</as:updateIndex><as:revision>2</as:revision><updated>2011-04-30T23:15:01.000Z</updated><published>2011-04-30T23:10:50.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-524000-135000</dblock_id>
+		<year>1986</year>
+		<title>08BEWBUSH SURVEY _ SERVICES</title>
+		<content>{More questions about life in Bewbush. 
+                                       
+ Do you like living in Bewbush? yes:62%
+ Are local shops adequate?      yes:30%
+ Is public transport good?      yes:52%
+ Is public transport poor?      yes:12%
+ Do you shop in town regularly? yes:33%
+ Do you shop elsewhere?         yes:30%
+ Travel to town _by bus         yes:17%
+                 by car         yes:34%
+                 by bus or car  yes:14%
+                 by bus or walk yes:31%
+                 by moped/bike  yes: 3%
+ Do you use your Leisure Centre?yes:38%
+                                       
+{What extra facilities are needed?     
+  swimming pool                 yes:31%
+  more shops, parking garages   yes:21%
+  more activities e.g. library  yes: 7%
+  more open space/lower density yes: 3%
+ Others mentioned were: a church, more 
+ playgroups, a dog warden.             </content>
+	</page></content></entry>

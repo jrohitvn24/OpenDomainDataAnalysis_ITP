@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-32-70/GB-324000-705000-17.xml</id><title type="text"> Entry: pages-GB-32-70 GB-324000-705000-17</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-32-70/GB-324000-705000-17.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-32-70/GB-324000-705000-17.xml/1" rel="edit" /><as:entryId>GB-324000-705000-17</as:entryId><as:updateIndex>323949</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T20:55:00.000Z</updated><published>2011-05-02T20:55:00.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-324000-705000</dblock_id>
+		<year>1986</year>
+		<title>17FARMING</title>
+		<content> FARMING                               
+                                       
+{Hanging Myre Farm -}Acres=165,Pasture=
+ 107,Arable=16.Stock=464,Cows=60,      
+ Calves=62,Ewes=160,Lambs=240,Bulls=2. 
+ Working Animals=1 sheepdog.           
+ Vehicles=1 Fiesta car &amp;Tractor.       
+                                       
+ Pets=1 dog and 1 cat.                 
+ Others=Snow Blower.                   
+                                       
+{Templands  -}                         
+ Acres=?,Pasture=?,Arable=?.Stock=?    
+ Working Animals=2 sheepdogs.          
+ Vehicles=?.                           
+                                       
+{Easter Glassie-}                      
+ Acres=?.Stock=100,Cows=40,Calves=?,   
+ Ewes=60,Lambs=?,Bulls=?.Working       
+ Animals=?.Vehicles=?.Pets=?           
+ Others=?                              
+                                       </content>
+	</page></content></entry>

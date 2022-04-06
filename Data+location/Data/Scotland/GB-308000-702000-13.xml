@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-30-70/GB-308000-702000-13.xml</id><title type="text"> Entry: pages-GB-30-70 GB-308000-702000-13</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-30-70/GB-308000-702000-13.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-30-70/GB-308000-702000-13.xml/1" rel="edit" /><as:entryId>GB-308000-702000-13</as:entryId><as:updateIndex>109883</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T07:32:01.000Z</updated><published>2011-04-30T07:32:01.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-308000-702000</dblock_id>
+		<year>1986</year>
+		<title>13Population/Employment (1981)</title>
+		<content>                  {  Kinross Milnathort
+ Population            3500     1100   
+           {Employment                 
+ Agriculture%           2.0      6.3   
+ Energy%                6.5      2.1   
+ Manufacturing%        30.7     20.8   
+ Construction%         12.4     10.4   
+ Distrib.&amp; Catering%   19.6     27.1   
+ Transport%             5.2      2.1   
+ Other Services%       22.2     31.3   
+ Prop. of commuters     1:3      1:5   
+ %households >=1 car   77       76     
+ %houses >=5 rooms     37       28     
+ %houses owner-occupied 59      53     
+ %houses Council-owned 35       39     
+ %houses lacking bath                  
+         or inside W.C. 0.7      3.2   
+ All of these figures have been        
+ extracted from the{1981 Census.}They  
+ apply to the whole of each place,     
+ although parts of each lie outside the
+ sample area.                          </content>
+	</page></content></entry>

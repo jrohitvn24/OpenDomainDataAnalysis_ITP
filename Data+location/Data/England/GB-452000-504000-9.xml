@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-45-50/GB-452000-504000-9.xml</id><title type="text"> Entry: pages-GB-45-50 GB-452000-504000-9</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-45-50/GB-452000-504000-9.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-45-50/GB-452000-504000-9.xml/1" rel="edit" /><as:entryId>GB-452000-504000-9</as:entryId><as:updateIndex>289487</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T17:47:24.000Z</updated><published>2011-05-02T17:47:24.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-452000-504000</dblock_id>
+		<year>1986</year>
+		<title>09Traffic Count Southbound</title>
+		<content>{ 15/7/85 / 1300 to 1400hrs /South     
+{ }                         {bound     
+ | Car              |     82         | 
+ | Lorry            |      4         | 
+ | Bike             |      5         | 
+ | Motor bike       |      1         | 
+ | Bus              |      1         | 
+ | Coach            |      3         | 
+ | Tractor          |      2         | 
+ | Van              |     15         | 
+ ____________________________________  
+{14/7/85 / 1430 to 1530hrs / South}    
+                            {bound     
+ | Car              |    120         | 
+ | Lorry            |      1         | 
+ | Bike             |      0         | 
+ | Motor bike       |      2         | 
+ | Bus              |      0         | 
+ | Coach            |      0         | 
+ | Tractor          |      0         | 
+ | Van              |      2         | 
+                                       </content>
+	</page></content></entry>

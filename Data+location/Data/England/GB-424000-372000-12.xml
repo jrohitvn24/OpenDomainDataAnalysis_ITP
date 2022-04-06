@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-42-37/GB-424000-372000-12.xml</id><title type="text"> Entry: pages-GB-42-37 GB-424000-372000-12</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-42-37/GB-424000-372000-12.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-42-37/GB-424000-372000-12.xml/1" rel="edit" /><as:entryId>GB-424000-372000-12</as:entryId><as:updateIndex>267595</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T21:45:56.000Z</updated><published>2011-05-01T21:45:56.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-424000-372000</dblock_id>
+		<year>1986</year>
+		<title>12TELEVISION, VIDEO, COMPUTERS</title>
+		<content>{TELEVISION : Viewing Times (%)        
+{ Hrs./Week:  0  1-10 11-20 21-30 >50  
+{ BBC 1       7   53    38    4    5   
+{ BBC 2      11   89     0    0    0   
+{ ITV        14    1    24    9    3   
+{ CH. 4      __  Not yet available __  
+{VIDEO RECORDERS}                      
+  Use of home videos has grown rapidily
+ in the last few years. 39% of all     
+ families presently have one. 61% of   
+ them regularly view hired films.      
+{HOME COMPUTERS}                       
+  In only four years, the computer has 
+ gained a place in 30% of families'    
+ homes, of which 97% are used to play  
+ games, 77% for educational use and 13%
+ for business. Nearly all were British-
+ made,but 13% were made in the U.S.A.  
+  Spectrum : 42%    Sinclair ZX81 : 13%
+  Electron : 16%    Commodore V20 : 13%
+  Acorn-BBC: 13%    Commodore 64  :  3%
+                                       </content>
+	</page></content></entry>

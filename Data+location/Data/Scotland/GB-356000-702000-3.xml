@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-35-70/GB-356000-702000-3.xml</id><title type="text"> Entry: pages-GB-35-70 GB-356000-702000-3</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-35-70/GB-356000-702000-3.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-35-70/GB-356000-702000-3.xml/1" rel="edit" /><as:entryId>GB-356000-702000-3</as:entryId><as:updateIndex>223435</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T08:46:31.000Z</updated><published>2011-05-01T08:46:31.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-356000-702000</dblock_id>
+		<year>1986</year>
+		<title>03Tourism in Anstruther 2</title>
+		<content> We asked the tourists their ages, how 
+ ____________________  they travelled  
+ *{ AGE RANGE} *{% }*  to Anstruther   
+ ____________________  and how long    
+ *   16 - 29   * 22 *  they planned to 
+ ____________________  stay here.      
+ *   30 - 59   * 50 *                  
+ ____________________ _________________
+ *   60 +      * 28 * *{DURATION}*    *
+ ____________________ *   {OF}   *{%} *
+                      *  {VISIT} *    *
+ ____________________ _________________
+ * {TRANSPORT} *{% }* * 1 day -  * 30 *
+ ____________________ _________________
+ * Private car * 82 * * few days * 16 *
+ ____________________ _________________
+ * Public bus  * 10 * * a week   * 24 *
+ ____________________ _________________
+ * Private bus *  4 * * 2 weeks  * 26 *
+ ____________________ _________________
+ * Boat        *  4 * * 2 weeks+ *  4 *
+ ____________________ _________________</content>
+	</page></content></entry>

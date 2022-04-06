@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-44-31/GB-440000-318000-20.xml</id><title type="text"> Entry: pages-GB-44-31 GB-440000-318000-20</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-44-31/GB-440000-318000-20.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-44-31/GB-440000-318000-20.xml/2" rel="edit" /><as:entryId>GB-440000-318000-20</as:entryId><as:updateIndex>270981</as:updateIndex><as:revision>1</as:revision><updated>2011-05-01T21:58:50.000Z</updated><published>2011-05-01T21:57:27.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-440000-318000</dblock_id>
+		<year>1986</year>
+		<title>20TRANSPORT</title>
+		<content>{TRAIN.}The nearest train station is at
+ Loughbourgh (13km or 8 mile).This     
+ gives connections to London,Sheffield,
+ Leicester,and Nottingham.The trains   
+ are high speed diesel powered         
+ express.                              
+{AIRPORT.}The nearest airport is East  
+ Midlands Airport (10km or 6miles)     
+ Daily services go to Paris, Brussels, 
+ London, Belfast and Amsterdam. Many   
+ charter flights and freight companies 
+ use E. Midlands Airport.              
+{BUS.}The only public transport        
+ though Newbold is the local bus       
+ service to Loughborough and to        
+ Coalville.There are l3 buses on week  
+ days and 9 buses on a Saturday.       
+{ROAD.}The B 587 road runs though      
+ the village. Newbold is connected     
+ with Worthington by a road.The nearest
+ motorway is the M1 which is approx 8  
+ miles or 13km away.                   </content>
+	</page></content></entry>

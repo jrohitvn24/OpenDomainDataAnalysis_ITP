@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-NI-27-37/NI-276000-378000-16.xml</id><title type="text"> Entry: pages-NI-27-37 NI-276000-378000-16</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-NI-27-37/NI-276000-378000-16.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-NI-27-37/NI-276000-378000-16.xml/2" rel="edit" /><as:entryId>NI-276000-378000-16</as:entryId><as:updateIndex>227599</as:updateIndex><as:revision>1</as:revision><updated>2011-05-01T09:24:18.000Z</updated><published>2011-05-01T09:24:18.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>NI-276000-378000</dblock_id>
+		<year>1986</year>
+		<title>16TRAFFIC NEAR COOKSTOWN</title>
+		<content>{TRAFFIC IN        :        TRAFFIC OUT
+{======================================
+ TIME - 1200-1230                      
+{CARS............}14{...............}30
+{VANS............}07{...............}07
+{MOTORCYCLES.....}00{...............}01
+{LORRIES.........}04{...............}06
+{BUSES...........}01{...............}01
+{TRACTORS........}04{...............}03
+{BICYCLES........}00{...............}02
+ TIME - 1430-1500                      
+{CARS............}29{...............}34
+{VANS............}03{...............}07
+{MOTORCYCLES.....}00{...............}00
+{LORRIES.........}05{...............}08
+{BUSES...........}00{...............}00
+{TRACTORS........}02{...............}01
+{BICYCLES........}00{...............}01
+ THIS TRAFFIC CENSUS WAS TAKEN OVER TWO
+ HALF HOUR PERIODS ABOUT 2KM OUTSIDE   
+ COOKSTOWN ON THE ORRITOR ROAD.EIGHT   
+ PEDESTRINS PASSED BY DURING THE TIMES.</content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-61-21/GB-612000-219000-12.xml</id><title type="text"> Entry: pages-GB-61-21 GB-612000-219000-12</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-61-21/GB-612000-219000-12.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-61-21/GB-612000-219000-12.xml/1" rel="edit" /><as:entryId>GB-612000-219000-12</as:entryId><as:updateIndex>139585</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T14:18:57.000Z</updated><published>2011-04-30T14:18:57.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-612000-219000</dblock_id>
+		<year>1986</year>
+		<title>12LAND COVER</title>
+		<content>                                       
+   The following percentages indicate  
+ uses of land:                         
+{74.8%}- arable farmland (crops grown: 
+ wheat, barley, peas, potatoes,        
+ sugar-beet and old seed rape).        
+{9.6%}- residential land               
+{5.5%}- deciduous woodland             
+{5.25%}- pasture/grassland             
+{1.3%}- community services             
+{1.2%}- urban space                    
+{0.75%}- wasteland                     
+{0.6%}- market gardening               
+{0.4%}- industrial land                
+{0.3%}- coniferous woodland            
+{0.3%}- lakes/reservoirs               
+{RELIEF                                
+{ }The south of the are is flat land   
+ with the maximum height at 27 metres. 
+ Further north the land appears to be  
+ slightly hilly and the height drops to
+ a minimum of 10 metres.               </content>
+	</page></content></entry>

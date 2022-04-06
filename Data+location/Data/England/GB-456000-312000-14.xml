@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-45-31/GB-456000-312000-14.xml</id><title type="text"> Entry: pages-GB-45-31 GB-456000-312000-14</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-45-31/GB-456000-312000-14.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-45-31/GB-456000-312000-14.xml/1" rel="edit" /><as:entryId>GB-456000-312000-14</as:entryId><as:updateIndex>341605</as:updateIndex><as:revision>0</as:revision><updated>2011-05-04T10:18:35.000Z</updated><published>2011-05-04T10:18:35.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-456000-312000</dblock_id>
+		<year>1986</year>
+		<title>14MOUNTSORREL SHOPS</title>
+		<content>{ TYPE OF SHOP           AMOUNT OF THEM
+    PUBS                       8       
+{   CLUBS                      2       
+    CAFES                      2       
+{   HAIR DRESSERS              5       
+    OFFLICENSES                3       
+{   FOOD                       5       
+    BUTCHERS                   2       
+{   PETFOODS                   1       
+    GUEST HOUSES               1       
+{   POST OFFICES               1       
+    CHEMISTS                   2       
+{   NEWSAGENTS                 3       
+    ANTIQUES                   3       
+{   PICTURE FRAMING            1       
+    FLORISTS                   1       
+{   DIY                        1       
+    MOTORCYCLE PARTS           1       
+{   WOOL                       1       
+    CHANDLERS/BOATYARD      1          
+{   LEATHER CRAFT              1       
+    ESTATE AGENTS              1       </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-41-33/GB-416000-330000-17.xml</id><title type="text"> Entry: pages-GB-41-33 GB-416000-330000-17</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-41-33/GB-416000-330000-17.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-41-33/GB-416000-330000-17.xml/6" rel="edit" /><as:entryId>GB-416000-330000-17</as:entryId><as:updateIndex>312157</as:updateIndex><as:revision>5</as:revision><updated>2011-05-02T20:10:06.000Z</updated><published>2011-05-02T19:45:26.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-416000-330000</dblock_id>
+		<year>1986</year>
+		<title>17SHOPPING AND HOBBIES-SUDBURY</title>
+		<content>{   HOW OFTEN WAS FRESH FOOD BOUGHT?   
+{                                      
+  Daily  Twice weekly  Weekly  Varies  
+   24%        33%        36%     6%    
+{______________________________________
+{   WHERE WERE MAIN PURCHASES MADE?    
+                                       
+                  {FOOD    CLOTHING    
+ Sudbury___________38%       __        
+ Uttoxeter_________34%       27%       
+ Burton-on-Trent___18%       34%       
+ Derby_____________08%       27%       
+ Ashbourne_________02%       02%       
+ Elsewhere_________02%       08%       
+{______________________________________
+{  WHERE WERE PEOPLE'S MAIN HOBBIES?   
+       Sudbury ___________50%          
+       Uttoxeter__________15%          
+       Burton-on-Trent____06%          
+       Derby______________08%          
+       Ashbourne__________15%          
+       Elswhere___________03%          </content>
+	</page></content></entry>

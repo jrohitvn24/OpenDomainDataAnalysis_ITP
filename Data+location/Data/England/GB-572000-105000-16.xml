@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-57-10/GB-572000-105000-16.xml</id><title type="text"> Entry: pages-GB-57-10 GB-572000-105000-16</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-57-10/GB-572000-105000-16.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-57-10/GB-572000-105000-16.xml/4" rel="edit" /><as:entryId>GB-572000-105000-16</as:entryId><as:updateIndex>123145</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T08:38:24.000Z</updated><published>2011-04-30T08:33:57.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-572000-105000</dblock_id>
+		<year>1986</year>
+		<title>16Bexhill tourist survey 3</title>
+		<content>{Detractions of Bexhill:               
+ Lack of amenities (pubs, discos, sport
+ &amp; leisure facilities, entertainments, 
+ shops, restaurants) = 35              
+ Age imbalance, not enough for the     
+ young, boring = 30                    
+ Lack of public facilities (car parks, 
+ toilets, lights, roads) = 10          
+ Untidy, Unpainted = 5                 
+ Weather (wind) = 2                    
+ No sand on beach =7                   
+ None = 23                             
+{Leisure Activities:                   
+ Beach, sunbathe = 64                  
+ Indoor activities(read,sew,relax) = 19
+ Going out (pub, dancing, disco,       
+ concert, theatre, restaurant) = 18    
+ Shopping = 8                          
+ Sport = 14                            
+ Gardening = 6                         
+ Sightseeing = 4                       
+                                       </content>
+	</page></content></entry>

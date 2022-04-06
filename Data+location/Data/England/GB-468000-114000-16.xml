@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-46-11/GB-468000-114000-16.xml</id><title type="text"> Entry: pages-GB-46-11 GB-468000-114000-16</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-46-11/GB-468000-114000-16.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-46-11/GB-468000-114000-16.xml/3" rel="edit" /><as:entryId>GB-468000-114000-16</as:entryId><as:updateIndex>280201</as:updateIndex><as:revision>2</as:revision><updated>2011-05-02T08:18:15.000Z</updated><published>2011-05-02T08:13:26.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-468000-114000</dblock_id>
+		<year>1986</year>
+		<title>16BUILDINGS 2</title>
+		<content> Have you an open fire? {18}           
+ Do you have a solar panel on your     
+ roof? {0}                             
+ What form of central heating do you   
+ have? Gas {85} Electric {5} Coal {5}  
+ None {5}                              
+ Is your heating ducted? {24}radiators{
+{17}                                   
+ Are your external walls brick? {94}   
+ rendered {9} tiled {1}                
+ brick and rendered {4}                
+ What are your internal walls made of? 
+ breeze blocks {38} brick {30}         
+ study {3} thermal block {3} celcon {1}
+ wood panel {1} plaster board {22}     
+ don't know {2}                        
+ Have you got a balcony? {2}           
+ Are your windows single {42} double { 
+{24} combination {27}sash {4} glazed?  
+ Have you a sliding patio door {39}    
+ French windows {18}door from lounge/  
+ diner {17}                            </content>
+	</page></content></entry>

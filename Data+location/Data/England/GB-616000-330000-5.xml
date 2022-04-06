@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-61-33/GB-616000-330000-5.xml</id><title type="text"> Entry: pages-GB-61-33 GB-616000-330000-5</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-61-33/GB-616000-330000-5.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-61-33/GB-616000-330000-5.xml/1" rel="edit" /><as:entryId>GB-616000-330000-5</as:entryId><as:updateIndex>140667</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T14:19:34.000Z</updated><published>2011-04-30T14:19:34.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-616000-330000</dblock_id>
+		<year>1986</year>
+		<title>05HOUSING IN ERPINGHAM</title>
+		<content>{HOUSING                               
+  Erpingham has a mixture of old       
+ cottages,farmhouses,new houses and    
+ bungalows and a small council estate. 
+{class survey.                         
+  house types  OLD(pre 1919) MOD.      
+  number       11             8        
+                                       
+                                       
+ house type DET. SEMI. TERR. CARAVAN   
+ number     12    7     1      1       
+{ACCOMMODATION}                        
+ BEDROOMS  1  2  3  4  5  GARAGE 11    
+ no.in sur.0  4  11 2  3  NO GGE. 9    
+                                       
+ CEN.HTG.14 NO C.HTG.6                 
+ TELEPHONE 17 NO PHONE 3               
+                                       
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

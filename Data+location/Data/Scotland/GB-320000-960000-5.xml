@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-32-96/GB-320000-960000-5.xml</id><title type="text"> Entry: pages-GB-32-96 GB-320000-960000-5</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-32-96/GB-320000-960000-5.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-32-96/GB-320000-960000-5.xml/1" rel="edit" /><as:entryId>GB-320000-960000-5</as:entryId><as:updateIndex>324679</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T20:55:23.000Z</updated><published>2011-05-02T20:55:23.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-320000-960000</dblock_id>
+		<year>1986</year>
+		<title>05FARMING</title>
+		<content>{ANIMALS    AVERAGE  CROPS     AVERAGE 
+ Bulls         1     Oats      13 acres
+ Cows          42    Barley    17 acres
+ Stots         8     Silage    0 acres 
+ Heifers       10    Haylage   0 acres 
+ Calves        19    Potatoes  1 acre  
+ Tups/rams     8     Hay       38 acres
+ Ewes          143   Turnips   3 acres 
+ Gimmers       24                      
+ Hogs          25                      
+ Lambs         172                     
+ Billy goats   1                       
+ Nanny goats   1                       
+ Kids          1                       
+ Dogs          2                       
+{MACHINERY           AVERAGE           
+ Dung Spreader          1              
+ Slurry Spreader        0              
+ Round baler            1              
+ Square baler           1              
+ Silage Baler           1              
+ Manure Spreader        1              </content>
+	</page></content></entry>

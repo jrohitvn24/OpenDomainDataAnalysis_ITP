@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-50-18/GB-508000-183000-19.xml</id><title type="text"> Entry: pages-GB-50-18 GB-508000-183000-19</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-50-18/GB-508000-183000-19.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-50-18/GB-508000-183000-19.xml/2" rel="edit" /><as:entryId>GB-508000-183000-19</as:entryId><as:updateIndex>275189</as:updateIndex><as:revision>1</as:revision><updated>2011-05-01T22:07:24.000Z</updated><published>2011-05-01T22:06:00.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-508000-183000</dblock_id>
+		<year>1986</year>
+		<title>19TRAFFIC SURVEY MAP</title>
+		<content>      X             X  {TIME 1:35 TO   
+   {A}X             X{B   1:45 PM}     
+      X  0       0  X    9/7/1985      
+{    }X 000      0  X       {C         
+      X0 0 0   0 0 0X                  
+      X  0      000 XXXXXXXXXXXXXXXXXX 
+      X  0       0             0       
+      X    {WEST               }0      
+      X    {END     }   0000000000     
+      X    {ROAD               }0      
+      X                        0       
+      X                   0 {STATION   
+      X                  0   {APPROACH.
+      X                 0000000000     
+      X                  0             
+      X                   0{           
+      X                                
+      X   0      0   XXXXXXXXXXXXXXXXXX
+      X  000     0   X      {D         
+      X 0 0 0  0 0 0 X                 
+   {F}X   0     000  X{E               
+      X   0      0   X                 </content>
+	</page></content></entry>

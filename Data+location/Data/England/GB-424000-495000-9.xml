@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-42-49/GB-424000-495000-9.xml</id><title type="text"> Entry: pages-GB-42-49 GB-424000-495000-9</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-42-49/GB-424000-495000-9.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-42-49/GB-424000-495000-9.xml/1" rel="edit" /><as:entryId>GB-424000-495000-9</as:entryId><as:updateIndex>263029</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T21:06:32.000Z</updated><published>2011-05-01T21:06:32.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-424000-495000</dblock_id>
+		<year>1986</year>
+		<title>09Bus Services</title>
+		<content> There are seven bus services that     
+ collect passengers at Catterick       
+ Village.                              
+{                                      
+{Service 24 and 24A                    
+ Darlington to Richmond                
+                                       
+{Service 34}                           
+ Richmond to Northallerton             
+{                                      
+{Service 34A                           
+ Catterick Aerodrome to Richmond       
+{                                      
+{Service 35                            
+ Catterick Aerodrome to Richmond       
+                                       
+{Service X70                           
+ Richmond to Newcastle upon Tyne       
+                                       
+{Service 960                           
+ Newcastle upon Tyne to Liverpool      
+                                       </content>
+	</page></content></entry>

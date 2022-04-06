@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-42-27/GB-420000-270000-16.xml</id><title type="text"> Entry: pages-GB-42-27 GB-420000-270000-16</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-42-27/GB-420000-270000-16.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-42-27/GB-420000-270000-16.xml/1" rel="edit" /><as:entryId>GB-420000-270000-16</as:entryId><as:updateIndex>249991</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T13:43:18.000Z</updated><published>2011-05-01T13:43:18.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-420000-270000</dblock_id>
+		<year>1986</year>
+		<title>16HASELEY KNOB: TRAFFIC CENSUS</title>
+		<content> The{A41}runs from{London}to{Birmingham
+ and is therefore one of the most major
+ roads in England.  It is the most     
+ important road in this area. Here is a
+ record of the traffic passing along it
+ near the{Five Ways}roundabout at      
+ Haseley,during a typical 15-minute    
+ period on a week-day:-                
+                                       
+            |To B'ham |From B'ham|Total
+ Cars       |   46    | { }91    | 137 
+ Lorries    |   {5   }|   {13   }| {18 
+ Vans       | { }3    | { }13    |  16 
+ 'Buses     |   {0   }|    {0   }|  {0 
+ Bicyles    |    0    | {  }1    |{ }1 
+ Motorbikes |   {1   }|    {1   }|  {2 
+ Caravans   | { }0    |  { }1    |{ }1 
+ Total      |  {55   }|  {120   }|{175 
+                                       
+{                                      
+{  THIS REPRESENTS AN AVERAGE OF}700   
+{   VEHICLES PER HOUR USING THE ROAD.  </content>
+	</page></content></entry>

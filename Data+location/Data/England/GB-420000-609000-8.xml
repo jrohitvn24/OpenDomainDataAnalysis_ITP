@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-42-60/GB-420000-609000-8.xml</id><title type="text"> Entry: pages-GB-42-60 GB-420000-609000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-42-60/GB-420000-609000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-42-60/GB-420000-609000-8.xml/1" rel="edit" /><as:entryId>GB-420000-609000-8</as:entryId><as:updateIndex>232707</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T10:41:00.000Z</updated><published>2011-05-01T10:41:00.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-420000-609000</dblock_id>
+		<year>1986</year>
+		<title>08THE BUS SERVICE.</title>
+		<content> There are a number of bus services in 
+ our block,some running through Lesbury
+ and continuing south and others       
+ turning at Hipsburn and returning to  
+ Alnwick. There is a total of 56       
+ services running through the block.We 
+ calculated this by counting the number
+ of times each service ran through the 
+ block and adding the totals.Here is an
+ example for the 420 service:          
+{Service        Days      No. of buses.
+   420      M,T,W,Th,F,S       12      
+   420      Sat only            1      
+   420      Sun only            1      
+{                        TOTAL 14      
+ From these 56 services,47 run south   
+ and 9 run north.The 420 runs south    
+ through Warkworth to Ashington and    
+ Bedlington.Several of these services  
+ connect with the rail services.       
+                                       
+                                       </content>
+	</page></content></entry>

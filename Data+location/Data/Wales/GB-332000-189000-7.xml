@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-33-18/GB-332000-189000-7.xml</id><title type="text"> Entry: pages-GB-33-18 GB-332000-189000-7</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-33-18/GB-332000-189000-7.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-33-18/GB-332000-189000-7.xml/4" rel="edit" /><as:entryId>GB-332000-189000-7</as:entryId><as:updateIndex>303131</as:updateIndex><as:revision>3</as:revision><updated>2011-05-02T19:31:36.000Z</updated><published>2011-05-02T19:19:07.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-332000-189000</dblock_id>
+		<year>1986</year>
+		<title>07LOCAL PRICES</title>
+		<content>{GROCER             GREENGROCER        
+                                       
+ EGGS    90p/doz    POTATOES 20p/lb    
+ SUGAR   46p/kg     CARROTS  35p/lb    
+ LARD    72p/kg     ONIONS   18p/lb    
+ BREAD   32p loaf   CABBAGE  18p each  
+ BUTTER  90p/kg     LETTUCE  16p each  
+ MILK    23p/pt     ORANGES  14p each  
+ FLOUR   26p/kg     TOMATOES 58p/lb    
+ CHEESE  69p/lb     APPLES   32p/lb    
+ COFFEE  1285p/kg   PEARS    37p/lb    
+ TEA     376p/kg    BANANAS  48p/lb    
+                                       
+{BUTCHER}                              
+                                       
+ FILLET STEAK  Â£3.50/lb                
+ LEG OF PORK   Â£1.20/lb                
+ LEG OF LAMB   Â£1.49/lb                
+ MIDDLE BACON  Â£1.29/lb                
+                                       
+ These prices were taken from a local  
+ supermarket on 23rd April 1985.       </content>
+	</page></content></entry>

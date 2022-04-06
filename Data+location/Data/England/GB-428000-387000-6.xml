@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-42-38/GB-428000-387000-6.xml</id><title type="text"> Entry: pages-GB-42-38 GB-428000-387000-6</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-42-38/GB-428000-387000-6.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-42-38/GB-428000-387000-6.xml/1" rel="edit" /><as:entryId>GB-428000-387000-6</as:entryId><as:updateIndex>267911</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T21:46:09.000Z</updated><published>2011-05-01T21:46:09.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-428000-387000</dblock_id>
+		<year>1986</year>
+		<title>06QUALITY OF ENVIROMENT.</title>
+		<content> A-19th century terraced housing.      
+   Stannington Road.                   
+ B-1930's semi-detached,Wood Lane.     
+ C-1960's semi &amp; detached,Marchwood Rd.
+ D-1960's high rise council            
+   flats,Liberty Hill.                 
+ The quality of the enviroment is the  
+  appearance of the area around the    
+  housing.3=good,2=fair,1=poor,0=if a  
+  provision is not there.              
+                             A  B  C  D
+ Outward appearance of house.3  2  3  1
+ Garage provision.           1  3  3  0
+ Garden provision.           2  3  3  0
+ Privacy for each family.    2  2  2  1
+ Freedom from traffic.       1  2  3  3
+ Freedom from noise.         1  2  3  2
+ Freedom from factories.     3  3  3  3
+ Freedom from litter. .      2  3  3  2
+ Playing areas for children. 1  2  3  1
+ Provision of open space.    2  3  3  3
+ Provision of churches.      1  1  1  1</content>
+	</page></content></entry>

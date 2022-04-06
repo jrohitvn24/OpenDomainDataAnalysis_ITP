@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-46-34/GB-468000-342000-13.xml</id><title type="text"> Entry: pages-GB-46-34 GB-468000-342000-13</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-46-34/GB-468000-342000-13.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-46-34/GB-468000-342000-13.xml/3" rel="edit" /><as:entryId>GB-468000-342000-13</as:entryId><as:updateIndex>287591</as:updateIndex><as:revision>2</as:revision><updated>2011-05-02T17:29:23.000Z</updated><published>2011-05-02T17:27:51.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-468000-342000</dblock_id>
+		<year>1986</year>
+		<title>13GRAPH OF TRAFFIC CENSUS</title>
+		<content>                                       
+{TRAFFIC CENSUS AT GUNTHORPE BRIDGE    
+      2.00 pm to 2.20pm  11-7-85.      
+                                       
+   KEY                                 
+ L=LORRIES          x   x     x        
+ V=VANS             x   x     x        
+ C=CARS             x   x     x        
+ B=BUSES            x x x     x        
+ M=MOTOR BIKES      x x @     x        
+ P=PEDESTRIANS      x x @     x        
+ BI=BIKES           x x @     x  x     
+ BO=BOATS           @ x @     x  x     
+                    @ @ @ x x x  x  x  
+                                       
+                    L V C B M P BI BO  
+                                       
+    @=20   x=1                         
+ The present bridge over the River     
+ Trent at Gunthorpe which carries the  
+ A6097 road, replaced an old toll      
+ bridge in 1927.                       </content>
+	</page></content></entry>

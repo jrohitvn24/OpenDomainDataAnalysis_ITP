@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-52-12/GB-524000-120000-4.xml</id><title type="text"> Entry: pages-GB-52-12 GB-524000-120000-4</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-52-12/GB-524000-120000-4.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-52-12/GB-524000-120000-4.xml/4" rel="edit" /><as:entryId>GB-524000-120000-4</as:entryId><as:updateIndex>204597</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T23:14:52.000Z</updated><published>2011-04-30T23:10:39.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-524000-120000</dblock_id>
+		<year>1986</year>
+		<title>04FARMING STATISTICS</title>
+		<content>  {NO.FARMS USING}:TRACTORS 8 TRAILERS 
+ 8 WINCH 2 DISC-HARROW 5 CULTIVATOR 6  
+ HEDGE-CUTTER 8 MOWER 7 MUCK-SPREADER 4
+ SEED-DRILL 6 POTATO-PLANTER 1         
+ FERTILISER-SPREADER 8 FORAGE-HARVESTER
+ 5 COMBINE HARVESTER 7 MILKING MACHINES
+ 1 ANIMAL TRANSPORTERS/BOXES 6 BALER 8 
+ COMPUTORS 1                           
+{CROPSPRAYING}:FROM TRACTOR 7 BY HAND 1
+ FROM PLANE 1                          
+{FERTILISERS}:CHEMICAL FERTILISERS 7   
+ ORGANIC FERTILISERS 4                 
+{ANIMALS}:SHEEP 3 BEEF CATTLE 5 DAIRY  
+ CATTLE 1 PIGS 2 GOATS 1 POULTRY 2     
+ HORSES 3                              
+{FARMS PRODUCING}:WHEAT 5 BARLEY 7 OIL 
+ SEED RAPE 2 PASTURE 5 HAY 6 SILAGE 2  
+ FRUIT 2 TIMBER 2                      
+{WORK FORCE}:FULL-TIME 23 PART-TIME 18 
+ SECRETARIAL 2                         
+{BUILDINGS}:FARM-HOUSES 7 COTTAGES 13  
+ BARNS 18 ANIMAL HOUSING 6             </content>
+	</page></content></entry>

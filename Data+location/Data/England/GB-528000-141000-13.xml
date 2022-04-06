@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-52-14/GB-528000-141000-13.xml</id><title type="text"> Entry: pages-GB-52-14 GB-528000-141000-13</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-52-14/GB-528000-141000-13.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-52-14/GB-528000-141000-13.xml/3" rel="edit" /><as:entryId>GB-528000-141000-13</as:entryId><as:updateIndex>205137</as:updateIndex><as:revision>2</as:revision><updated>2011-04-30T23:15:08.000Z</updated><published>2011-04-30T23:10:57.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-528000-141000</dblock_id>
+		<year>1986</year>
+		<title>13NOISE LEVELS AROUND GATWICK</title>
+		<content>  {SURVEY OF NOISE LEVELS ALONG AND TO 
+{THE NORTH OF THE APPROACH FLIGHT PATH 
+{OF GATWICK AIRPORT.                   
+ EQUIPMENT:PRECISION SOUND LEVEL METER 
+ 2203 BRUEL AND KJOER ENVIRONMENTAL    
+ NOISE ANALYSER. 162 C.E.L. INSTRUMENTS
+ KINDLY PROVIDED BY REIGATE AND        
+ BANSTEAD HOUSING AND HEALTH DEPARTMENT
+                                       
+ RESULTS:                              
+ LOCATION:  TIME:  NOISE LEV. PK. LEQ. 
+ 285436     13.OO   7O.O          6O.5 
+ 283425     13.5O   76.5          62.3 
+ 293427     14.OO   65.5          57.7 
+ 299413     14.2O   89.O          75.5 
+ 307412     14.35   91.0          76.3 
+ 315412     14.55   89.0          75.5 
+                                       
+ IMPORTANT FACTORS:WIND DIRECTION:     
+ EASTERLY                              
+ NO. OF AIRCRAFT MOVEMENTS/5 MIN.PERIOD
+ = 2.                                  </content>
+	</page></content></entry>

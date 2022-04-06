@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-44-50/GB-440000-507000-16.xml</id><title type="text"> Entry: pages-GB-44-50 GB-440000-507000-16</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-44-50/GB-440000-507000-16.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-44-50/GB-440000-507000-16.xml/3" rel="edit" /><as:entryId>GB-440000-507000-16</as:entryId><as:updateIndex>255475</as:updateIndex><as:revision>2</as:revision><updated>2011-05-01T17:27:52.000Z</updated><published>2011-05-01T17:26:56.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-440000-507000</dblock_id>
+		<year>1986</year>
+		<title>16SCHOOL TIMETABLE</title>
+		<content>{        }P7{TIMETABLE 1984/5}P6       
+ ------------------------------T-------
+ M A|      |   | LANG  |   |P| O |     
+ O S|MATHS | B |  OR   | L |.| P |MUSIC
+ N S|      |   | MATHS |   |E| I |     
+ ------------------------------C---W---
+ T       |A|   | LANG  |   |     | R I 
+ U MATHS |S| R |  OR   | U |DRAMA| I N 
+ E       |S|   | MATHS |   |     | T G 
+ ------------------------------T-------
+ W         |   | LANG  |   |A| O |  P  
+ E SWIMMING| E |  OR   | N |S| P |  .  
+ D         |   | MATHS |   |S| I |  E  
+ ----------------------------G-C-------
+ T A|      |   | LANG  |   | A |       
+ H S| LANG | A |  OR   | C | M | TOPIC 
+ U S|      |   | MATHS |   | E |       
+ ----------------------------S---------
+ F LANG    |   | LANG  |   |A|         
+ R  OR     | K |  OR   | H |S| CRAFTS  
+ I MATHS   |   | MATHS |   |S|         
+ --------------------------------------</content>
+	</page></content></entry>

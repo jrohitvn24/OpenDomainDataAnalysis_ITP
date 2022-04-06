@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-27-58/GB-276000-588000-4.xml</id><title type="text"> Entry: pages-GB-27-58 GB-276000-588000-4</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-27-58/GB-276000-588000-4.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-27-58/GB-276000-588000-4.xml/1" rel="edit" /><as:entryId>GB-276000-588000-4</as:entryId><as:updateIndex>100723</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T06:58:54.000Z</updated><published>2011-04-30T06:58:54.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-276000-588000</dblock_id>
+		<year>1986</year>
+		<title>04Housing Survey</title>
+		<content> This survey was taken by the school   
+ population and may give an indication 
+ of housing in the village.            
+ 1.Kind of House:Farm=17 Cottage=17    
+ Detached=14 Semi-detached=2 Terraced=2
+ 2.Age of House:0-20years=2            
+ 20-50years=8  Older=43                
+ 3.How Many Storeys:1=22  2=27  3=6    
+ 4.How Many Bedrooms:1=0  2=9  3=22    
+ 4=5  More=12                          
+ 5.Do You Have A Garden? Front=37      
+ Rear=37                               
+ 6.Amenities:W.C.=58  Bath/Showerroom50
+ Garage=30  T.V.=53  Video=10  Music   
+ Centre=36  Washing Machine=50         
+ Dishwasher=11  Tumble Dryer=15        
+ Freezer=45  Computer=7                
+ 7.Central Heating:Coal=9  Gas=1  Oil=6
+ Electric=6                            
+ 8.House Ownership:Self=25  Council=2  
+ Employer=19  Another=5                
+{Survey Taken On 52 Houses.}           </content>
+	</page></content></entry>

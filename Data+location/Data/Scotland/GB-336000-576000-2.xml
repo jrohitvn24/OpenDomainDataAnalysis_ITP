@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-33-57/GB-336000-576000-2.xml</id><title type="text"> Entry: pages-GB-33-57 GB-336000-576000-2</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-33-57/GB-336000-576000-2.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-33-57/GB-336000-576000-2.xml/3" rel="edit" /><as:entryId>GB-336000-576000-2</as:entryId><as:updateIndex>307077</as:updateIndex><as:revision>2</as:revision><updated>2011-05-02T19:33:49.000Z</updated><published>2011-05-02T19:29:35.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-336000-576000</dblock_id>
+		<year>1986</year>
+		<title>02Farming</title>
+		<content>{FORESTRY                              
+{                                      
+ This is the year of a forester who    
+ works in the woods in this block:     
+                                       
+{JANUARY:}Start ploughing for planting 
+          trees.                       
+{FEBUARY:}Draining ground for planting.
+{MARCH  :}Start to plant saplings in   
+          ploughed area.               
+{APRIL  :}Still planting and spraying  
+          weedkiller.                  
+{MAY    :}Still spraying weedkiller.   
+{JUNE   :}Now hand weeding and cutting 
+          scrub.                       
+{JULY   :}Start to weed very heavily.  
+{AUG-SEP:}Spraying scrub.Weeding.      
+{OCT-NOV:}Cutting christmas trees.     
+{DECEMBR:}Draining and scrub cutting.  
+ Thinning and felling are  continuous  
+ as time permits throughout the year.  
+{see page three for a forester's day.} </content>
+	</page></content></entry>

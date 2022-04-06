@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-42-27/GB-424000-276000-9.xml</id><title type="text"> Entry: pages-GB-42-27 GB-424000-276000-9</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-42-27/GB-424000-276000-9.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-42-27/GB-424000-276000-9.xml/1" rel="edit" /><as:entryId>GB-424000-276000-9</as:entryId><as:updateIndex>250241</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T13:43:26.000Z</updated><published>2011-05-01T13:43:26.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-424000-276000</dblock_id>
+		<year>1986</year>
+		<title>09ELECTRICITY SUB-STATIONS</title>
+		<content> Electricity comes to our homes from a 
+ power station. The electrical pressure
+ in the wires is controlled by the     
+ output of the generators and by       
+ sub-stations along the route. At      
+ Hodgetts Lane is a sub-station which  
+ feeds electricity to the national Grid
+ system. This sub-station operates at  
+ 275,000 and 400,000 volts. The        
+ electricity from here is carried to   
+ Grid supply points by means of        
+ overhead transmission lines suspended 
+ from transmossion towers. Sometimes in
+ built-up areas underground cables are 
+ used instead of overhead lines.       
+ Tanners Lane sub-station is a bulk    
+ supply point and this reduces the     
+ voltage to 11,000 volts. The 11,000   
+ volt cables then go to sub-stations   
+ where the voltage is again transformed
+ to 240 volts for direct use in shops, 
+ schools, homes and factories.         </content>
+	</page></content></entry>

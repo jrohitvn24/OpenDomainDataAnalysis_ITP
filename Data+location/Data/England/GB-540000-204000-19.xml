@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-54-20/GB-540000-204000-19.xml</id><title type="text"> Entry: pages-GB-54-20 GB-540000-204000-19</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-54-20/GB-540000-204000-19.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-54-20/GB-540000-204000-19.xml/3" rel="edit" /><as:entryId>GB-540000-204000-19</as:entryId><as:updateIndex>113605</as:updateIndex><as:revision>2</as:revision><updated>2011-04-30T07:48:57.000Z</updated><published>2011-04-30T07:44:42.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-540000-204000</dblock_id>
+		<year>1986</year>
+		<title>19SQUARES 10/11/12</title>
+		<content> SQUARE10                              
+ NURSERIES/GLASSHOUSES=1% OF LANDUSE   
+ BUILDINGS            =2% OF LANDUSE   
+ WOODLAND             =8% OF LANDUSE   
+ FARMBUILDINGS        =1% OF LANDUSE   
+ COMMONLAND           =23% OF LANDUSE  
+ AGRICULTURAL LAND    =65% OF LANDUSE  
+ SQUARE 11                             
+ NURSERIES/GLASSHOUSES=0% OF LANDUSE   
+ BUILDINGS            =2% OF LANDUSE   
+ WOODLAND             =7% OF LANDUSE   
+ FARMBUILDINGS        =0% OF LANDUSE   
+ COMMONLAND           =0% OF LANDUSE   
+ AGRICULTURAL LAND    =91% OF LANDUSE  
+ SQUARE 12                             
+ NURSERIES/GLASSHOUSES=0% OF LANDUSE   
+ BUILDINGS            =2% OF LANDUSE   
+ WOODLAND             =2% OF LANDUSE   
+ FARM BUILDINGS       =2% OF LANDUSE   
+ COMMONLAND           =0% OF LANDUSE   
+ AGRICULTURAL LAND    =94% OF LANDUSE  
+                                       </content>
+	</page></content></entry>

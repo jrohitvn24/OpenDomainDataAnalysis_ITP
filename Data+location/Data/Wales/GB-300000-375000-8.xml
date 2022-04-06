@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-30-37/GB-300000-375000-8.xml</id><title type="text"> Entry: pages-GB-30-37 GB-300000-375000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-30-37/GB-300000-375000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-30-37/GB-300000-375000-8.xml/4" rel="edit" /><as:entryId>GB-300000-375000-8</as:entryId><as:updateIndex>108067</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T07:31:08.000Z</updated><published>2011-04-30T07:18:53.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-300000-375000</dblock_id>
+		<year>1986</year>
+		<title>08HEALTH A Doctors Day</title>
+		<content> A doctor will start his day just      
+ before nine o'clock by doing a ward   
+ round which takes on average half an  
+ hour. He sees the patients in the     
+{ward}to decide whether they are well  
+ enough to go home or whether they need
+ futher treatment.After the ward round 
+ the doctor will go to{theatre}to      
+ operate on patients.After theatre he  
+ will go back to the ward to check the 
+ patient for the following day's       
+ operation,to be sure they are fit to  
+ undergo an operation.In the afternoon 
+ they see patients in the{"out patient"
+ department.In the evening one doctor  
+ per department has to be "on call" for
+ emergencies.                          
+ A{ward}is a section of the hospital   
+ where patients stay.                  
+ A{theatre}is a place where doctors    
+ operate on patient.{"Out patients"}are
+ patients which stay at their homes.   </content>
+	</page></content></entry>

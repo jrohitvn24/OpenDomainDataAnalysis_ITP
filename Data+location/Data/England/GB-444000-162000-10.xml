@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-44-16/GB-444000-162000-10.xml</id><title type="text"> Entry: pages-GB-44-16 GB-444000-162000-10</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-44-16/GB-444000-162000-10.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-44-16/GB-444000-162000-10.xml/5" rel="edit" /><as:entryId>GB-444000-162000-10</as:entryId><as:updateIndex>256497</as:updateIndex><as:revision>4</as:revision><updated>2011-05-01T20:45:32.000Z</updated><published>2011-05-01T20:42:44.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-444000-162000</dblock_id>
+		<year>1986</year>
+		<title>10How People Look.</title>
+		<content> We carried out a{statistical survey}of
+ the pupils in our school. We wanted to
+ find out how tall they were and a     
+ little about their colouring.These are
+ our results.                          
+{Mean Height:}        9yrs.  1m 35cm   
+      10yrs  1m 41cm  11yrs  1m 46cm   
+      12yrs  1m 49cm  13yrs  1m 44cm   
+      14yrs  1m 58cm  15yrs  1m 60cm   
+{Median Shoe size:}   9yrs.  2         
+      10yrs  3        11yrs  4         
+      12yrs  5        13yrs  5         
+      14yrs  6        15yrs  5         
+{Modal Eye Colour:}  Blue.             
+                                       
+                                       
+{Modal Hair Colour:  }Light brown.     
+                                       
+{Mean Head Span:}     9yrs.  53cms.    
+      10yrs. 51cms.   11yrs. 52cms.    
+      12yrs. 55cms.   13yrs. 53cms.    
+      14yrs. 55cms.   15yrs. 55cms.    </content>
+	</page></content></entry>

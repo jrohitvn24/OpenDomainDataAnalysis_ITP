@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-42-42/GB-420000-429000-4.xml</id><title type="text"> Entry: pages-GB-42-42 GB-420000-429000-4</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-42-42/GB-420000-429000-4.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-42-42/GB-420000-429000-4.xml/1" rel="edit" /><as:entryId>GB-420000-429000-4</as:entryId><as:updateIndex>261423</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T21:05:44.000Z</updated><published>2011-05-01T21:05:44.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-420000-429000</dblock_id>
+		<year>1986</year>
+		<title>04TONG HOUSING SURVEY</title>
+		<content>{                                      
+ Sample:{38}houses visited.            
+{Q1. How long has the house been built?
+  Under 20 yrs:18                      
+  Over 100 yrs:20(including 1 in 1625) 
+{Q2. How long have you lived in it?    
+  Old houses:1-75 yrs.                 
+  New houses:8 mths-12 yrs.            
+{Q3. Are you local or from afar?       
+  All local except:                    
+  Brighouse-1; Harrogate-2;            
+  Lancashire-1; London-1; Rhodesia-1.  
+{Q4. How far do you travel to work?    
+  0-3 miles:12; 4-10 miles:14;         
+  10+ miles:3 (Retired:9).             
+{Q5. Why did you choose Tong?          
+  Born there-Job-Peace &amp; Quiet-Parents.
+{Q6. What changes would you like?      
+  None-Bus service-Lower rates-No more 
+  building-lower speed limits.         
+                                       
+                                       </content>
+	</page></content></entry>

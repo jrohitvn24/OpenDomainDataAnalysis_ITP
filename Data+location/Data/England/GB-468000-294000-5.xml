@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-46-29/GB-468000-294000-5.xml</id><title type="text"> Entry: pages-GB-46-29 GB-468000-294000-5</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-46-29/GB-468000-294000-5.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-46-29/GB-468000-294000-5.xml/4" rel="edit" /><as:entryId>GB-468000-294000-5</as:entryId><as:updateIndex>318121</as:updateIndex><as:revision>3</as:revision><updated>2011-05-02T20:27:23.000Z</updated><published>2011-05-02T20:25:01.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-468000-294000</dblock_id>
+		<year>1986</year>
+		<title>05TRANSPORT ROAD TRAFFIC COUNT</title>
+		<content>{TRANSPORT FROM DIRECTION LEICESTER    
+ ======================================
+ |    |    |    |     |     |    |    |
+ |    |A.L.| L. |  V. |  C. |M.C.| B. |
+ ======================================
+ |0940|    |    |     |     |    |    |
+ | TO | 12 | 58 | 102 | 349 |  1 |  0 |
+ |1100|    |    |     |     |    |    |
+ ======================================
+ |1100|    |    |     |     |    |    |
+ | TO | 14 | 56 |  57 | 343 |  4 |  1 |
+ |1220|    |    |     |     |    |    |
+ ======================================
+ |1220|    |    |     |     |    |    |
+ | TO | 10 | 55 |  66 | 406 |  8 |  0 |
+ |1340|    |    |     |     |    |    |
+ ======================================
+ |1340|    |    |     |     |    |    |
+ | TO | 10 | 59 |  67 | 417 | 10 |  3 |
+ |1500|    |    |     |     |    |    |
+ ======================================
+                                       </content>
+	</page></content></entry>

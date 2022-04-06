@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-45-78/GB-452000-78000-12.xml</id><title type="text"> Entry: pages-GB-45-78 GB-452000-78000-12</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-45-78/GB-452000-78000-12.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-45-78/GB-452000-78000-12.xml/1" rel="edit" /><as:entryId>GB-452000-78000-12</as:entryId><as:updateIndex>290059</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T17:47:45.000Z</updated><published>2011-05-02T17:47:45.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-452000-78000</dblock_id>
+		<year>1986</year>
+		<title>12A survey of Wroxall shops.</title>
+		<content>{TYPE OF SHOP  MERCHANDISE   SUPPLIERS 
+{                                      
+{1}Restaurant  Food          Butchers &amp;
+                            Greengrocer
+{2}Greengrocer Fruit &amp; Veg.  Home-grown
+{3}Fish and    Fish,chips,   Cash&amp;Carry
+   Chip shop   pies,curries  Fish docks
+{4 }Public     Beer,wines    Brewery &amp; 
+     House     and food      Cash&amp;Carry
+{5}Butcher     Meat          Wholesaler
+                                       
+{  OTHER     DO YOU   OPENING  DELIVERY
+{  STAFF} { LIKE JOB   TIMES   OF STOCK
+{                                      
+{1}1 Full,1    Yes     12-2pm   Daily  
+  Part time           7.15-9.30        
+{2}Just me     Yes     9am-5pm  Daily  
+{3 }Local      Yes     12-1.30  Daily  
+    girls              5-10pm          
+{4}Barstaff    Yes     11-2.30  Weekly 
+                       7-11pm  (Friday)
+{5}My son      Yes     9-5pm    Daily  </content>
+	</page></content></entry>

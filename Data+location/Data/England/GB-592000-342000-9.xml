@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-59-34/GB-592000-342000-9.xml</id><title type="text"> Entry: pages-GB-59-34 GB-592000-342000-9</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-59-34/GB-592000-342000-9.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-59-34/GB-592000-342000-9.xml/1" rel="edit" /><as:entryId>GB-592000-342000-9</as:entryId><as:updateIndex>128341</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T08:54:13.000Z</updated><published>2011-04-30T08:54:13.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-592000-342000</dblock_id>
+		<year>1986</year>
+		<title>09RAINFALL  WELLS-NEXT-THE-SEA</title>
+		<content>                                       
+Mean Annual Rainfall   612mm           
+Rainfall Station 17202701              
+                                       
+Monthly       ACTUAL AMOUNTS RECORDED  
+Average  1980 1981  1982 1983 1984 1985
+---------------------------------------
+JAN  55  42.6 47.4  22.4 38.3 70.2 81.7
+FEB  44  64.4 25.8  12.3 32.5 34.7  2.0
+MAR  35  64.0 78.2  50.5 44.0 56.7 41.0
+APR  50  20.2 97.9  12.6 83.5 16.8 42.0
+MAY  40   7.2 49.9  56.9 76.1 86.9 63.9
+JUN  38  77.0 25.9  80.1 25.5 85.0 80.6
+JUL  62  39.3 53.6  21.1 12.0 57.5 44.5
+AUG  50 127.3 16.9  43.1  5.0 32.2 70.8
+SEP  55  19.7 83.5  67.1 71.4 98.8 16.5
+OCT  55  87.8 65.1 116.1 41.6 34.3 20.4
+NOV  65  69.5 40.3  70.6 53.7 71.4 86.7
+DEC  60  53.7 35.5  44.9 52.2 40.1     
+                                       
+TOT 612 672.7 620  598.2 535.8 684.6 --
+                                       </content>
+	</page></content></entry>

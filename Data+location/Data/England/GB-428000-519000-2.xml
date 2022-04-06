@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-42-51/GB-428000-519000-2.xml</id><title type="text"> Entry: pages-GB-42-51 GB-428000-519000-2</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-42-51/GB-428000-519000-2.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-42-51/GB-428000-519000-2.xml/1" rel="edit" /><as:entryId>GB-428000-519000-2</as:entryId><as:updateIndex>263451</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T21:37:34.000Z</updated><published>2011-05-01T21:37:34.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-428000-519000</dblock_id>
+		<year>1986</year>
+		<title>02Population in Brafferton</title>
+		<content>   Here are the population statistics  
+ for Brafferton from 1801 to 1971 when 
+ Brafferton was absorbed into the      
+ larger Sadberge area.Population has   
+ grown a little in the last ten years. 
+         1801.......212                
+         1811       204                
+         1821       263                
+         1831       247                
+         1841       211                
+         1851...... 206 (42 households)
+         1861       254                
+         1871       236                
+         1881       171                
+         1891       157                
+         1901.......129                
+         1911       144                
+         1921       163                
+         1931       178                
+         1951       183                
+         1961.......160                
+         1971       150 (50 households)</content>
+	</page></content></entry>

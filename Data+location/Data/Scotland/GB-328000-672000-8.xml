@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-32-67/GB-328000-672000-8.xml</id><title type="text"> Entry: pages-GB-32-67 GB-328000-672000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-32-67/GB-328000-672000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-32-67/GB-328000-672000-8.xml/3" rel="edit" /><as:entryId>GB-328000-672000-8</as:entryId><as:updateIndex>284119</as:updateIndex><as:revision>2</as:revision><updated>2011-05-02T08:41:49.000Z</updated><published>2011-05-02T08:37:50.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-328000-672000</dblock_id>
+		<year>1986</year>
+		<title>08HOUSING 1</title>
+		<content>{Housing Survey}_ Duddingston Primary  
+ pupils interviewed 167 people living  
+ in the D block. Here are the results: 
+{Q1.TYPE OF HOUSE}_Detached 36;        
+ Semi_Detached 37; Terraced 32; Flat   
+ 62; (Towerblock 8; Tenement 54).      
+{Q2.AGE OF HOUSE}_ Post 1945 80;       
+ 1918_1945 48; Pre_1918 39.            
+{Q3.TENURE}_ Owner occupied 110; Rented
+ 57.(Council 44; Private Landlord 5;   
+ Other 8).                             
+{Q4.NUMBER OF ROOMS}_ Average of 4.25  
+ excluding bathrooms and kitchens.     
+{Q5.GARDEN}_ Yes 137; No 30. If yes is 
+ it (a) your own 118; (b) communal 19. 
+{Q6.BUILDING MATERIALS}_ (a) Walls _   
+ stone or artificial stone 72; brick   
+ and harling 87; wood and harling 1;   
+ other 7. (b) Roofs _ slates 109; tiles
+ 39; other 19.                         
+{Q7.LENGTH OF STAY}_ &lt; 5 years 64; 5 to
+ 10 years 23; > 10 years 80.           </content>
+	</page></content></entry>

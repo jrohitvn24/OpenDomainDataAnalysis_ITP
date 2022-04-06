@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-62-13/GB-620000-135000-17.xml</id><title type="text"> Entry: pages-GB-62-13 GB-620000-135000-17</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-62-13/GB-620000-135000-17.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-62-13/GB-620000-135000-17.xml/8" rel="edit" /><as:entryId>GB-620000-135000-17</as:entryId><as:updateIndex>140817</as:updateIndex><as:revision>7</as:revision><updated>2011-04-30T16:20:49.000Z</updated><published>2011-04-30T14:26:06.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-620000-135000</dblock_id>
+		<year>1986</year>
+		<title>17 FOLKESTONE:TRAFFIC ANALYSIS</title>
+		<content>Terminal roundabout M20/A20(T)         
+Grid reference:213376    Date:1.6.85   
+{LORRIES}: Time:0915-1100              
+Origin:      ENGLISH FRENCH SPANISH    
+Direction:                             
+Dover          21      2       4       
+Folkestone      7      0       0       
+Ashford        22      3       0       
+TOTAL: 64                              
+         Time:1250-1510                
+Origin:   ENGLISH FRENCH SPANISH GERMAN
+Direction:                             
+Dover       30      3       3      1   
+Folkestone   7      0       0      0   
+Ashford     36      0       0      2   
+TOTAL: 91                              
+{COACHES}: Time:1250-1510              
+Origin:    ENGLISH                     
+Direction:                             
+Dover        11                        
+Folkestone    4                        
+Ashford       6  TOTAL: 21             </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-33-20/GB-332000-204000-7.xml</id><title type="text"> Entry: pages-GB-33-20 GB-332000-204000-7</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-33-20/GB-332000-204000-7.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-33-20/GB-332000-204000-7.xml/4" rel="edit" /><as:entryId>GB-332000-204000-7</as:entryId><as:updateIndex>303315</as:updateIndex><as:revision>3</as:revision><updated>2011-05-02T19:31:42.000Z</updated><published>2011-05-02T19:19:14.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-332000-204000</dblock_id>
+		<year>1986</year>
+		<title>07TRAFFIC COUNT GOYTRE -TABLE</title>
+		<content> Data collected was as follows:        
+      {May 28th -Bank Holiday          
+{To Pontypool        To Abergavenny    
+ Cars      307               585       
+ Lorries    20                27       
+ Vans       25                50       
+ Buses       3                13       
+ Motorbikes  2                11       
+ Horseboxes  1                 3       
+{Total     358               689       
+{                                      
+{      July 2nd - Workday Traffic      
+{To Pontypool        To Abergavenny    
+ Cars      306               435       
+ Lorries    35                36       
+ Vans       53                51       
+ Buses       8                 7       
+ Motorbikes  4                 3       
+ Horseboxes  1                 2       
+{Total     407               534       
+{                                      
+{                                      </content>
+	</page></content></entry>

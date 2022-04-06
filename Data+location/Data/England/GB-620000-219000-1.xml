@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-62-21/GB-620000-219000-1.xml</id><title type="text"> Entry: pages-GB-62-21 GB-620000-219000-1</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-62-21/GB-620000-219000-1.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-62-21/GB-620000-219000-1.xml/6" rel="edit" /><as:entryId>GB-620000-219000-1</as:entryId><as:updateIndex>141653</as:updateIndex><as:revision>5</as:revision><updated>2011-04-30T16:21:13.000Z</updated><published>2011-04-30T14:35:28.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-620000-219000</dblock_id>
+		<year>1986</year>
+		<title>01GAZETTEER 06200219</title>
+		<content>{LOCATION}NORTH EAST ESSEX COAST.      
+{VILLAGES }        {P0PULATION}        
+ GREAT HOLLAND      789                
+ KIRBY CROSS        2379               
+ KIRBY LE SOKEN *     1267             
+ (ONLY PART OF VILLAGE IN BLOCK)       
+                    NOT ALL IN BLOCK)  
+{TOWN                                  
+ FRINTON ON SEA     4613 (778 CLAIM TO 
+                    BE OVER 65)        
+ *SOKEN IS A SAXON WORD MEANING        
+ "LIBERTY" AND REFERS TO THE SPECIAL   
+ LAND-OWNING PRIVILEGES GIVEN TO THE   
+ AREA BY THE DANES.                    
+{LAND USE}NO HEAVY INDUSTRY AND VERY   
+ LITTLE LIGHT INDUSTRY.                
+          ARABLE FARMLAND PREDOMINATES.
+{COMMUNICATIONS}B1033 LINKS FRINTON    
+ WITH ROADS TO COLCHESTER,LONDON AND   
+ IPSWICH.                              
+ BRITISH RAIL STATIONS AT FRINTON AND  
+ KIRBY CROSS.                          </content>
+	</page></content></entry>

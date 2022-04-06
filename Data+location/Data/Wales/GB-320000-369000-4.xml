@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-32-36/GB-320000-369000-4.xml</id><title type="text"> Entry: pages-GB-32-36 GB-320000-369000-4</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-32-36/GB-320000-369000-4.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-32-36/GB-320000-369000-4.xml/1" rel="edit" /><as:entryId>GB-320000-369000-4</as:entryId><as:updateIndex>299523</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T19:07:07.000Z</updated><published>2011-05-02T19:07:07.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-320000-369000</dblock_id>
+		<year>1986</year>
+		<title>04Home Life Survey (Cont'd)</title>
+		<content>{Time of Evening Meal:  Per Cent       
+  4.30-5.00pm             17.2         
+  5.00-5.30pm             27.7         
+  5.30-6.00pm             31.0         
+  6.00-6.30pm             17.2         
+  After 6.30pm             6.9         
+                                       
+{Time to Bed:    Weekday     Weekend   
+{               (Per Cent)  (Per Cent) 
+  Before 9.30pm    10.3         00     
+   9.30-10.00pm    48.5         00     
+  10.00-10.30pm    27.5        6.9     
+  10.30-11.00pm    10.3       10.3     
+  11.00-12.00       3.4       41.4     
+  After Midnight    00        41.4     
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

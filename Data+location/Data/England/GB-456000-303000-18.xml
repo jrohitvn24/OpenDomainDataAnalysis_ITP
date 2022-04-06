@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-45-30/GB-456000-303000-18.xml</id><title type="text"> Entry: pages-GB-45-30 GB-456000-303000-18</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-45-30/GB-456000-303000-18.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-45-30/GB-456000-303000-18.xml/1" rel="edit" /><as:entryId>GB-456000-303000-18</as:entryId><as:updateIndex>341449</as:updateIndex><as:revision>0</as:revision><updated>2011-05-04T10:18:28.000Z</updated><published>2011-05-04T10:18:28.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-456000-303000</dblock_id>
+		<year>1986</year>
+		<title>18Hi-tech in Leicester</title>
+		<content> Leicester has a computer controlled{  
+{Automated Traffic Signals}system.     
+ Traffic Light timing is dependant on  
+ the time of day and the object is to  
+ limit the length of traffic queues at 
+ junctions. However if a long queue    
+ develops or an emergency vehicle needs
+ to get through,{manual control}can    
+ take place. Traffic queues are        
+ detected by{monitor cameras}at each   
+ major junction.                       
+ Every bus in the City Council's       
+ service,{Leicester City Bus,}is radio 
+ controlled to ensure a regular and    
+ reliable service.                     
+ A number of{textile factories}use{    
+{computerised knitting machines.}The   
+ patterns are programmed into the      
+ computer, and when a different pattern
+ is selected, the yarn needles are     
+ changed in seconds instead of up to a 
+ day which used to be required.        </content>
+	</page></content></entry>

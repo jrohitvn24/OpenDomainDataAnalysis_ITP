@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-42-42/GB-428000-429000-17.xml</id><title type="text"> Entry: pages-GB-42-42 GB-428000-429000-17</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-42-42/GB-428000-429000-17.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-42-42/GB-428000-429000-17.xml/1" rel="edit" /><as:entryId>GB-428000-429000-17</as:entryId><as:updateIndex>261651</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T21:05:52.000Z</updated><published>2011-05-01T21:05:52.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-428000-429000</dblock_id>
+		<year>1986</year>
+		<title>17ROAD ACCIDENTS IN BELLE ISLE</title>
+		<content> In our school this year two people    
+ have been badly hurt in road accidents
+ .We decided to do a survey of road    
+ accidents in the Belle Isle area      
+{WHEN ACCIDENTS OCCURRED IN 1984       
+ ________________________________      
+{DAY}SUN 6    THUR 10                  
+ ___ MON 15   FRI 12                   
+     TUES 9   SAT 8                    
+     WED 17                            
+{MONTH                                 
+ _____ JAN 8  APR 4  JLY 9  OCT 2      
+       FEB 5  MAY 7  AUG 3  NOV 9      
+       MAR 9  JUN 8  SEP 6  DEC 7      
+{TIME                                  
+ ____ 0-3 3-6 6-9 9-12 12-15 15-18(hrs)
+      {6   0   7   10    14    26      
+                                       
+      18-21 21-24(hrs)                 
+      {10     4                        
+                                       
+                                       </content>
+	</page></content></entry>

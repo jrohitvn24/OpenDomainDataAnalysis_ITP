@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-44-51/GB-440000-516000-15.xml</id><title type="text"> Entry: pages-GB-44-51 GB-440000-516000-15</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-44-51/GB-440000-516000-15.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-44-51/GB-440000-516000-15.xml/1" rel="edit" /><as:entryId>GB-440000-516000-15</as:entryId><as:updateIndex>255715</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T17:27:59.000Z</updated><published>2011-05-01T17:27:59.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-440000-516000</dblock_id>
+		<year>1986</year>
+		<title>15East Bound Traffic</title>
+		<content>{ EAST BOUND}TRAFFIC                   
+                                       
+ TIME*   CARS  LORRIES/ BUSES  OTHERS  
+               VANS                    
+ ====================================  
+ 9.30  : 107 :   14   :   1  :    8    
+                                       
+ 10.30 : 105 :    7   :   1  :    8    
+                                       
+ 11.30 :  96 :   17   :   1  :    5    
+                                       
+ 12.30 :  42 :   11   :   1  :    5    
+                                       
+ 1.30  :  85 :   15   :   1  :    4    
+                                       
+ 2.30  : 100 :    9   :   2  :    4    
+                                       
+ 3.30  : 140 :   22   :   2  :    8    
+                                       
+ 4.30  :  70 :   11   :   3  :    5    
+ ====================================  
+ *(15 minute from start time)          </content>
+	</page></content></entry>

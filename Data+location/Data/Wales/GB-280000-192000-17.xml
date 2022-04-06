@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-28-19/GB-280000-192000-17.xml</id><title type="text"> Entry: pages-GB-28-19 GB-280000-192000-17</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-28-19/GB-280000-192000-17.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-28-19/GB-280000-192000-17.xml/1" rel="edit" /><as:entryId>GB-280000-192000-17</as:entryId><as:updateIndex>234879</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T11:00:29.000Z</updated><published>2011-05-01T11:00:29.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-280000-192000</dblock_id>
+		<year>1986</year>
+		<title>17BRYN STREET STUDY CONT.</title>
+		<content>{TRANSPORT:}(TO WORK)                  
+ MOTORCARS    = 06                     
+ MOTORCYCLES  = 01                     
+ VANS         = 01                     
+ SERVICE BUS  = 02                     
+                                       
+{HOBBIES:}                             
+ READING      = 07; COOKERY    = 02;   
+ KNITTING     = 03; MINI RUGBY = 01;   
+ SUPPORT/TEAMS= 02; ST.JOHNS   = 01;   
+ MUSIC        = 02; FISHING    = 01;   
+ GARDENING    = 02; CHURCH     = 01;   
+ MOTORING     = 02; DARTS      = 01;   
+ PONY EVENTS  = 01; PHOTOGRAPHY= 01;   
+{WHERE THEY SHOP:(2 SHOPS IN VILLAGE)} 
+ 9 SHOP IN PORT TALBOT;                
+ 1 SHOPS IN VILLAGE;                   
+ 6 SHOP IN MAESTEG.                    
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-48-20/GB-480000-204000-2.xml</id><title type="text"> Entry: pages-GB-48-20 GB-480000-204000-2</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-48-20/GB-480000-204000-2.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-48-20/GB-480000-204000-2.xml/2" rel="edit" /><as:entryId>GB-480000-204000-2</as:entryId><as:updateIndex>320367</as:updateIndex><as:revision>1</as:revision><updated>2011-05-02T20:37:53.000Z</updated><published>2011-05-02T20:36:05.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-480000-204000</dblock_id>
+		<year>1986</year>
+		<title>02Housing-The old village M.R.</title>
+		<content>                                       
+Material used for houses No. occupants 
+{KEY R=ROOF W=WALLS T=TILE TH=THATCH   
+S=SLATE F=FLINT B=BRICK WD=WATTLE&amp;DAUB}
+                                       
+Churchways       R TH W F B 2people    
+Moss Rose        R TH W WD  1person    
+Flint cottage    R TH W F B 2people    
+1590 AD          R T  W B   3people    
+Saddlers         R T  W F B 1person    
+Friars           R TH W B   2people    
+Monkton Cottage  R T  W B   3people    
+Monks Mede       R T  W B              
+Monks Thacky     R TH W F B 4people    
+The Granary      R T  W B   1person    
+Haven cottage    R T  W B   2people    
+Bakehouse CottageR T  W B   1person    
+Forge Cottages   R S  W B   5people    
+The Old BakehouseR T  W B   1person    
+Tudor antiques   R TS W B   SHOP       
+Lime House       R T  W B   3people    
+Rinn             R T  W B   4people    </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-57-24/GB-572000-243000-3.xml</id><title type="text"> Entry: pages-GB-57-24 GB-572000-243000-3</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-57-24/GB-572000-243000-3.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-57-24/GB-572000-243000-3.xml/1" rel="edit" /><as:entryId>GB-572000-243000-3</as:entryId><as:updateIndex>125337</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T08:39:28.000Z</updated><published>2011-04-30T08:39:28.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-572000-243000</dblock_id>
+		<year>1986</year>
+		<title>03Stoke-by-Clare population 1</title>
+		<content> The children of the primary school    
+conducted this survey.                 
+POPULATION:                            
+Total number of houses           { 179}
+Total adults                     { 317}
+Total children                    { 63}
+Number of houses with cars       { 118}
+Number of houses with  residents       
+travelling from Stoke to work     { 79}
+OCCUPATION:                            
+White-collar    { 35 male   40 female} 
+Blue-collar     { 47 male   23 female} 
+Agriculture     { 23 male    7 female} 
+Unemployed       { 4 male    0 female} 
+                                       
+                                       
+Retired                    { 96}       
+No information/housewives  { 42}       
+                                       
+   TOTAL { 317}                        
+                                       
+                                       </content>
+	</page></content></entry>

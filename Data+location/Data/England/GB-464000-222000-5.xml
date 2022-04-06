@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-46-22/GB-464000-222000-5.xml</id><title type="text"> Entry: pages-GB-46-22 GB-464000-222000-5</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-46-22/GB-464000-222000-5.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-46-22/GB-464000-222000-5.xml/1" rel="edit" /><as:entryId>GB-464000-222000-5</as:entryId><as:updateIndex>410433</as:updateIndex><as:revision>0</as:revision><updated>2011-05-19T15:37:01.000Z</updated><published>2011-05-19T15:37:01.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-464000-222000</dblock_id>
+		<year>1986</year>
+		<title>05LOCAL EMPLOYMENT</title>
+		<content>                                       
+ This is a survey of 109 employed      
+ persons in the block and the distances
+ they travelled to work.               
+                                       
+{AGRICULTURE      }  19     17.4%      
+{MANUAL  }           30     27.5%      
+{OFFICE                                
+ (includes shops)    23     21.1%      
+{PROFESSIONAL   }    37     33.9%      
+                                       
+                                       
+{UNDER 10 miles}     59     54.1%      
+{10 - 30 miles}      39     35.8%      
+{MORE THAN 30 miles} 11     10.1%      
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

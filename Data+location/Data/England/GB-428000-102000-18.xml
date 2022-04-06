@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-42-10/GB-428000-102000-18.xml</id><title type="text"> Entry: pages-GB-42-10 GB-428000-102000-18</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-42-10/GB-428000-102000-18.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-42-10/GB-428000-102000-18.xml/2" rel="edit" /><as:entryId>GB-428000-102000-18</as:entryId><as:updateIndex>240191</as:updateIndex><as:revision>1</as:revision><updated>2011-05-01T11:53:26.000Z</updated><published>2011-05-01T11:49:53.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-428000-102000</dblock_id>
+		<year>1986</year>
+		<title>18Traffic Survey 2</title>
+		<content> The results for Grigg Lane were:      
+{Cars}180 per 45 minutes               
+{Lorries}27 per 45 minutes             
+{Motor Bikes}2 per 45 minutes          
+{Buses}0 per 45 minutes                
+{Bicycles}4 per 45 minutes             
+{Pedestrians}15 per 45 minutes         
+{Cars with Caravans}2 per 45 minutes.  
+                                       
+ The results for Sway Road were:       
+{Cars}176 per 45 minutes               
+{Lorries} 36 per 45 minutes            
+{Motor Bikes}17 per 45 minutes         
+{Buses}1 per 45 minutes                
+{Bicycles}23 per 45 minutes            
+{Pedestrians}198 per 45 minutes        
+{Cars with Caravans}15 per 45 minutes  
+                                       
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

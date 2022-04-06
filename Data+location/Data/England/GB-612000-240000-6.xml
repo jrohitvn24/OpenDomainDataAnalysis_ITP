@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-61-24/GB-612000-240000-6.xml</id><title type="text"> Entry: pages-GB-61-24 GB-612000-240000-6</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-61-24/GB-612000-240000-6.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-61-24/GB-612000-240000-6.xml/1" rel="edit" /><as:entryId>GB-612000-240000-6</as:entryId><as:updateIndex>140029</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T14:19:14.000Z</updated><published>2011-04-30T14:19:14.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-612000-240000</dblock_id>
+		<year>1986</year>
+		<title>06Stoke Park Survey -results 5</title>
+		<content>TRANSPORT -household use of            
+A Cars; B M/Cycle; C Bicycle; D Walking
+E 'Bus; F Taxi;  G Train.              
+                                       
+              A   B   C   D   E   F   G
+Work        108  15  26  37  29   5   2
+Local Shops  45   4  17 127  12   0   0
+Town Shops   86   2   4  25  68   4   1
+Holidays    126   0   0   1   9   1  20
+Days out    135   1   2   6  25   2  26
+See friends 121   2   6  55  35   0   3
+See relative132   0   3  39  36   1   6
+                                       
+11% households had no car.             
+                                       
+HEALTH -number of visits per year:     
+To doctor's surgery 726                
+To hospital         202                
+To dentist          477                
+To home by doctor   172                
+No medical help       2                
+                                       </content>
+	</page></content></entry>

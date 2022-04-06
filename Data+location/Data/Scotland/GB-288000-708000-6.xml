@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-28-70/GB-288000-708000-6.xml</id><title type="text"> Entry: pages-GB-28-70 GB-288000-708000-6</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-28-70/GB-288000-708000-6.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-28-70/GB-288000-708000-6.xml/3" rel="edit" /><as:entryId>GB-288000-708000-6</as:entryId><as:updateIndex>237995</as:updateIndex><as:revision>2</as:revision><updated>2011-05-01T11:34:34.000Z</updated><published>2011-05-01T11:22:56.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-288000-708000</dblock_id>
+		<year>1986</year>
+		<title>06Attitudes</title>
+		<content> The questionaire asked if people liked
+ living in Blackford. The responses are
+ tabulated below:                      
+ ______________________________________
+          Male        Female     Total 
+ ______________________________________
+        Yes  No     Yes   No    Yes No 
+ --------------------------------------
+  0- 9   1    1      5    0     6   1  
+ 10-19   8    4      7    4    15   8  
+ 20-29   8    0     10    2    18   2  
+ 30-39  10    2     12    1    22   3  
+ 40-49  10    0      8    1    18   1  
+ 50-59  11    1     10    1    21   1  
+ 60-69   7    0      8    1    15   1  
+ 70-79   4    0      9    1    13   1  
+ 80-89   3    0      2    0     5   0  
+ ______________________________________
+ Total % liked living in Blackford=86.4
+ Total % disliked living in B/ford=13.6
+ NB of the 10-19 group 33% disliked    
+ living in Blackford.                  </content>
+	</page></content></entry>

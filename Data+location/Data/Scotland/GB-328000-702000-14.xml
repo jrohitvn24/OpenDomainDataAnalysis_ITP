@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-32-70/GB-328000-702000-14.xml</id><title type="text"> Entry: pages-GB-32-70 GB-328000-702000-14</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-32-70/GB-328000-702000-14.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-32-70/GB-328000-702000-14.xml/1" rel="edit" /><as:entryId>GB-328000-702000-14</as:entryId><as:updateIndex>323983</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T20:55:01.000Z</updated><published>2011-05-02T20:55:01.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-328000-702000</dblock_id>
+		<year>1986</year>
+		<title>14EMPLOYMENT</title>
+		<content>{STAR}           {KIRKCALDY}           
+ Farmworkers 4    Decorator        1   
+ Sawmill     1    W/Ho Chargehand  1   
+ Cleaner     1    Nurse            1   
+ Joiner      1    Fireman          1   
+                  Engineer(sales)  1   
+{GLENROTHES       BUCKHAVEN            
+ Plastics    1    Industrial Chemist 1 
+ Electrician 1  { EDINBURGH }          
+ Compugraphics 2  Draughtsman      1   
+ Man.Tutor   1   {CUPAR }              
+ Co. Sec.    1    Nursing Officer  1   
+ Electronics 1   {LEVEN }              
+ Secretary   1    Hairdresser      1   
+ Bank Manager1    Sawmill worker   1   
+ Teacher     1   {PERTH }              
+ Garage Att. 1    Joiner           1   
+ Pest Control1    Factor/Surveyor  1   
+{ABERDEEN                              
+ Oil rigs    2                         
+{MARKINCH }--Plumber,Community         
+ Farmworker, Milkman.                  </content>
+	</page></content></entry>

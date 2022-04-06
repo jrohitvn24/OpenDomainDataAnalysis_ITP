@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-41-28/GB-416000-285000-3.xml</id><title type="text"> Entry: pages-GB-41-28 GB-416000-285000-3</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-41-28/GB-416000-285000-3.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-41-28/GB-416000-285000-3.xml/6" rel="edit" /><as:entryId>GB-416000-285000-3</as:entryId><as:updateIndex>311535</as:updateIndex><as:revision>5</as:revision><updated>2011-05-02T20:09:47.000Z</updated><published>2011-05-02T19:45:07.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-416000-285000</dblock_id>
+		<year>1986</year>
+		<title>03Station Manager Interview</title>
+		<content>{Q.What is your job at Marston Green?} 
+ A.I look after the station, sell      
+ tickets and give passengers           
+ information                           
+{Q.Where does this line run to?}       
+ A.It runs from Birmingham to Euston   
+ Station in London.                    
+{Q.What power do the trains use?}      
+ A.They use electricity.               
+{Q.Which is the busiest day of the     
+{week?}                                
+ A.Saturday is the busiest day.        
+{Q.What are the busiest times?}        
+ A.Between 8 and 9 o'clock in the      
+ morning.                              
+{Q.Is the station busy on Sundays?}    
+ A.No.The station is closed on Sundays.
+{Q.How many passengers travel from     
+{Marston Green each day? }             
+ A.That's difficult to say because some
+ use Travel Cards which can't be       
+ counted.                              </content>
+	</page></content></entry>

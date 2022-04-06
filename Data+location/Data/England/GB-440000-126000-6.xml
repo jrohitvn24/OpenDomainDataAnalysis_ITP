@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-44-12/GB-440000-126000-6.xml</id><title type="text"> Entry: pages-GB-44-12 GB-440000-126000-6</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-44-12/GB-440000-126000-6.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-44-12/GB-440000-126000-6.xml/1" rel="edit" /><as:entryId>GB-440000-126000-6</as:entryId><as:updateIndex>239515</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T11:41:37.000Z</updated><published>2011-05-01T11:41:37.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-440000-126000</dblock_id>
+		<year>1986</year>
+		<title>06Farm Facts And Figures (1)</title>
+		<content>{Composition of the main farm :        
+ ======================================
+ CROPS     = 954.0   )                 
+ GRASSLAND = 638.8   )  TOTAL AREA =   
+ WOODLAND  = 168.3   ) 1794.1 Hectares 
+ OTHER     =  33.0   )                 
+ ======================================
+ WHEAT          = 514.0   )            
+ BARLEY(WINTER) = 186.5   )   CROPS  = 
+ BARLEY(SPRING) = 237.0   )     954.0  
+ TURNIPS        =   8.5   )   Hectares 
+ KALE,CABBAGE   =   8.0   )            
+ ======================================
+ TRACTORS           = 25               
+ COMBINE HARVESTERS =  2               
+ FURROW PLOUGHS     =  7               
+ HARROWS            = 12               
+ ROLLERS            =  8               
+ VEHICLES           =  4               
+ HEDGE CUTTERS      =  1               
+ ======================================
+{LIVESTOCK INFORMATION ON THE NEXT PAGE</content>
+	</page></content></entry>

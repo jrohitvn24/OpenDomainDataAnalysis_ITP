@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-42-42/GB-420000-420000-13.xml</id><title type="text"> Entry: pages-GB-42-42 GB-420000-420000-13</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-42-42/GB-420000-420000-13.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-42-42/GB-420000-420000-13.xml/1" rel="edit" /><as:entryId>GB-420000-420000-13</as:entryId><as:updateIndex>261283</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T21:05:40.000Z</updated><published>2011-05-01T21:05:40.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-420000-420000</dblock_id>
+		<year>1986</year>
+		<title>13TRAFFIC SURVEY-NORRISTHORPE</title>
+		<content> A survey, lasting{one hour,}was       
+ conducted on the following types of   
+ road:-                                
+ A.{TRUNK ROAD}(A62-Leeds/Huddersfield)
+ B.{SMALL TOWN}(Norristhorpe Lane -    
+   {BY-PASS      }Heckmondwike By-pass)
+ C.{VILLAGE ROAD}(Liversedge Hall Lane)
+ ______________________________________
+{ROAD USER          A     B    C  TOTAL
+ ______________________________________
+ Cars            1283   190   78   1551
+ Lorries          360    20   11    391
+ Vans             306    40   28    374
+ Buses/Coaches     24     4    6     34
+ Motor Cycles       9     2    6     17
+ Bicycles           9     0    6     15
+ Tractors           0     0    3      3
+ Horses             0     0    4      4
+ Pedestrians       60   112   21    193
+ --------------------------------------
+{TOTAL           2051   368  163   2582
+ --------------------------------------</content>
+	</page></content></entry>

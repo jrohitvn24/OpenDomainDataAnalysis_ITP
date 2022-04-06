@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-40-52/GB-404000-525000-8.xml</id><title type="text"> Entry: pages-GB-40-52 GB-404000-525000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-40-52/GB-404000-525000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-40-52/GB-404000-525000-8.xml/1" rel="edit" /><as:entryId>GB-404000-525000-8</as:entryId><as:updateIndex>279157</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T07:59:49.000Z</updated><published>2011-05-02T07:59:49.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-404000-525000</dblock_id>
+		<year>1986</year>
+		<title>08POPULATION OF WOODLAND 1985</title>
+		<content>{AGE GROUPS   MALE    FEMALE   TOTAL   
+ ___________________________________   
+ 0-5           5       13       18     
+ 6-11         11       10       21     
+ 12-20        20       15       35     
+ 21-30         8        9       17     
+ 31-45        36       38       74     
+ 46-60        22       27       49     
+ 61-75        19       15       34     
+ 76-85         3        3        6     
+ 86-100        0        1        1     
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

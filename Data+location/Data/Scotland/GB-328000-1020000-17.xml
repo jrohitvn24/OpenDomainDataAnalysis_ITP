@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-32-10/GB-328000-1020000-17.xml</id><title type="text"> Entry: pages-GB-32-10 GB-328000-1020000-17</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-32-10/GB-328000-1020000-17.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-32-10/GB-328000-1020000-17.xml/1" rel="edit" /><as:entryId>GB-328000-1020000-17</as:entryId><as:updateIndex>295995</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T18:58:52.000Z</updated><published>2011-05-02T18:58:52.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-328000-1020000</dblock_id>
+		<year>1986</year>
+		<title>17SURVEY OF DOUNBY HOUSEHOLDS</title>
+		<content> 50 Households were surveyed. 100% of  
+ those households surveyed had         
+ electricity.                          
+{QUESTION:"Do you have these electrical
+{appliances?"                          
+{APPLIANCE           NO  %   YES   >1  
+ TV                   0      100    46 
+ RADIO                2       98    62 
+ FRIDGE               4       96     0 
+ DEEP FREEZE         40       60     8 
+ WASHING MACHINE      8       92     2 
+ COOKER              24       76     4 
+ TELEPHONE           20       80     4 
+ HOOVER               6       94     8 
+ KETTLE               2       98    12 
+ RECORD PLAYER       32       68     6 
+ IRON                 4       96    18 
+ COMPUTER            88       12     0 
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

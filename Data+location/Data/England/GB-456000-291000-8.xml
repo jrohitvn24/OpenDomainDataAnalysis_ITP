@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-45-29/GB-456000-291000-8.xml</id><title type="text"> Entry: pages-GB-45-29 GB-456000-291000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-45-29/GB-456000-291000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-45-29/GB-456000-291000-8.xml/1" rel="edit" /><as:entryId>GB-456000-291000-8</as:entryId><as:updateIndex>341149</as:updateIndex><as:revision>0</as:revision><updated>2011-05-04T10:18:17.000Z</updated><published>2011-05-04T10:18:17.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-456000-291000</dblock_id>
+		<year>1986</year>
+		<title>08VALUE OF LAND - WILLOUGHBY</title>
+		<content>{SIZE IN ACRES   OWNER      FARM NAME  
+    160          KINDS     MANOR FARM  
+    160 (TENNANT)FLECHER   MEADOWLANDS 
+     36          FREER     GRANGE FARM 
+     62.5        LOMAX     W.LODGE FARM
+    100          MARSHALL  YEW TREE    
+     85          CHILDS    LODGE FARM  
+                                       
+    {VALUE OF:   VALUE 10   VALUE      
+     {           YRS AGO     TODAY     
+    KINDS     Â£250000      Â£500000     
+    FLECHER   Â£250000      Â£320000     
+    FREER     Â£64800       Â£108000 *   
+    LOMAX     Â£62500       Â£125000 *   
+    MARSHALL  Â£100000      Â£250000 *   
+    CHILDS        NO COMMENT           
+    * DENOTES LAND ONLY                
+                                       
+    ONLY THE MANOR FARM HAD OTHER      
+    ACTIVIES, THEY HAVE FISHING ON     
+    THEIR LAND.                        
+    AVERAGE ACREAGE=100 ACRES          </content>
+	</page></content></entry>

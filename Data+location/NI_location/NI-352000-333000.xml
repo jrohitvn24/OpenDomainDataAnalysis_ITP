@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/dblocks-NI-35-33/NI-352000-333000.xml</id><title type="text"> Entry: dblocks-NI-35-33 NI-352000-333000</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/dblocks-NI-35-33/NI-352000-333000.xml" rel="self" /><link href="/electron/atom/v1/domesday/dblocks-NI-35-33/NI-352000-333000.xml/1" rel="edit" /><as:entryId>NI-352000-333000</as:entryId><as:updateIndex>51935</as:updateIndex><as:revision>0</as:revision><updated>2011-04-29T14:15:41.000Z</updated><published>2011-04-29T14:15:41.000Z</published><content type="application/xml"><dblock xmlns="">
+		<dblock_id>NI-352000-333000</dblock_id>
+		<lat>54.223239159845</lat>
+		<long>-5.6691535334139</long>
+		<bounds>54.223800303434 -5.6693962439518 54.222644804604 -5.6104210949589 54.248226069477 -5.6089421264367 54.24938265011 -5.6679536987913 54.223800303434 -5.6693962439518</bounds>
+	</dblock></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-50-24/GB-504000-249000-17.xml</id><title type="text"> Entry: pages-GB-50-24 GB-504000-249000-17</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-50-24/GB-504000-249000-17.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-50-24/GB-504000-249000-17.xml/2" rel="edit" /><as:entryId>GB-504000-249000-17</as:entryId><as:updateIndex>293189</as:updateIndex><as:revision>1</as:revision><updated>2011-05-02T18:25:26.000Z</updated><published>2011-05-02T18:15:31.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-504000-249000</dblock_id>
+		<year>1986</year>
+		<title>17WEATHER 14th MAY 1985</title>
+		<content>{0700}:foggy,wet,drizzling,cloudy      
+{1000}:cloudy,misty,damp,breezy        
+{1130}:cloudy,cold,drizzling           
+{1225}:cold,raining,cloudy             
+{1400}:cold,pouring with rain          
+{1530}:cool,rain,cloudy                
+{1700}:cloudy,drizzling                
+{2000}:cloudy,cool                     
+{2300}:drizzling,cool                  
+{0600}:bright,cloudy,sunny             
+ Weather is shown to the public in many
+ ways. One way is the television       
+ forecast. To show the weather, maps   
+ and symbols are used e.g. 15=the      
+ temperature. Some TV forecasts use    
+ computer made maps and symbols. In the
+ newspapers the forecast uses more     
+ words: 'Daily Telegraph' 7/7/85 -" In 
+ Britain:warmest:Nottingham 64F,       
+ coldest:Fair Isle 45F." We all seem to
+ talk about the weather a lot.         
+                                       </content>
+	</page></content></entry>

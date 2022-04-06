@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-47-17/GB-476000-177000-15.xml</id><title type="text"> Entry: pages-GB-47-17 GB-476000-177000-15</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-47-17/GB-476000-177000-15.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-47-17/GB-476000-177000-15.xml/2" rel="edit" /><as:entryId>GB-476000-177000-15</as:entryId><as:updateIndex>190631</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T22:16:56.000Z</updated><published>2011-04-30T22:11:17.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-476000-177000</dblock_id>
+		<year>1986</year>
+		<title>15TRAVEL TO WORK, WARGRAVE</title>
+		<content>{DISTANCE      Miles        %          
+{to        }   0 - 5       16.5        
+{WORK     }    6 -10       44          
+               11-20        7.5        
+             over 21       32          
+ This confirms that Wargrave is a      
+ dormitory settlement. Indeed, only 13%
+ of the sample work in the village.    
+                                       
+{Transport to work }sample of 126 men  
+                          and 135 women
+   {Women      Means       Men}        
+     25.........car.........65         
+     00........train........14         
+     07........other........05         
+{                                      
+{Car Ownership}sample of 120 households
+    0 cars in each of  6 households    
+    1 car  in each of 44 households    
+    2 cars in each of 53 households    
+    3 cars in each of 13 households    
+    4 cars in each of  2 households    </content>
+	</page></content></entry>

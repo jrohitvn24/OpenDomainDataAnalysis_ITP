@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-NI-34-38/NI-340000-381000-11.xml</id><title type="text"> Entry: pages-NI-34-38 NI-340000-381000-11</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-NI-34-38/NI-340000-381000-11.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-NI-34-38/NI-340000-381000-11.xml/1" rel="edit" /><as:entryId>NI-340000-381000-11</as:entryId><as:updateIndex>233811</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T10:49:36.000Z</updated><published>2011-05-01T10:49:36.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>NI-340000-381000</dblock_id>
+		<year>1986</year>
+		<title>11SURVEY OF SEAHILL</title>
+		<content>    {STATISTICAL SURVEY OF SEAHILL     
+  The following questionnaire was      
+ circulated to every house in the      
+ Seahill housing estate and the replies
+ are analysed on the following pages.  
+         {QUESTIONNAIRE                
+{1}How many people live in this house? 
+{2}What is the total annual income in  
+    this house?                        
+{3}How much is this property worth?    
+{4}How many cars are owned by people in
+    this house?                        
+{5}Do you have a garden?               
+{6}How many rooms are there in this    
+    house?                             
+{7}Do you own a computer?              
+{8}Are there any children under 16     
+   living in this house?If so,what type
+   of education are they receiving     
+   (private,primary,grammar etc.)?     
+{9}Do you own a pet?If so,how many and 
+    of what kind are they?             </content>
+	</page></content></entry>
