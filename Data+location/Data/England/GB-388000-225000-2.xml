@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-38-22/GB-388000-225000-2.xml</id><title type="text"> Entry: pages-GB-38-22 GB-388000-225000-2</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-38-22/GB-388000-225000-2.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-38-22/GB-388000-225000-2.xml/2" rel="edit" /><as:entryId>GB-388000-225000-2</as:entryId><as:updateIndex>163267</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T19:46:10.000Z</updated><published>2011-04-30T19:31:51.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-388000-225000</dblock_id>
+		<year>1986</year>
+		<title>02M5 Junction 10 Traffic Count</title>
+		<content>                                       
+ Twenty pupils conducted a traffic     
+ survey at the junction 10, M5.,on June
+ 20,1985, @ 11.30a.m.Pupils counted all
+ vehicles for 15 minutes, with the     
+ classification: cars(C), lorries(L),  
+ vans(V), coaches + buses(B),          
+ motorcycles(M).                       
+{North bound carriageway:              
+ Inside lane   C50, L66, V09, B01, M05.
+ Middle lane   C83, L28, V12, B01, M01.
+ Outside lane  C26, L02, V03, B01, M00.
+{South bound carriageway:              
+ Inside lane   C68, L70, V20, B00, M00.
+ Middle lane  C109, L15, V08, B00, M01.
+ Outside lane  C39, L00, V00, B00, M01.
+{Leaving Mway }C31, L15, V07, B00, M01.
+{Joining Mway }C33, L12, V04, B01, M01.
+{'x'ing Mway bridge}C74,L17,V12,B01,M02
+ The hourly rate of traffic flow was   
+ 2476 vehicles per hour.               
+                                       </content>
+	</page></content></entry>

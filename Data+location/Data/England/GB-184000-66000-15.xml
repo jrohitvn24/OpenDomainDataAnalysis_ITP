@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-18-66/GB-184000-66000-15.xml</id><title type="text"> Entry: pages-GB-18-66 GB-184000-66000-15</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-18-66/GB-184000-66000-15.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-18-66/GB-184000-66000-15.xml/1" rel="edit" /><as:entryId>GB-184000-66000-15</as:entryId><as:updateIndex>145913</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T16:30:42.000Z</updated><published>2011-04-30T16:30:42.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-184000-66000</dblock_id>
+		<year>1986</year>
+		<title>15WEATHER</title>
+		<content>{SPRING}:A strong wind is usually      
+ present.There are lots of rain        
+ showers.There is often a mist hanging 
+ over the coast line and the           
+ surrounding houses.The sun appears    
+ occasionally{.SUMMER}:The weather     
+ changes considerably.It is extremely  
+ hot and sunny.Temperatures usually    
+ exceed 20C. but the average is 16C.It 
+ is very humid inland,but there are    
+ lots of sea breezes{.AUTUMN:}the      
+ weather is fairly moderate but rain   
+ showers are frequent.The temperature  
+ decreases quite rapidly after         
+ October.The wind begins to get        
+ stronger.There are sometimes hail     
+ showers.{WINTER:}The weather is very  
+ much colder.There is frost and very   
+ strong winds. Occasionally there is   
+ snow.Usually the winter is fairly     
+ mild.Temperatures are usually around  
+ 6C.The annual rainfall is 970 mm.     </content>
+	</page></content></entry>

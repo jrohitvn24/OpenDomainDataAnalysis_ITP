@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-30-13/GB-300000-138000-17.xml</id><title type="text"> Entry: pages-GB-30-13 GB-300000-138000-17</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-30-13/GB-300000-138000-17.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-30-13/GB-300000-138000-17.xml/4" rel="edit" /><as:entryId>GB-300000-138000-17</as:entryId><as:updateIndex>106169</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T07:30:20.000Z</updated><published>2011-04-30T07:17:56.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-300000-138000</dblock_id>
+		<year>1986</year>
+		<title>17 MINIBUS TIMETABLE- RODHUISH</title>
+		<content> TIME   12 SEATER      *   17 SEATER   
+                                       
+ 0725   Withycombe     *               
+ 0740   Treborough     *               
+ 0750   Roadwater      *               
+ 0755                  *  Withycombe   
+ 0800   Leighland      *  Felons Oak   
+ 0805                  *  Roadwater    
+      {drops pupils for Williton       
+ 0810   Roadwater      *               
+      {drops pupils for Minehead       
+ 0815   Coaches arrive Roadwater Bridge
+     to collect Secondary School pupils
+ 0820                  *  Luxborough   
+ 0825   Rodhuish       *               
+ 0830   Withycombe     *  Dunster      
+ 0840                  *  Timberscombe 
+ 0845   Washford       *               
+      {Old Cleeve Schl}* {             
+ 0855                  *  Minehead     
+{ }                                    
+                                       </content>
+	</page></content></entry>

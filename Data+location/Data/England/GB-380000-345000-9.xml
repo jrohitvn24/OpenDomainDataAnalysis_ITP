@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-38-34/GB-380000-345000-9.xml</id><title type="text"> Entry: pages-GB-38-34 GB-380000-345000-9</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-38-34/GB-380000-345000-9.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-38-34/GB-380000-345000-9.xml/4" rel="edit" /><as:entryId>GB-380000-345000-9</as:entryId><as:updateIndex>166347</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T20:21:15.000Z</updated><published>2011-04-30T19:55:53.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-380000-345000</dblock_id>
+		<year>1986</year>
+		<title>09Private and State Education</title>
+		<content>1 Silverdale C.P.   2.St.Luke's C of E 
+3.St.John's  C of E 4.Cherry Hill      
+5.Edenhurst Preparatory School.        
+                                       
+SCHOOL             1   2   3   4   5   
+Class size (Age 11)28  34  24  26  20  
+Lesson length(min) 40  38  *   35  40  
+Homework length    15  30  00  60  60  
+Lessons per day    08  08  *   09  08  
+Teachers per week  03  06  01  05  08  
+Rooms per week03   03  03  01  03  05  
+*There are no set lessons.             
+                                       
+TRAVEL-walk        16  30  20  17  00  
+     -cycle        11  00  04  07  00  
+     -car          01  04  00  02  20  
+     -bus          00  00  00  00  00  
+DISTANCE 0-1Km     13  29  24  24  01  
+         1-2Km     14  05  00  01  00  
+         2-5Km     01  00  00  01  03  
+          >5Km     00  00  00  00  16  
+                                       </content>
+	</page></content></entry>

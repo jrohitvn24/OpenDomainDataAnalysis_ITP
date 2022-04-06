@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-30-13/GB-300000-138000-14.xml</id><title type="text"> Entry: pages-GB-30-13 GB-300000-138000-14</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-30-13/GB-300000-138000-14.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-30-13/GB-300000-138000-14.xml/4" rel="edit" /><as:entryId>GB-300000-138000-14</as:entryId><as:updateIndex>106163</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T07:30:20.000Z</updated><published>2011-04-30T07:17:56.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-300000-138000</dblock_id>
+		<year>1986</year>
+		<title>14FARMS IN 'D' BLOCK 03000138</title>
+		<content>        FARMS     TYPE  ACREAGE  FW    
+                                       
+ STILES Rodhuish  ST/A    360     4    
+ COMBE -------now farmed by Felons View
+ HIGHER RODHUISH  ST-S/C  420     5    
+ HILL  -------no longer there.         
+ LOWER RODHUISH     A     335     4    
+ ESCOTT ----now part of Lower Rodhuish 
+ ROADWATER----no longer a working farm.
+ LODGE              A      67     2    
+ CLITSOME  R/water ST-H    32     2    
+ FELONS VIEW       ST-S   280     4    
+ YEA  R/water      ST-S   123     3    
+ JENKINS Rodhuish   D      76     2    
+ DRAGONS CROSS     ST-Ch   12     2    
+ CROSSWAYS Bilbrook D      54     2    
+ STEPPS----now a private house.        
+ GOLSONCOTT        ST/A   165     4    
+                                       
+ D=Dairy A=Arable S=Sheep ST=Stock     
+ Ch=Chicken H=Horse C=Cows             
+ FW=Farmworkers including owner.       </content>
+	</page></content></entry>

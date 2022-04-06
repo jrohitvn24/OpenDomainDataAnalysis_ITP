@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-24-11/GB-244000-114000-18.xml</id><title type="text"> Entry: pages-GB-24-11 GB-244000-114000-18</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-24-11/GB-244000-114000-18.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-24-11/GB-244000-114000-18.xml/4" rel="edit" /><as:entryId>GB-244000-114000-18</as:entryId><as:updateIndex>116317</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T08:17:36.000Z</updated><published>2011-04-30T08:06:39.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-244000-114000</dblock_id>
+		<year>1986</year>
+		<title>18FARMING YEAR</title>
+		<content> Dates for jobs on a mixed farm.       
+{Crop          Sown         Harvest    
+ swedes    {June15-30   } Nov.Jan.Feb. 
+ kale      {May-June     }Nov.-Jan.    
+ Winter barley{Oct.      }July20-Aug.10
+ Spring barley{April     }Aug.16-Sep.12
+ mangolds  {May1-14      }Nov.         
+ potatoes  {April        }Aug.-Oct.    
+ fertilize {March        }May25-June14 
+ silage                                
+ fertilize {April        }June20-July15
+ hay                                   
+ fertilize {June         }July20-Aug.10
+ 2nd cut silage                        
+                                       
+ ploughing,{Dec.Jan.Feb.               
+ turf,hedging,                         
+ repair gates,                         
+ feed animals                          
+ with fodder                           
+                                       
+                                       </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-19-51/GB-192000-51000-12.xml</id><title type="text"> Entry: pages-GB-19-51 GB-192000-51000-12</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-19-51/GB-192000-51000-12.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-19-51/GB-192000-51000-12.xml/1" rel="edit" /><as:entryId>GB-192000-51000-12</as:entryId><as:updateIndex>144439</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T16:25:26.000Z</updated><published>2011-04-30T16:25:26.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-192000-51000</dblock_id>
+		<year>1986</year>
+		<title>12ECOLOGY  PLANT SURVEY</title>
+		<content> 7 Common plants were selected for a   
+ random survey using quadrats.The      
+ scores obtained were converted to the 
+ DAFOR scale(Dominant,Abundant,Frequent
+ ,Occasional,Rare)                     
+{1.}Buttercup{2.}camomile{3.}Clover    
+{4.}Daisy{5.}Dandelion{6.}Moss         
+{7.}Plantain.                          
+ Grid ref  {1.  2.  3.  4.  5.  6.  7. 
+ 932 534    F   R   F   F   O   F   R  
+ 935 531    F   _   R   O   F   _   _  
+ 932 539    F   R   F   O   F   _   O  
+ 946 539    A   _   F   F   F   _   O  
+ 943 532    R   _   F   O   R   R   F  
+ 951 531    F   _   A   F   F   R   F  
+ 952 528    D   A   A   A   F   O   F  
+ 943 529    A   O   A   A   O   F   F  
+ 944 528    O   O   A   A   R   F   A  
+ 925 521    O   _   F   A   O   _   O  
+ 929 521    R   _   _   O   A   _   _  
+ 932 519    R   D   D   _   R   F   F  
+ 935 519    A   A   A   A   R   O   _  </content>
+	</page></content></entry>

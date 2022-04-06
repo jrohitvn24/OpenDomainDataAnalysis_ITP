@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-22-75/GB-228000-75000-12.xml</id><title type="text"> Entry: pages-GB-22-75 GB-228000-75000-12</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-22-75/GB-228000-75000-12.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-22-75/GB-228000-75000-12.xml/1" rel="edit" /><as:entryId>GB-228000-75000-12</as:entryId><as:updateIndex>96063</as:updateIndex><as:revision>0</as:revision><updated>2011-04-29T21:40:11.000Z</updated><published>2011-04-29T21:40:11.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-228000-75000</dblock_id>
+		<year>1986</year>
+		<title>12Farm survey the results</title>
+		<content> The numbers of livestock held         
+{ANIMAL |       FARM}                  
+        |  A   B   C   D   E   F       
+ CATTLE | 130 125 100 140   0   3      
+ SHEEP  | 190 386 200  50 530   0      
+ PIGS   |   2 254   0  10   1   0      
+ FOWLS  |   0  24   0   0   3  52      
+ OTHERS |   0   1   0   0   3  10      
+ TOTAL  | 322 790 300 200 537  65      
+ Farms A,B and D also had several acres
+ of cereal mainly wheat and barley for 
+ feeding their own stock.              
+ Four of the six said that the biggest 
+ change had been{intensification}either
+ in the number of animals raised per   
+ acre or the frequency and volume of   
+ silage taken.                         
+ The livestock is sold at local markets
+ eg.Launceston,Holsworthy,Liskeard.Farm
+ D sold its milk to the Milk Marketing 
+ Board.Farm B sold its pigs to Cornish 
+ Quality Bacon.                        </content>
+	</page></content></entry>

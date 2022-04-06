@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-23-12/GB-236000-120000-4.xml</id><title type="text"> Entry: pages-GB-23-12 GB-236000-120000-4</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-23-12/GB-236000-120000-4.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-23-12/GB-236000-120000-4.xml/2" rel="edit" /><as:entryId>GB-236000-120000-4</as:entryId><as:updateIndex>134067</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T10:58:44.000Z</updated><published>2011-04-30T10:57:45.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-236000-120000</dblock_id>
+		<year>1986</year>
+		<title>04MACHINERY</title>
+		<content>{  }The machinery on a North Devon farm
+ would probably include the following: 
+ {                                     
+{TRACTOR, }pulling equipment        {  
+{ROLLER,}rolling the ground.           
+{FRONTLOADER,}picking up straw or hay  
+ bales. {                              
+{BACKLOADER,}shifting rubbish.         
+{HAYTURNER,}turning the hay.           
+{DUNGSPREADER,}spreading dung.         
+{PLOUGH,}digging the ground.           
+{DISC HARROWS,}rolling the corn.       
+{BUCKRAKE,}moving silage.              
+{TRAILER,}moving earth, silage, etc.   
+{MOWER,}for mowing grass for hay or    
+ silage.                               
+{FORAGE HARVESTER,}for picking up      
+ silage.                               
+{BALER,}for baling hay.                
+{FERTILISER SPREADER,}for spreading    
+ fertiliser.                           
+                                       </content>
+	</page></content></entry>

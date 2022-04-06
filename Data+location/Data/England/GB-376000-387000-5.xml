@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-37-38/GB-376000-387000-5.xml</id><title type="text"> Entry: pages-GB-37-38 GB-376000-387000-5</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-37-38/GB-376000-387000-5.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-37-38/GB-376000-387000-5.xml/2" rel="edit" /><as:entryId>GB-376000-387000-5</as:entryId><as:updateIndex>214985</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T23:29:26.000Z</updated><published>2011-04-30T23:26:12.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-376000-387000</dblock_id>
+		<year>1986</year>
+		<title>05TRAVELLING TO/FROM SCHOOL</title>
+		<content> JOURNEY TO SCHOOL                     
+    WALK CYCLE  CAR  BUS  TRAIN        
+ J1  31   0      11   0     0          
+ J2  44   0       8   0     0          
+ J3  40   0       5   0     4          
+ J4  31   0      13   0     0          
+ ----------------------------------    
+    146   0      37    0    4          
+ -----------------------------------   
+ JOURNEY FROM SCHOOL                   
+    WALK  CYCLE  CAR   BUS  TRAIN      
+ J1  36     0     6     0     0        
+ J2  46     0     6     0     0        
+ J3  48     0     1     0     0        
+ J4  27     0    17     0     0        
+ ------------------------------------  
+    177     0    30     0      0       
+ ------------------------------------- 
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

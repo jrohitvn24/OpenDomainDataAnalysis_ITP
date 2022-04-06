@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-34-39/GB-340000-390000-2.xml</id><title type="text"> Entry: pages-GB-34-39 GB-340000-390000-2</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-34-39/GB-340000-390000-2.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-34-39/GB-340000-390000-2.xml/4" rel="edit" /><as:entryId>GB-340000-390000-2</as:entryId><as:updateIndex>244211</as:updateIndex><as:revision>3</as:revision><updated>2011-05-01T12:41:46.000Z</updated><published>2011-05-01T12:18:49.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-340000-390000</dblock_id>
+		<year>1986</year>
+		<title>02AMENITIES</title>
+		<content>     C : Yew Tree Comprehensive        
+     D : Parkview Junior (withdrew)    
+     E : Highfield Comprehensive       
+     F : St.Margaret Mary's Junior     
+     G : Dovecot Junior                
+     H : Parkview Infants              
+     I : Highfield Comprehensive       
+     J : Malvern Junior                
+     K : Page Moss Junior              
+     L : Huyton CE Junior              
+                                       
+{Square A}Primary major land cover     
+ category: 01 (residential).           
+ The amenity count is as follows:      
+ 04 3schools (primary)                 
+ 05 2schools (secondary)               
+ 15 1nursing home                      
+ 19 1take-away hot food shop           
+ 20 7food shops                        
+ 21 9non-food shops                    
+ 31 1building society office           
+ 32 1private sports club ground        </content>
+	</page></content></entry>

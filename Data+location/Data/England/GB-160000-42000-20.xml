@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-16-42/GB-160000-42000-20.xml</id><title type="text"> Entry: pages-GB-16-42 GB-160000-42000-20</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-16-42/GB-160000-42000-20.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-16-42/GB-160000-42000-20.xml/1" rel="edit" /><as:entryId>GB-160000-42000-20</as:entryId><as:updateIndex>130983</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T10:29:31.000Z</updated><published>2011-04-30T10:29:31.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-160000-42000</dblock_id>
+		<year>1986</year>
+		<title>20Place Names</title>
+		<content>{                                      
+{CARLEAN}- Ker Lyn                     
+  - Fort of the 'stitch' of strip of   
+    land                               
+{COOMBE}- Cum                          
+  - Valley                             
+{CANE CASTLE}- Ker hen                 
+  - Old fort                           
+  {OR}       - Ker uran                
+  - Fort of Bran or of crow            
+{KIEVE MILL}- Melyn Kyf                
+  - Mill of the stump                  
+{MAGOR}- Magor                         
+  - Old ruin                           
+{MIRROSE}- Methros                     
+  - Middle of the hill/heath           
+{RESCAJEAGE}- Ros (or Res) cadick      
+  - Heath (or ford) of Cadiek          
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

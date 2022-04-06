@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-32-13/GB-324000-135000-5.xml</id><title type="text"> Entry: pages-GB-32-13 GB-324000-135000-5</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-32-13/GB-324000-135000-5.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-32-13/GB-324000-135000-5.xml/1" rel="edit" /><as:entryId>GB-324000-135000-5</as:entryId><as:updateIndex>296419</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T18:59:06.000Z</updated><published>2011-05-02T18:59:06.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-324000-135000</dblock_id>
+		<year>1986</year>
+		<title>05POPULATION</title>
+		<content> *       *    FEMALES  *               
+ * AGE   * SWD   MRR'D *               
+ ***********************               
+ * TOTAL *  400    521 *     SWD       
+ * 0-4   *   64    xxx * SINGLE,WIDOWED
+ * 5-9   *   62    xxx * &amp; DIVORCED    
+ * 10-14 *   75    xxx *               
+ * 15    *   11    xxx *     MRR'D     
+ * 16-19 *   48      2 *    MARRIED    
+ * 20-24 *   25     10 *               
+ * 25-29 *    6     59 *               
+ * 30-34 *    7     75 *               
+ * 35-39 *    4     72 *               
+ * 40-44 *    5     60 *               
+ * 45-49 *    4     51 *               
+ * 50-54 *    5     58 *               
+ * 55-59 *   14     45 *               
+ * 60-64 *   12     40 *               
+ * 65-69 *   14     23 *               
+ * 70-74 *   15     19 *               
+ * 75-79 *   18     13 *               
+ * 80-84 *   11      3 *               </content>
+	</page></content></entry>

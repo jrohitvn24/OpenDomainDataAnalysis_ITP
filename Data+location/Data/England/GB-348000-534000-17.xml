@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-34-53/GB-348000-534000-17.xml</id><title type="text"> Entry: pages-GB-34-53 GB-348000-534000-17</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-34-53/GB-348000-534000-17.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-34-53/GB-348000-534000-17.xml/1" rel="edit" /><as:entryId>GB-348000-534000-17</as:entryId><as:updateIndex>254121</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T16:52:36.000Z</updated><published>2011-05-01T16:52:36.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-348000-534000</dblock_id>
+		<year>1986</year>
+		<title>17TRANSPORT cont</title>
+		<content>    _____________                      
+    |M6 |M6 |A6 |   per 1/4 hour       
+    _____________                      
+    |   |   |45 |19:6:85               
+    _____________                      
+    |51 |123|   |16:5:85  C A R S      
+    _____________                      
+    |   |   |54 |05:5:85               
+    _____________                      
+     S    N                            
+    _____________                      
+    |M6 |M6 |A6 |   per 1/4 hour       
+    _____________                      
+    |   |   |5  |19:6:85               
+    _____________                      
+    |   |   |9  |05:6:85               
+    _____________         V A N S      
+    |35 |10 |   |23:5:85               
+    _____________                      
+    |29 |17 |   |16:5:85               
+    _____________                      
+    |S  |N  |   |                      </content>
+	</page></content></entry>

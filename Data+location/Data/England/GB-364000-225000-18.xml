@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-36-22/GB-364000-225000-18.xml</id><title type="text"> Entry: pages-GB-36-22 GB-364000-225000-18</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-36-22/GB-364000-225000-18.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-36-22/GB-364000-225000-18.xml/3" rel="edit" /><as:entryId>GB-364000-225000-18</as:entryId><as:updateIndex>151461</as:updateIndex><as:revision>2</as:revision><updated>2011-04-30T17:20:49.000Z</updated><published>2011-04-30T17:19:14.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-364000-225000</dblock_id>
+		<year>1986</year>
+		<title>18TRANSPORT. ROADS AND TRAFFIC</title>
+		<content> There are no main trunk roads, one    
+ secondary road leading from Ross to   
+ Newent and numerous narrow country    
+ lanes.The M50 motorway passes through 
+ and has a junction with the secondary 
+ B4221 at Gorsley.The busiest roads    
+ are the M50 and B4221.Our statistics  
+ show the amount of traffic on each of 
+ these over a half hour period during  
+ a week day morning.                   
+{VEHICLE      M50          B4221       
+{     WEST EAST TOTAL NORTH SOUTH TOTAL
+ CARS 120  101  221    23     18    41 
+ VANS  20   15   35     1      1     2 
+ LOR/                                  
+  RIES 65   72  137     5      5    10 
+ COACH  1    1    2     1      0     1 
+ BIKES  1    0    1     1      0     1 
+ HORSE  0    0    0     0      0     0 
+ TRAC/                                 
+  TORS. 0    0    0     0      0     0 
+                                       </content>
+	</page></content></entry>

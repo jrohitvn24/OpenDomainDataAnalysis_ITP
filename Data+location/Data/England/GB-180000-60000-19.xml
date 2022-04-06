@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-18-60/GB-180000-60000-19.xml</id><title type="text"> Entry: pages-GB-18-60 GB-180000-60000-19</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-18-60/GB-180000-60000-19.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-18-60/GB-180000-60000-19.xml/1" rel="edit" /><as:entryId>GB-180000-60000-19</as:entryId><as:updateIndex>145707</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T16:30:36.000Z</updated><published>2011-04-30T16:30:36.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-180000-60000</dblock_id>
+		<year>1986</year>
+		<title>19Housing in Newquay</title>
+		<content>{(Refer to Page 14 for background)     
+{                                      
+{  }The largest category was semi-     
+ detached(64);next detached(59);       
+ followed by:bungalow(47);terrace(30); 
+ council(15);hotel(12);guest-house(9); 
+ cottage(9);flat(4);farmhouse(2);public
+ house(2);married quarters(1);renovated
+ mill(1).                              
+{The numbers of bedrooms were:         
+{        2  3  4  5  6  7  8  9 more   
+{Semi. } 3 33 14  6  3  2  1  0  1     
+{Det.  } 0 17 23 10  2  1  1  0  2     
+{Bung. } 2 25 12  5  1  0  0  0  1     
+{Terr. } 1 18  4  0  2  0  2  0  1     
+{Cncl.}  1 13  1  0  0  0  0  0  0     
+{Cott.}  2  4  3  0  0  0  0  0  0     
+{Unspec.}2 15  7  7  2  1  1  1  0     
+{Others }2  3  3  0  1  1  0  0  0     
+{Guest.} from 5 to 12                  
+{Hotel } from 10 to 26                 
+                                       </content>
+	</page></content></entry>

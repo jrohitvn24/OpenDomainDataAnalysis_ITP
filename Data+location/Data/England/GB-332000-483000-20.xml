@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-33-48/GB-332000-483000-20.xml</id><title type="text"> Entry: pages-GB-33-48 GB-332000-483000-20</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-33-48/GB-332000-483000-20.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-33-48/GB-332000-483000-20.xml/2" rel="edit" /><as:entryId>GB-332000-483000-20</as:entryId><as:updateIndex>306541</as:updateIndex><as:revision>1</as:revision><updated>2011-05-02T19:33:32.000Z</updated><published>2011-05-02T19:29:19.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-332000-483000</dblock_id>
+		<year>1986</year>
+		<title>20The Local Weather.</title>
+		<content> Our weather is influenced mainly by   
+ the hills and warm air being blown off
+ the North Atlantic Drift. Because of  
+ this we have a lot of rain. During the
+ winter we have little snow because we 
+ are close to the sea. The readings    
+ below are: Rain (Grange) average,Temp.
+ (Grange) 1984,Sun (Morecambe) average.
+{Month  Rain(mm)   Temp(C)   Sun(Hours)
+ --------------------------------------
+ Jan....116.6.......4.4........47      
+ Feb.....73.8.......4.6........69      
+ Mar.....90.9.......7.34......116      
+ Apr.....73.5......11.2.......166      
+ May.....72.8......14.97......210      
+ Jun.....86.4......17.08......209      
+ Jul.....89.9......20.9.......176      
+ Aug....109.8......21.4.......172      
+ Sep....128.0......15.4.......129      
+ Oct....137.1......12.9........93      
+ Nov....137.8.......8.9........53      
+ Dec....120.8.......7.4........36      </content>
+	</page></content></entry>

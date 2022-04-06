@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-38-37/GB-380000-372000-18.xml</id><title type="text"> Entry: pages-GB-38-37 GB-380000-372000-18</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-38-37/GB-380000-372000-18.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-38-37/GB-380000-372000-18.xml/3" rel="edit" /><as:entryId>GB-380000-372000-18</as:entryId><as:updateIndex>167101</as:updateIndex><as:revision>2</as:revision><updated>2011-04-30T20:21:35.000Z</updated><published>2011-04-30T20:01:38.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-380000-372000</dblock_id>
+		<year>1986</year>
+		<title>18CHELFORD TRAFFIC CENSUS</title>
+		<content>{CHELFORD TRAFFIC CENSUS.}             
+                                       
+ This is a census taken between 11.00am
+ and 12.00pm on the week beginning 17th
+ June 1985 of vehicles travelling along
+ the A535 and A537 in both directions. 
+ The A535 is the Alderley Edge to      
+ Holmes Chapel road whilst the A537    
+ goes from Macclesfield to Knutsford.  
+                                       
+           A535        A537            
+ MONDAY    310         326             
+ TUESDAY   280         355             
+ WEDNESDAY 290         585             
+ THURSDAY  190         303             
+ FRIDAY    310         396             
+                                       
+    TOTAL 1380  TOTAL 1965             
+                                       
+ For this particular hour, the A537    
+ seems much the busier.                
+                                       </content>
+	</page></content></entry>

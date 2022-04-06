@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-37-26/GB-372000-264000-8.xml</id><title type="text"> Entry: pages-GB-37-26 GB-372000-264000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-37-26/GB-372000-264000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-37-26/GB-372000-264000-8.xml/2" rel="edit" /><as:entryId>GB-372000-264000-8</as:entryId><as:updateIndex>213001</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T23:28:32.000Z</updated><published>2011-04-30T23:25:16.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-372000-264000</dblock_id>
+		<year>1986</year>
+		<title>08TRAFFIC SURVEY ON A433</title>
+		<content>{To Worcester Blue}From Worcester White
+ A.M.        CARS   VANS  LORR.  OTHER 
+ 8.30- 9.00 {146     1     17       6  
+              61     6     22       3  
+                                       
+ 9.00-10.00 {138    12     29       8  
+              80    13     27       4  
+                                       
+ 10.00-11.00{150    26     23       6  
+             126    27     31       6  
+                                       
+ 11.00-12.00 {75    17     15       2  
+              63     8     12      10  
+ P.M.                                  
+ 12.00- 1.00{ 78    17     27       7  
+             157    23     30       5  
+                                       
+ 1.00- 2.00  {89    25     25       8  
+              98    12     24       1  
+                                       
+ 2.00- 3.00 {122    18     17       9  
+              59     6     11      10  </content>
+	</page></content></entry>

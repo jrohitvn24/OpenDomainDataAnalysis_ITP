@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-35-26/GB-356000-264000-8.xml</id><title type="text"> Entry: pages-GB-35-26 GB-356000-264000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-35-26/GB-356000-264000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-35-26/GB-356000-264000-8.xml/3" rel="edit" /><as:entryId>GB-356000-264000-8</as:entryId><as:updateIndex>219761</as:updateIndex><as:revision>2</as:revision><updated>2011-05-01T08:44:43.000Z</updated><published>2011-05-01T07:54:22.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-356000-264000</dblock_id>
+		<year>1986</year>
+		<title>08POPULATION.</title>
+		<content>{Population.}The total population of   
+ the Area is 381. Out of these         
+ 15.5% are Children.                   
+ 12.5% are married women working       
+       fulltime in the home.           
+ 21.5% are retired people.             
+ 50.0% are either fulltime Students, in
+       fulltime employment or          
+       un-employed.                    
+{Types of employment. }                
+ Agriculture         48  (25%)         
+ Clerical            11  ( 6%)         
+ Craftsmen           27  (14%)         
+ Factory Workers     16  ( 9%)         
+ The Professions      8  ( 4%)         
+ Service Industries  56  (29%)         
+ Students            21  (11%)         
+ Un-employed          3  ( 2%)         
+ About 26% of these are self-employed, 
+ mostly in agricultural or the building
+ trade and a few of them are also      
+ employers, but only of a few persons. </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-34-35/GB-344000-354000-12.xml</id><title type="text"> Entry: pages-GB-34-35 GB-344000-354000-12</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-34-35/GB-344000-354000-12.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-34-35/GB-344000-354000-12.xml/2" rel="edit" /><as:entryId>GB-344000-354000-12</as:entryId><as:updateIndex>246151</as:updateIndex><as:revision>1</as:revision><updated>2011-05-01T13:00:09.000Z</updated><published>2011-05-01T12:51:58.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-344000-354000</dblock_id>
+		<year>1986</year>
+		<title>12Traffic On Our Roads</title>
+		<content> We have two main roads on the boundary
+ of our zone. We checked traffic flow  
+ for 15 minute periods at three times  
+ in the day.                           
+                                       
+ --------------------------------------
+ '  'LORRIES   ' VANS      'CARS      '
+ '  'A   A  Bye' A   A  Bye'A   A  Bye'
+ '  '41 534 Rd.' 41 534 Rd.'41 534 Rd.'
+ '--'----------'-----------'----------'
+ '10'          '           '          '
+ 'am'16 15  2  ' 10 10  0  '45 22  5  '
+ '  '          '           '          '
+ '--'----------'-----------'----------'
+ '2 '          '           '          '
+ 'pm'3  13  3  ' 6  8   0  '40 36  5  '
+ '  '          '           '          '
+ '--'----------'-----------'----------'
+ '4 '          '           '          '
+ 'pm'12 12  2  ' 2  3   0  '30 29  6  '
+ '  '          '           '          '
+ '--'----------'-----------'----------'</content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-36-36/GB-368000-363000-14.xml</id><title type="text"> Entry: pages-GB-36-36 GB-368000-363000-14</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-36-36/GB-368000-363000-14.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-36-36/GB-368000-363000-14.xml/3" rel="edit" /><as:entryId>GB-368000-363000-14</as:entryId><as:updateIndex>154393</as:updateIndex><as:revision>2</as:revision><updated>2011-04-30T17:30:29.000Z</updated><published>2011-04-30T17:28:01.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-368000-363000</dblock_id>
+		<year>1986</year>
+		<title>14MIDDLEWICH TRAFFIC SURVEY</title>
+		<content> This survey of traffic was conducted  
+ on Thursday 4th July 1985(10:30am to  
+ 11:30am). Summary of results:-        
+{                                      
+{Age of car:}0  1  2  3  4  5  6  7  8+
+{% of total:}9  9  9  9  4  7  9  4  37
+                                       
+{No.occupants:}1    2    3    4    5+  
+{% of total:}  67   26   4    1    0   
+                                       
+{Type vehicle:} car truck van m.bike   
+{% of total:}   81  7.5   8   1.5      
+{                                      
+{Nat. of man:} Brit.Eur.Jap.USSR.USA.  
+{% of total:}  71   36  5   0.5  0     
+                                       
+{Colour}Red:Green:Blue:Yell:Blk:Wht:Oth
+{% total}18   26   26   4    3   10  20
+                                       
+{55% male drivers * 41%female drivers} 
+ From a total of 335 vehicles observed.
+{                                      </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-33-48/GB-332000-483000-10.xml</id><title type="text"> Entry: pages-GB-33-48 GB-332000-483000-10</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-33-48/GB-332000-483000-10.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-33-48/GB-332000-483000-10.xml/2" rel="edit" /><as:entryId>GB-332000-483000-10</as:entryId><as:updateIndex>306519</as:updateIndex><as:revision>1</as:revision><updated>2011-05-02T19:33:31.000Z</updated><published>2011-05-02T19:29:18.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-332000-483000</dblock_id>
+		<year>1986</year>
+		<title>10Television.</title>
+		<content>{Channels.}                            
+ BBC1.......................... 30     
+ BBC2.......................... 18     
+ ITV........................... 19     
+ CH4...........................  2     
+{                                      
+{Time spent watching television per    
+{week. }                               
+ Less than 10 hours............  9     
+ 10-20 hours................... 22     
+ More than 30 hours............ 14     
+                                       
+{Programmes watched.}                  
+ Comedy........................  2     
+ Sport.........................  5     
+ Soap opera....................  5     
+ News..........................  5     
+ Nature........................ 12     
+ Other......................... 11     
+ None.......................... 10     
+                                       
+                                       </content>
+	</page></content></entry>

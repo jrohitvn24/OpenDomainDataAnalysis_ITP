@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-36-28/GB-360000-288000-3.xml</id><title type="text"> Entry: pages-GB-36-28 GB-360000-288000-3</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-36-28/GB-360000-288000-3.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-36-28/GB-360000-288000-3.xml/2" rel="edit" /><as:entryId>GB-360000-288000-3</as:entryId><as:updateIndex>152525</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T17:21:18.000Z</updated><published>2011-04-30T17:19:55.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-360000-288000</dblock_id>
+		<year>1986</year>
+		<title>03OCCUPATIONS IN DITTON PRIORS</title>
+		<content>{TYPE OF OCCUPATIONS.   HOW THEY TRAVEL
+{                                      
+ Housewife      17%     Lorry      3%  
+ Retired        12%     Car       66%  
+ Professions    12%     Motorbike  5%  
+ Manual Workers 11%     Land Rover 3%  
+ Farmer          7%     Walk      19%  
+ Student         4%     Bicycle    1%  
+ Unemployed      4%                    
+ Self-Employed   2%                    
+{                                      
+{WHERE PEOPLE TRAVEL TO.  HOW FAR THEY 
+ Bridgnorth      20%     {TRAVEL.      
+ Ditton Priors   42%  Ditton Priors 38%
+ Much Wenlock     4%  Under 5 miles  9%
+ Telford          6%  6-10 miles    19%
+ Dudley           4%  11-12 miles   12%
+ Kidderminster    4%  13-16 miles    2%
+ Highley          4%  17-20 miles    3%
+ Burwarton        4%  Over 20 miles 15%
+ Ludlow           6%                   
+ Shrewsbury       6%                   </content>
+	</page></content></entry>

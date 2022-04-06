@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-36-18/GB-364000-186000-7.xml</id><title type="text"> Entry: pages-GB-36-18 GB-364000-186000-7</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-36-18/GB-364000-186000-7.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-36-18/GB-364000-186000-7.xml/1" rel="edit" /><as:entryId>GB-364000-186000-7</as:entryId><as:updateIndex>156605</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T17:46:28.000Z</updated><published>2011-04-30T17:46:28.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-364000-186000</dblock_id>
+		<year>1986</year>
+		<title>07HOUSING IN TYTHERINGTON</title>
+		<content> We counted in each block the number of
+ houses according to age, type and     
+ building materials. We used the       
+ following key:-                       
+{                                      
+{AGE                                   
+{80s}= 1980-       {60s}=1960-1979     
+{40s}= 1940-1959   {00s}=1900-1939     
+{19s}= Pre 1900{                       
+{                                      
+{TYPE{                                 
+{S/D}= Semi-detached                   
+{D}  = Detached   {B  }= Bungalow      
+{T  }= Terraced   {M } = Mansion       
+{                                      
+{BUILDING MATERIALS                    
+{Br} = Brick      {L/S}= Local Stone   
+{C}  = Concrete  { P  }= Pre-fab.      
+{R/S}= Reprocessed Stone               
+                                       
+ The results are on page 8.            
+                                       </content>
+	</page></content></entry>

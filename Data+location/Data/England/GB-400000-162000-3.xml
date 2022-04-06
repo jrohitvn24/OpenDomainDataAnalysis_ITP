@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-40-16/GB-400000-162000-3.xml</id><title type="text"> Entry: pages-GB-40-16 GB-400000-162000-3</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-40-16/GB-400000-162000-3.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-40-16/GB-400000-162000-3.xml/3" rel="edit" /><as:entryId>GB-400000-162000-3</as:entryId><as:updateIndex>294827</as:updateIndex><as:revision>2</as:revision><updated>2011-05-02T18:43:26.000Z</updated><published>2011-05-02T18:41:42.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-400000-162000</dblock_id>
+		<year>1986</year>
+		<title>03Industry,a survey.</title>
+		<content>{Industry,a survey.                    
+{ }In the area the Hopton Industrial   
+ Estate can be found,the estate is     
+ relatively modern and is built of     
+ prefabricated warehouses and          
+ workshops.Our survey gives three      
+ points of information on each company 
+ the name of the company,the number of 
+ employees working at the company and  
+ the product of the company.           
+                                       
+{1.Slough Metal Castings.              
+   22 employees.                       
+   Produces Metal Castings.            
+                                       
+{2.Modern Pumps.                       
+   1.5 employees.*                     
+   Produces car pumps.                 
+{                                      
+{3.Surecast Developments.              
+   21 employees.                       
+   Produces machine castings.          </content>
+	</page></content></entry>

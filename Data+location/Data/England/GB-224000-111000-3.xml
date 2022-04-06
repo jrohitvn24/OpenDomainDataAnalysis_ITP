@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-22-11/GB-224000-111000-3.xml</id><title type="text"> Entry: pages-GB-22-11 GB-224000-111000-3</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-22-11/GB-224000-111000-3.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-22-11/GB-224000-111000-3.xml/2" rel="edit" /><as:entryId>GB-224000-111000-3</as:entryId><as:updateIndex>94205</as:updateIndex><as:revision>1</as:revision><updated>2011-04-29T21:39:16.000Z</updated><published>2011-04-29T21:39:16.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-224000-111000</dblock_id>
+		<year>1986</year>
+		<title>03FARM SURVEY</title>
+		<content>{     A  AN  C    S  M  MT   F   MY    
+{1  }80  34 C/H   Y  Y  H    W   182.5 
+{2 }375 336 W/B   Y  Y  H/HA S   650.0 
+{3 }150 130 O/G   Y  Y  H    F   NIL   
+{4  }50 65  H     N  Y  H    M   NIL   
+{5 }240 790 C/W/B Y  Y  H    F   NIL   
+{6 }270 770 B     Y  N  /    /   500.0 
+{7 }100 165 B/G   Y  Y  H    M   429.3 
+{8 }170 110 H     Y  Y  H    W   385.0 
+{9  }88  85 G/C   Y  Y  H/E  F    26.0 
+{10}235 300 B/G   Y  Y  H    W   464.0 
+{11}140 113 G/B   Y  Y  H    R   522.0 
+{12}120 65  G/W   Y  N  /    /   NIL   
+{13}270 163 C/H   Y  Y  H    W   455.0 
+{14}160 126 H     Y  Y  H    W   693.0 
+{15}182 283 G     Y  Y  H    S   400.0 
+{16} 80 150 G/B   Y  Y  H/HA S   100.0 
+                                       
+    {FOR KEY TO SYMBOLS SEE P.4        
+{    __________________________        
+{                                      
+                                       </content>
+	</page></content></entry>

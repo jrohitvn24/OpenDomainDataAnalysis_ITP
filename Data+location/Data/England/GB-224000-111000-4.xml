@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-22-11/GB-224000-111000-4.xml</id><title type="text"> Entry: pages-GB-22-11 GB-224000-111000-4</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-22-11/GB-224000-111000-4.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-22-11/GB-224000-111000-4.xml/2" rel="edit" /><as:entryId>GB-224000-111000-4</as:entryId><as:updateIndex>94211</as:updateIndex><as:revision>1</as:revision><updated>2011-04-29T21:39:17.000Z</updated><published>2011-04-29T21:39:17.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-224000-111000</dblock_id>
+		<year>1986</year>
+		<title>04KEY TO SURVEY</title>
+		<content>      {NAME OF FARMS                   
+ 1  LEYPARK         2 UPPACOTT         
+ 3  ROWDEN          4 BROXWATER        
+ 5  HEATHAM         6 HERDACOTT        
+ 7  TAYLORS CROSS   8 BARN             
+ 9  RICKY          10 ALDERCOMBE BARTON
+ 11 DARRACOTT      12 HUDSLAND         
+ 13 ELMSWORTHY     14 WRASFORD         
+ 15 SOUTH STURSDON 16 DEAN STURSDON    
+ A=Acreage                             
+ AN=No. of animals                     
+ C=Type of crop.Corn,Wheat,Barley,Oats,
+                Grass                  
+ S=Silage? Y/N                         
+ M=Market? Y/N                         
+ MT=Market town.Holsworthy,HAtherley,  
+                Exeter                 
+ F=Frequency.Weekly,Fortnightly,Monthly
+             Seasonally,Rarely         
+ MY=Milk yield in 1000 litres/year     
+                                       
+                                       </content>
+	</page></content></entry>

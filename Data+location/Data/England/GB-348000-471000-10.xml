@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-34-47/GB-348000-471000-10.xml</id><title type="text"> Entry: pages-GB-34-47 GB-348000-471000-10</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-34-47/GB-348000-471000-10.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-34-47/GB-348000-471000-10.xml/1" rel="edit" /><as:entryId>GB-348000-471000-10</as:entryId><as:updateIndex>259689</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T20:58:24.000Z</updated><published>2011-05-01T20:58:24.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-348000-471000</dblock_id>
+		<year>1986</year>
+		<title>10Warton Statistics-Personal</title>
+		<content>                                       
+AGE 1-10  11-20  21-30  31-40  41-50   
+%   13.6  14.2    9.0   15.5   14.7    
+                                       
+AGE 51-60  61-70  71-80  81-90  90+    
+%    7.7   14.7    7.4    3.1   O.2    
+                                       
+BIRTHPLACE                             
+Warton      11.5%    Scotland     2.4% 
+Within 10m  31.4%    Wales        1.5% 
+Other North 37.6%    East Anglia  1.5% 
+South        6.8%    UK Isles     1.2% 
+Midlands     4.1%    Europe       0.5% 
+                     Other abroad 1.5% 
+                                       
+MAIN INCOME PER ADULT                  
+Weekly Wage 23.3%           Grant 3.0% 
+Salary      22.6%           Fees  1.1% 
+Pension     36.5%           None  4.5% 
+                   Other Benefit  9.0% 
+                                       
+                                       </content>
+	</page></content></entry>

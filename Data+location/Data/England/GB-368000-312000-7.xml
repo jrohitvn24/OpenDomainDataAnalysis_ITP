@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-36-31/GB-368000-312000-7.xml</id><title type="text"> Entry: pages-GB-36-31 GB-368000-312000-7</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-36-31/GB-368000-312000-7.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-36-31/GB-368000-312000-7.xml/1" rel="edit" /><as:entryId>GB-368000-312000-7</as:entryId><as:updateIndex>153313</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T17:21:46.000Z</updated><published>2011-04-30T17:21:46.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-368000-312000</dblock_id>
+		<year>1986</year>
+		<title>07TRAFFIC COUNT  A442 TELFORD</title>
+		<content> Results of traffic counts on Queensway
+ (A442) at Trench on Wed.May 22nd. from
+ 13.15-13.30 and Fri.May 24th.from     
+ 10.00-10.15                           
+                                       
+        {Southbound       Northbound  }
+         Wed.   Fri.      Wed.   Fri.  
+{Cars    69     80        94     60    
+{Lorries 11      9        13     17    
+{Vans    15      9        18      9    
+{Bicycles 1      2         1      1    
+{Mo'bikes 3      0         3      0    
+{Tractor  1      0         1      0    
+{Bus      0      0         1      0}   
+                                       
+ The total number of vehicles using the
+ southbound carriageway was the same on
+ both Wednesday and Friday.The traffic 
+ on the northbound carriageway was much
+ heavier on Wednesday.This may have    
+ been because the count was taken at   
+ lunchtime and people were going home. </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-33-48/GB-332000-483000-19.xml</id><title type="text"> Entry: pages-GB-33-48 GB-332000-483000-19</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-33-48/GB-332000-483000-19.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-33-48/GB-332000-483000-19.xml/2" rel="edit" /><as:entryId>GB-332000-483000-19</as:entryId><as:updateIndex>306537</as:updateIndex><as:revision>1</as:revision><updated>2011-05-02T19:33:32.000Z</updated><published>2011-05-02T19:29:19.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-332000-483000</dblock_id>
+		<year>1986</year>
+		<title>19Local Public Transport.</title>
+		<content>{Buses to Newby Bridge.}               
+       7.00                            
+       8.05  {Buses to Ulverston.}     
+       8.07         8.20               
+       9.05        10.30               
+      10.17        10.50               
+      12.17        12.30               
+       1.05         2.30               
+       2.07         2.55               
+       2.35         4.40               
+       4.17         6.25               
+       5.05         6.50               
+       5.22         6.57               
+       6.17                            
+                                       
+ There is also a bus at 5.02 PM from   
+ Ulverston to Sawrey on Thursday       
+ (market day)                          
+                                       
+ During school time 4.18 PM Newby      
+ Bridge To Ulverston                   
+                                       </content>
+	</page></content></entry>

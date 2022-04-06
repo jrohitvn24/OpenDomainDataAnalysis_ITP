@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-34-45/GB-348000-450000-14.xml</id><title type="text"> Entry: pages-GB-34-45 GB-348000-450000-14</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-34-45/GB-348000-450000-14.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-34-45/GB-348000-450000-14.xml/1" rel="edit" /><as:entryId>GB-348000-450000-14</as:entryId><as:updateIndex>259283</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T20:58:10.000Z</updated><published>2011-05-01T20:58:10.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-348000-450000</dblock_id>
+		<year>1986</year>
+		<title>14FARMS IN FORTON</title>
+		<content>                                       
+{FARM       1   2    3    4    5     6 
+{ACRES}    130  24   52   29  170    64
+{COWS}     100  45   75   70  113     6
+{SHEEP}      0  29   56   40    0    50
+{PIGS}       0   0    0    0    0     0
+{TURKEYS    }0   0    0    0    0     0
+{CHICKENS  } 0  15    0 17,000  0 16000
+                                       
+                                       
+                                       
+                                       
+{FARM       7   8    9    10   11    12
+{ACRES    }170  68   16    23    7   60
+{COWS     }120  96   23    23    0   45
+{SHEEP      }0  30    0    43    0    0
+{PIGS       }0   0    0     0    0  250
+{TURKEYS    }0   0    0     0    0   10
+{CHICKENS   }0  50    0     0   50    0
+{                                      
+ A key to the names of the farms is on 
+ page 15.                              </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-37-26/GB-376000-264000-11.xml</id><title type="text"> Entry: pages-GB-37-26 GB-376000-264000-11</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-37-26/GB-376000-264000-11.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-37-26/GB-376000-264000-11.xml/2" rel="edit" /><as:entryId>GB-376000-264000-11</as:entryId><as:updateIndex>213085</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T23:28:34.000Z</updated><published>2011-04-30T23:25:19.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-376000-264000</dblock_id>
+		<year>1986</year>
+		<title>11DINGLE FARM _ LAND USE</title>
+		<content>{CROPS} Wheat           14.2 hectares  
+        Spring barley   14.2 hectares  
+        Potatoes        27.3 hectares  
+        Sugar beet      36.0 hectares  
+        Fodder bt.mang.  2.0 hectares  
+        Peas for seed   35.8 hectares  
+        Beans for seed   4.8 hectares  
+        Vegetables       1.0 hectares  
+        Apples          12.0 hectares  
+        Pears            4.3 hectares  
+        Plums            2.8 hectares  
+        Cherries         2.8 hectares  
+        Damsons          0.4 hectares  
+        Strawberries     4.1 hectares  
+        Raspberries      2.0 hectares  
+        Blackcurrants    1.0 hectares  
+        Gooseberries     1.2 hectares  
+        Other fruit      1.0 hectares  
+{GRASSLAND  }           50.7 hectares  
+{ROUGH GRAZING}          9.5 hectares  
+{WOODLAND  }             9.6 hectares  
+{ALL OTHER LAND}         2.7 hectares  </content>
+	</page></content></entry>

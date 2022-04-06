@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-35-47/GB-352000-474000-8.xml</id><title type="text"> Entry: pages-GB-35-47 GB-352000-474000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-35-47/GB-352000-474000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-35-47/GB-352000-474000-8.xml/2" rel="edit" /><as:entryId>GB-352000-474000-8</as:entryId><as:updateIndex>222441</as:updateIndex><as:revision>1</as:revision><updated>2011-05-01T08:45:59.000Z</updated><published>2011-05-01T08:01:08.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-352000-474000</dblock_id>
+		<year>1986</year>
+		<title>08HOME LIFE Roles in the house</title>
+		<content>{cleaning         }:  76  :  10  :  03 
+                   :      :      :     
+{tidying          }:  56  :  03  :  27 
+                   :      :      :     
+{cooking          }:  75  :  09  :  01 
+                   :      :      :     
+{gardening        }:  43  :  39  :  11 
+                   :      :      :     
+{laying table     }:  24  :  15  :  44 
+                   :      :      :     
+{"do it yourself" }:  46  :  21  :  11 
+                   :      :      :     
+{lighting coal fire:} 26  :  45  :  11 
+                  {:mother:father:child
+ Numbers show which member of the      
+ family usually performs which tasks.  
+{cleaning,}washing dishes etc..{       
+{tidying,}making beds etc..{           
+{cooking,}meal preparation.{           
+{gardening,}indoor and outdoor.        
+{do it yourself,}general maintenance.  
+{lighting coal fire.}92% have coal fire</content>
+	</page></content></entry>

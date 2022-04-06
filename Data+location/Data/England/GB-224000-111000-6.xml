@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-22-11/GB-224000-111000-6.xml</id><title type="text"> Entry: pages-GB-22-11 GB-224000-111000-6</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-22-11/GB-224000-111000-6.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-22-11/GB-224000-111000-6.xml/1" rel="edit" /><as:entryId>GB-224000-111000-6</as:entryId><as:updateIndex>94213</as:updateIndex><as:revision>0</as:revision><updated>2011-04-29T21:39:17.000Z</updated><published>2011-04-29T21:39:17.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-224000-111000</dblock_id>
+		<year>1986</year>
+		<title>06KEY TO HOUSING</title>
+		<content> TYPE,H=House.B=Bungalow               
+ B,No. of bedrooms:S/B,Shower/Bath     
+ Date built                            
+ Heating,S,Solid fuel,EC,Electric      
+ Central Heating, CE,Coal/electric     
+ Heating,R,Raburn, O,Oil fired heating 
+                                       
+                                       
+ L,No. of lavatories                   
+ O,Occupation,1,Thermal insulation     
+ engineer,2,Housewife,3,Retired,4,Cook,
+ 5,Garden designer, 6,Shop_keeper, 7,  
+ Building Contractor,8,Mason,          
+ 9,Shepherd                            
+ Telephone installed Y/N S.T.D. code   
+  for Kilkhampton is 0288 82           
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-36-25/GB-368000-255000-3.xml</id><title type="text"> Entry: pages-GB-36-25 GB-368000-255000-3</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-36-25/GB-368000-255000-3.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-36-25/GB-368000-255000-3.xml/2" rel="edit" /><as:entryId>GB-368000-255000-3</as:entryId><as:updateIndex>152143</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T17:21:08.000Z</updated><published>2011-04-30T17:19:40.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-368000-255000</dblock_id>
+		<year>1986</year>
+		<title>03Timber around Brockhampton</title>
+		<content>{Tree       Uses                       
+{OAK}         furniture,posts,beams    
+{BEECH}butt furniture,mining_timber    
+{SWEET-CHESTNUT}timber,cleft_fencing   
+{RIPPLE-SYCAMORE}butt veneers_furniture
+{YEW}       furniture                  
+{HORNBEAM} furniture                   
+{WALNUT} figuring_furniture            
+{BIRCH}   pulp_wood for paper          
+{LIME}    picture_frames,tool handles  
+{CEDAR}     furniture,gates,sheds      
+{SPORTS-ASH}tennis-racket,tool-handles 
+{LARCH}          gates,stakes,rails    
+{NORWAY-SPRUCE}stakes,rails            
+{DOUGLAS-FIR}stakes,rails              
+    The tree felling is very mechanised
+ trees are felled with chain_saws,trac_
+ tors drag out the timber,grabs are    
+ used for lifting and unloading        
+ trees,Hy_habs mounted on the lorrys,  
+ enable them to be easily loaded.      
+                                       </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-38-19/GB-380000-195000-4.xml</id><title type="text"> Entry: pages-GB-38-19 GB-380000-195000-4</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-38-19/GB-380000-195000-4.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-38-19/GB-380000-195000-4.xml/3" rel="edit" /><as:entryId>GB-380000-195000-4</as:entryId><as:updateIndex>162055</as:updateIndex><as:revision>2</as:revision><updated>2011-04-30T19:22:17.000Z</updated><published>2011-04-30T18:41:38.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-380000-195000</dblock_id>
+		<year>1986</year>
+		<title>04ECOLOGY - FLORA</title>
+		<content>   TREE SURVEY        WOOD FLORA SURVEY
+                                       
+ SPECIES  NUMBER  %   SPECIES %GROUNDCV
+ Beech       328 48.38 Wood Garlic   18
+ Sycamore    155 22.86 Bluebell      11
+ Field Maple 120 17.70 Bramble        5
+ Silver Birch 22  3.24 Ground Ivy     4
+ Hazel        15  2.21 Wood Anemone   2
+ Yew          12  1.77 Woodruff       1
+ Hawthorn     11  1.62 Dogs Mercury   1
+ Holly         9  1.32 Bracken      tce
+ Oak           6  0.83 Wood Arens   tce
+                       Wood Violet  tce
+                       Wood Sorrel  tce
+                       Leaf Litter   57
+                                       
+ Light reading outside wood- 78 units  
+ Light reading inside wood- 45 units   
+ Air temp outside wood- 18'c           
+ Air temp inside wood- 10'c            
+ Soil type- Clay/Loan PH 7.5           
+ (Trace (tce) species less than 1%)    </content>
+	</page></content></entry>

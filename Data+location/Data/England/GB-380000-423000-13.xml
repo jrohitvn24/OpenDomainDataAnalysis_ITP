@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-38-42/GB-380000-423000-13.xml</id><title type="text"> Entry: pages-GB-38-42 GB-380000-423000-13</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-38-42/GB-380000-423000-13.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-38-42/GB-380000-423000-13.xml/1" rel="edit" /><as:entryId>GB-380000-423000-13</as:entryId><as:updateIndex>168529</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T20:31:43.000Z</updated><published>2011-04-30T20:31:43.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-380000-423000</dblock_id>
+		<year>1986</year>
+		<title>13QUESTIONAIRE - RESULTS 1</title>
+		<content>{Section 1 : HOUSING                   
+{*******************                   
+                                       
+ 1.What type of house do you live in ? 
+{ Terraced 42.5%   Semi 32.5% Detached 
+{12.5%  Bungalow 12.5%  Flat 0%        
+                                       
+ 2.Age of house ?                      
+  {Pre War 45%  Inter War 17.5%  Post  
+{War 2.5%  1960-80  27.5%  1980] 7.5%  
+                                       
+ 3.Has your house a garden ?           
+  {No 15%  Front only 15%              
+{  Rear only 10%  Both 60%             
+                                       
+ 4.Has your house a garage ?           
+   {No 37.5%  Detached 52.5%           
+{   Integral 10%                       
+                                       
+ 5.Do you possess a vehicle ?          
+   {No 5%  Car/Van/Motorbike 95%       
+{         (Of these,more than one 50%) </content>
+	</page></content></entry>

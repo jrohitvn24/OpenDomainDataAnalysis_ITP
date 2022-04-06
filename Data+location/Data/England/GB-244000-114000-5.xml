@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-24-11/GB-244000-114000-5.xml</id><title type="text"> Entry: pages-GB-24-11 GB-244000-114000-5</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-24-11/GB-244000-114000-5.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-24-11/GB-244000-114000-5.xml/4" rel="edit" /><as:entryId>GB-244000-114000-5</as:entryId><as:updateIndex>116331</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T08:17:36.000Z</updated><published>2011-04-30T08:06:40.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-244000-114000</dblock_id>
+		<year>1986</year>
+		<title>05DERIVATION OF PLACE NAMES</title>
+		<content>{PLACE     DATE ORIGINAL  MEANING      
+ Langtree  1086 Langtrewa Tall tree    
+ Lambert   1269 Lampford  Lamb ford    
+ Buda      1287 Bowode    Curved wood  
+ Stapleton 1314 Stapildon Home of      
+                          Stapeldon    
+ Rivaton   1314 Reveton   Reeve's farm 
+ Doggaport 1330 Thorkirport Tramp's pit
+ Stowford  1330 Stouford  Safe place   
+ Withecott 1330 Wydicote  Withy cot    
+ Berry     1333           Home of Byry 
+ Brown's   1333 Browne's  Home of John 
+                Marsh     Broun        
+ Suddon    1333 Soddon    South down   
+ Week      1333           Home of      
+                          de Week      
+ Putshole  1555 Pyottsale Possibly     
+                          Priest's cell
+ Burstone       Burton Wood            
+ Frost          King's Frost           
+ Collacott 1569           Home of      
+                          Collacott    </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-39-22/GB-392000-225000-8.xml</id><title type="text"> Entry: pages-GB-39-22 GB-392000-225000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-39-22/GB-392000-225000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-39-22/GB-392000-225000-8.xml/2" rel="edit" /><as:entryId>GB-392000-225000-8</as:entryId><as:updateIndex>328495</as:updateIndex><as:revision>1</as:revision><updated>2011-05-03T10:32:04.000Z</updated><published>2011-05-02T21:14:31.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-392000-225000</dblock_id>
+		<year>1986</year>
+		<title>08BISHOP'S CLEEVE:Shopping</title>
+		<content>{Survey of 100 shoppers at Supermarket 
+{_____________________________________ 
+ 1) How often do you shop at Gateways ?
+  a) More than once a week ?  {50      
+  b) About once a week ?      {43}     
+  c) About once a month ?      {4}     
+  d) Less often ?              {3}     
+ 2) Is this your main shopping centre ?
+       Yes .... {70}   No .... {30}    
+ 3) Do you live in Bishop's Cleeve ?   
+       Yes .... {59}   No .... {41}    
+ 4) If No, where do you live ?         
+ Gotherington ..{10} Woodmancote ..{9{ 
+ Stoke Orchard . {4 }Teddington ...{3} 
+ Cheltenham ....{ 3} Winchcombe ...{2} 
+ Southam .......{ 2} Swindon Vil' .{1} 
+ Ashton-u'-Hill  {1} Cleeve Hill ..{1} 
+ Oxenton ....... {1} Elmstone Hard'{1} 
+ Charlton Kings  {1} Bredon .......{1} 
+ Pershore ...... {1}                   
+ 5) Attitude to shopping facilities ?  
+ Excellent{27}Good{47}Adequate{26      </content>
+	</page></content></entry>

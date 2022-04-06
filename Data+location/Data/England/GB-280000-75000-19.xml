@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-28-75/GB-280000-75000-19.xml</id><title type="text"> Entry: pages-GB-28-75 GB-280000-75000-19</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-28-75/GB-280000-75000-19.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-28-75/GB-280000-75000-19.xml/1" rel="edit" /><as:entryId>GB-280000-75000-19</as:entryId><as:updateIndex>238269</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T11:34:42.000Z</updated><published>2011-05-01T11:34:42.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-280000-75000</dblock_id>
+		<year>1986</year>
+		<title>19TRAFFIC SURVEY HEATHFIELD</title>
+		<content>   {TRAFFIC ALONG A38 (OS 828751)      
+  Time and Day: 7.5.85 2.00pm-3.00pm.  
+{TRAFFIC TRAVELLING TOWARDS EXETER.    
+{TYPES OF VEHICLE:}Cars:460 Lorries:162
+ Vans:106 Bus or Coaches:3 Motorbikes:3
+ Others:12 Total:746{CAR COLOUR:}Red:99
+ Orange:26 Yellow:26 Blue:97 White:97  
+ Green:38 Grey:24 Black:24 Others:29   
+ Total:460{CAR AGE:}1983_85:236        
+ 1980_82:96 1977_79:44 1974_77:35      
+ 1971_73:17 1970 or before:32 Total:460
+{TRAFFIC TRAVELLING TOWARDS PLYMOUTH   
+{TYPES OF VEHICLE:}Cars:506 Lorries:112
+ Vans:51 Bus or Coach:6 Motorbikes:8   
+ Others:1 Total:684{CAR COLOUR:}Red:107
+ Orange:28 Yellow:29 Blue:97 White:98  
+ Green:39 Grey:26 Black:32 Others:50   
+ Total:506{CAR AGE:}1983_85:238        
+ 1980_82:121 1977_79:69 1974_77:37     
+ 1971_73:22 1970 or before:19 Total:506
+                                       
+                                       </content>
+	</page></content></entry>

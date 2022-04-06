@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-36-11/GB-360000-117000-8.xml</id><title type="text"> Entry: pages-GB-36-11 GB-360000-117000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-36-11/GB-360000-117000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-36-11/GB-360000-117000-8.xml/5" rel="edit" /><as:entryId>GB-360000-117000-8</as:entryId><as:updateIndex>150135</as:updateIndex><as:revision>4</as:revision><updated>2011-04-30T17:11:06.000Z</updated><published>2011-04-30T17:01:36.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-360000-117000</dblock_id>
+		<year>1986</year>
+		<title>08NW.SHERBORNE:'999' SERVICES</title>
+		<content>{Police}- This area is part of the area
+ covered by Sherborne Police Station.  
+ This station is open from 0800 hours  
+ to 0200 hours and a patrol car is     
+ operational within the area during    
+ these hours. Outside these hours      
+ calls are automatically transfered to 
+ Dorchester. All{999 calls}go to       
+ Dorchester and if no vehicle is       
+ available in the Sherborne area one is
+ sent from Dorchester or Blandford.    
+{Fire}- The twenty firemen at Sherborne
+ are all retained firemen, not         
+ full-time. There are two{fire-engines}
+ which deal with about 200 calls a     
+ year. If need be fire-engines are     
+ called out from Yeovil.               
+{Ambulance}- There is a full-time team 
+ based at Sherborne. Casualties are    
+ usually taken to Sherborne's Yeatman  
+{Hospital,}but may also be sent direct 
+ to the larger hospital in Yeovil.     </content>
+	</page></content></entry>

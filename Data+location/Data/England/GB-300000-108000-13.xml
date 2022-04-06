@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-30-10/GB-300000-108000-13.xml</id><title type="text"> Entry: pages-GB-30-10 GB-300000-108000-13</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-30-10/GB-300000-108000-13.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-30-10/GB-300000-108000-13.xml/5" rel="edit" /><as:entryId>GB-300000-108000-13</as:entryId><as:updateIndex>105399</as:updateIndex><as:revision>4</as:revision><updated>2011-04-30T07:29:57.000Z</updated><published>2011-04-30T07:17:32.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-300000-108000</dblock_id>
+		<year>1986</year>
+		<title>13GARDENS and PETS IN VILLAGE</title>
+		<content>{SURVEY RETURN FROM CROSS SECTION OF   
+{VILLAGE OF WILLAND. (100 RETURNS)     
+{______________________________________
+{DO YOU HAVE A GARDEN? }  YES{95%}NO{5%
+{HAVE YOU  A GREENHOUSE?}YES{37%}NO{58%
+{HAVE YOU  A LAWNMOWER? }YES{83%}NO{14%
+{DO YOU GROW FRUIT/VEG? }YES{71%}NO{27%
+{HOW MANY TREES HAS YOUR GARDEN ?      
+{0=38%___1=14%___2=12%___3=7%___4=0%___
+{5= 7%___6= 1%___7= 2%___8=4%___9=0%___
+{OVER 10=19%                           
+{______________________________________
+{DO YOU HAVE A PET ?  } YES {78%}NO{32%
+{WHAT TYPE OF PET HAVE YOU?            
+ CATS______{48%                        
+ DOGS______{30%}                       
+ RABBITS___{13%}                       
+ FISH______{13%}                       
+ HORSES____{ 6%}                       
+ OTHERS____ SHEEP/LAMBS, CHICKENS,     
+ DUCKS, BUDGIES AND FROGS.             
+{--------------------------------------</content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-36-35/GB-364000-354000-8.xml</id><title type="text"> Entry: pages-GB-36-35 GB-364000-354000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-36-35/GB-364000-354000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-36-35/GB-364000-354000-8.xml/4" rel="edit" /><as:entryId>GB-364000-354000-8</as:entryId><as:updateIndex>153957</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T17:30:17.000Z</updated><published>2011-04-30T17:25:24.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-364000-354000</dblock_id>
+		<year>1986</year>
+		<title>08Farm Animals.</title>
+		<content> A chart showing the no. of animals on 
+ the 14 farms in this area.            
+{ Animal Farms  Min  Max  Mean  Total  
+ Cows in_______________________________
+    milk . 13   30   165    76    987 .
+{Heifers}. {8    5   100    39    315 .
+  Calves .  8    2    50    16    130 .
+{   Pigs}. {2   42  2500  1271   2542 .
+  Horses .  2    1     1     1      2 .
+{  Sheep .  5    1  1250   285   1423 .
+   Goats .  1    2     2     2      2 .
+ ______________________________________
+             KEY TO THE CHART          
+{Farms:                                
+ No.of farms having this animal.{      
+{Min: }Least no.on any farm having this
+ animal.                           {   
+{Max: }Greatest no. on any one farm.   
+{Mean:}Mean no. on farms having this   
+ animal.{                              
+{Total: }Total no.on all 14 farms.     
+                                       </content>
+	</page></content></entry>

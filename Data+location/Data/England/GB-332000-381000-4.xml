@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-33-38/GB-332000-381000-4.xml</id><title type="text"> Entry: pages-GB-33-38 GB-332000-381000-4</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-33-38/GB-332000-381000-4.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-33-38/GB-332000-381000-4.xml/2" rel="edit" /><as:entryId>GB-332000-381000-4</as:entryId><as:updateIndex>305185</as:updateIndex><as:revision>1</as:revision><updated>2011-05-02T19:32:47.000Z</updated><published>2011-05-02T19:28:32.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-332000-381000</dblock_id>
+		<year>1986</year>
+		<title>04HEALTH</title>
+		<content> All figures relate to 280 households  
+ surveyed in the area.                 
+                                       
+        {ITEM            |}PERCENTAGE  
+{_____________________________________ 
+{LONG_TERM ILLNESS       |}15.8        
+{SMOKERS                 |}54.3        
+{REGULAR EXERCISERS      |}66.7        
+{DIABETICS               |}28.3        
+{ALLERGY SUFFERERS       |}32.0        
+{REGULAR DENTAL CHECKS   |}68.0        
+{DIET CONSCIOUS          |}51.0        
+{SPECTACLE WEARERS       |}46.0        
+{REGULAR EYE CHECKS      |}29.0        
+{IN RECEIPT OF PRIVATE   |             
+{MEDICAL TREATMENT       |}29.0        
+{IN RECEIPT OF STATE     | }           
+{BENEFIT                 |}31.0        
+{______________________________________
+  Of those who receive state benefit,  
+ 59% thought it inadequate. 69% thought
+ local health provision inadequate.    </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-35-14/GB-356000-144000-9.xml</id><title type="text"> Entry: pages-GB-35-14 GB-356000-144000-9</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-35-14/GB-356000-144000-9.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-35-14/GB-356000-144000-9.xml/6" rel="edit" /><as:entryId>GB-356000-144000-9</as:entryId><as:updateIndex>217999</as:updateIndex><as:revision>5</as:revision><updated>2011-05-01T08:43:53.000Z</updated><published>2011-05-01T07:38:37.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-356000-144000</dblock_id>
+		<year>1986</year>
+		<title>09SHOPPING SURVEY PART 2</title>
+		<content>{DULCOTE:_     GROC  FURN  CHEM  ELEC  
+{Wells    }      6     o     6     2   
+{Bath }          0     1     0     0   
+{Bristol }       0     1     0     2   
+{Shepton Mallet }0     3     0     1   
+                                       
+{E.HORRINGTON:_                        
+{Wells }         6     0     6     2   
+{Bath           }0     2     1     2   
+{Bristol        }0     1     0     2   
+{Shepton Mallet  0     1     0  }  0   
+                                       
+ The results show that Wells is the    
+ main shopping centre in the area,     
+ although Shepton Mallet becomes more  
+ important to Croscombe residents. Bath
+ and Bristol (approx. 30km away) are   
+ significant centres for furniture and 
+ electrical goods and Shepton Mallet   
+ has a large furniture store.          
+ Catalogues are used by 25% in each    
+ centre. 50_75% of shoppers use a car. </content>
+	</page></content></entry>

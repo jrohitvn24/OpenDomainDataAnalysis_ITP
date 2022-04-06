@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-19-51/GB-192000-51000-14.xml</id><title type="text"> Entry: pages-GB-19-51 GB-192000-51000-14</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-19-51/GB-192000-51000-14.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-19-51/GB-192000-51000-14.xml/2" rel="edit" /><as:entryId>GB-192000-51000-14</as:entryId><as:updateIndex>144443</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T16:25:27.000Z</updated><published>2011-04-30T16:25:27.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-192000-51000</dblock_id>
+		<year>1986</year>
+		<title>14TRANSPORT.RAILWAYS</title>
+		<content>{Nearest station at St.Austell on main 
+{line from Penzance to Paddington. }   
+ NUMBERS OF TRAINS(Each way daily)     
+               { Summer    Winter      
+{To/From Wk.day Sat. Sun. Sat. Sun.}   
+ London     9    12    9    8    8     
+ Plymouth   3     1    2    2    _     
+ Exeter     1     1    _    1    1     
+ Bristol    1     1    1    1    1     
+ Liverpool  2     2    1    1    1     
+ Leeds      2     1    _    1    _     
+ Newcastle  2     1    1    1    1     
+ Aberdeen   1     2    _    1    _     
+ Manchester _     1    _    _    _     
+ Cardiff    _     1    _    _    _     
+ Derby      _     1    _    _    _     
+{TYPICAL JOURNEY TIMES &amp; RETURN FARES }
+ Aberdeen     13h 14m       Â£62        
+ Newcastle     9h 21m       Â£43        
+ Birmingham    5h 20m       Â£25        
+ London        4h  0m       Â£24        
+ Plymouth      1h  0m      Â£2.50       </content>
+	</page></content></entry>

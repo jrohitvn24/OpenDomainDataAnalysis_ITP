@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-31-99/GB-316000-99000-18.xml</id><title type="text"> Entry: pages-GB-31-99 GB-316000-99000-18</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-31-99/GB-316000-99000-18.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-31-99/GB-316000-99000-18.xml/1" rel="edit" /><as:entryId>GB-316000-99000-18</as:entryId><as:updateIndex>180675</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T21:22:02.000Z</updated><published>2011-04-30T21:22:02.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-316000-99000</dblock_id>
+		<year>1986</year>
+		<title>18Schools in the Honiton area</title>
+		<content>{Question:            A  B  C  D  E  F 
+ Number of          436    38   173    
+  children    {       }180    98   830 
+ Staff full time     15 12  2 11  6 51 
+       part time      3 10  1 00  2  3 
+ Children youngest   3\ 3\ 4\ 3\  5 11 
+          oldest     11 14 11 17 11 18 
+ Class roooms        18 15  2  6  5 35 
+ Catchment miles      6 15  4 30 10 15 
+ Transport to school  y  y  y  y  n  y 
+ Staff Room           y  y  n  y  y  y 
+ Nursery              y  n  n  y  n  n 
+ Partial Hearing unit y  n  n  n  n  n 
+ Swimming Pool        y  n  y  y  n  y 
+ Music Room           y  y  n  n  n  y 
+ Library              y  y  n  n  y  y 
+ Canteen              y  y  n  n  n  y 
+{                                      
+{A Honiton Primary D Millwater Special 
+{B Manor House     E Littletown primary
+{  private school  F Honiton Community 
+{C Offwell Primary   College           </content>
+	</page></content></entry>

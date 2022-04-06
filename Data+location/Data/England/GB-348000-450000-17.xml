@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-34-45/GB-348000-450000-17.xml</id><title type="text"> Entry: pages-GB-34-45 GB-348000-450000-17</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-34-45/GB-348000-450000-17.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-34-45/GB-348000-450000-17.xml/1" rel="edit" /><as:entryId>GB-348000-450000-17</as:entryId><as:updateIndex>259289</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T20:58:11.000Z</updated><published>2011-05-01T20:58:11.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-348000-450000</dblock_id>
+		<year>1986</year>
+		<title>17MOTORWAY TRAFFIC SURVEY</title>
+		<content> We went to the Service Station 7 days 
+ of the week between 4.00 and 5.00.We  
+ counted how many vehicles used the    
+ motorway on the North side.           
+                                       
+{        MON TUES WED THURS FRI SAT SUN
+{CARS }   56   98 112    92 186 156 118
+                                       
+{LORRIES} 30   42  72    34  40   2   6
+                                       
+{VANS}    12    8  26    18   8  12  10
+                                       
+{CARAVANS }6    2   2     0  10   2   2
+                                       
+{COACHES}  0    2   2     2   0   2   4
+                                       
+{MOTOR    }4    0   0     0   0   6   6
+{BIKES.                                
+                                       
+                                       
+                                       
+                                       </content>
+	</page></content></entry>

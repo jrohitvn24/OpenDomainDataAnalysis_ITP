@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-32-13/GB-324000-135000-6.xml</id><title type="text"> Entry: pages-GB-32-13 GB-324000-135000-6</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-32-13/GB-324000-135000-6.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-32-13/GB-324000-135000-6.xml/1" rel="edit" /><as:entryId>GB-324000-135000-6</as:entryId><as:updateIndex>296421</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T18:59:06.000Z</updated><published>2011-05-02T18:59:06.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-324000-135000</dblock_id>
+		<year>1986</year>
+		<title>06HOUSING</title>
+		<content>                                       
+                                       
+ **************************************
+ * 14.private h/hold with residents,  *
+ * residents, rooms in h/hold spaces  *
+ **************************************
+ * h/holds  *  households with the    *
+ * with the ***************************
+ *following * 1  *  2  *  3  *  4  * 5 
+ * persons  *    *     *     *     *   
+ **************************************
+ *all h/hlds*  1     1     6    80  230
+ *    1     *  1     1     2    21   27
+ *    2     *  0     0     4    39   83
+ *    3     *  0     0     0    10   38
+ *    4     *  0     0     0    9    66
+ *    5     *  0     0     0    2    16
+ *    6     *  0     0     0    1     2
+ *    7+    *  0     0     0    0     0
+ **************************************
+ *total pers*  1     1    11   166  651
+ **************************************</content>
+	</page></content></entry>

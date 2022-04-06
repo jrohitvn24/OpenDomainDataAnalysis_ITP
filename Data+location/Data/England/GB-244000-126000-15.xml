@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-24-12/GB-244000-126000-15.xml</id><title type="text"> Entry: pages-GB-24-12 GB-244000-126000-15</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-24-12/GB-244000-126000-15.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-24-12/GB-244000-126000-15.xml/4" rel="edit" /><as:entryId>GB-244000-126000-15</as:entryId><as:updateIndex>116507</as:updateIndex><as:revision>3</as:revision><updated>2011-04-30T08:17:41.000Z</updated><published>2011-04-30T08:06:44.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-244000-126000</dblock_id>
+		<year>1986</year>
+		<title>15TRAFFIC SURVEY</title>
+		<content> 1ST JULY{2.30}TO{3.00}PM. SURVEY TAKEN
+ ON THE WEST END OF BIDEFORD BRIDGE.   
+{NUMBER OF CARS:                       
+                                       
+        TO    TORRINGTON   270         
+        FROM  TORRINGTON   155         
+                                       
+        TO    BARNSTAPLE   331         
+        FROM  BARNSTAPLE   460         
+                                       
+        TO    WESTWARD HO! 449         
+        FROM  WESTWARD HO! 260         
+                                       
+{VEHICLES WITH DEVON REGISTRATIONS     
+                                       
+           CARS        188             
+           VANS         21             
+           BUSES         6             
+           LORRIES      17{            
+           COACHES       1             
+           MOTORBIKES    3             
+           FARM VEHICLES 4             </content>
+	</page></content></entry>

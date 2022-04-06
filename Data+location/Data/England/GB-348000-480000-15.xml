@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-34-48/GB-348000-480000-15.xml</id><title type="text"> Entry: pages-GB-34-48 GB-348000-480000-15</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-34-48/GB-348000-480000-15.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-34-48/GB-348000-480000-15.xml/1" rel="edit" /><as:entryId>GB-348000-480000-15</as:entryId><as:updateIndex>253553</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T16:52:19.000Z</updated><published>2011-05-01T16:52:19.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-348000-480000</dblock_id>
+		<year>1986</year>
+		<title>15PETS SURVEY</title>
+		<content> ANALYSIS OF PET TYPES.                
+                                       
+ Horse/donkey/pony =  9                
+ Dogs              = 77                
+ Cats              = 47                
+ Rabbits           = 22                
+ Ferret            =  4                
+ Guinea Pig        = 15                
+ Hamster           =  2                
+ Gerbil            = 11                
+ Fish              =167                
+ Birds             =247                
+ Calves            =  2                
+ Tortoise          =  1                
+ Salamander        =  1                
+             TOTAL =605                
+                                       
+ Method of obtaining pets.             
+                                       
+ Bought       = 64                     
+ Gifts        = 36                     
+ Own Breeding = 19                     </content>
+	</page></content></entry>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-38-12/GB-380000-120000-15.xml</id><title type="text"> Entry: pages-GB-38-12 GB-380000-120000-15</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-38-12/GB-380000-120000-15.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-38-12/GB-380000-120000-15.xml/7" rel="edit" /><as:entryId>GB-380000-120000-15</as:entryId><as:updateIndex>160723</as:updateIndex><as:revision>6</as:revision><updated>2011-04-30T19:21:39.000Z</updated><published>2011-04-30T18:05:00.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-380000-120000</dblock_id>
+		<year>1986</year>
+		<title>15 Life Styles Census Details.</title>
+		<content>   Returns from{100 houses.            
+   Occupied by {199 Adults.            
+{               115 Children.          
+{ }Owning      {154 Cars.              
+   Households                          
+  without cars {5                      
+{WORK              WORK-PLACE          
+ Agriculture.{35 }:Home.       {46     
+ Professional{52 }:Yeovil.      {3     
+ Retired.    {44 }:London.      {7     
+ Tranport.    {3 }:Blandford.   {3     
+ Labourer.    {2 }:Shaftesbury.{15     
+ Forces.      {1 }:Gillingham.  {2     
+ Building.    {6 }:Salisbury.   {1     
+ Unemployed.  {6 }:Wimborne.    {1     
+ Housewife.  {49 }:Bath.        {1     
+                  :Local.      {17     
+                  :Abroad.      {2     
+                  :Home(House  {49     
+                  {     }wife.)        
+                                       
+                                       </content>
+	</page></content></entry>

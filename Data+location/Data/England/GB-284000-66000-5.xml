@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-28-66/GB-284000-66000-5.xml</id><title type="text"> Entry: pages-GB-28-66 GB-284000-66000-5</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-28-66/GB-284000-66000-5.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-28-66/GB-284000-66000-5.xml/3" rel="edit" /><as:entryId>GB-284000-66000-5</as:entryId><as:updateIndex>237433</as:updateIndex><as:revision>2</as:revision><updated>2011-05-01T11:34:18.000Z</updated><published>2011-05-01T11:22:35.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-284000-66000</dblock_id>
+		<year>1986</year>
+		<title>05KINGSKERSWELL/FAMILY LIFE</title>
+		<content>{GRAPH TO SHOW KINDS OF HOMES          
+ This graph shows what kind of homes   
+ 67 children from the 3rd and 4th years
+ live in.                | {key}       
+    30                   | 17= Terrecd 
+    25                 **|  2= Councal 
+    20                 **|  0= Caravan 
+    15 **              **|  6= Houses  
+    10 **            ****|  2= Farm    
+     5 **    **      ****|  2= Cottage 
+     0 ****  ************|  1= Flat    
+    ---------------------|  9= Bungolow
+       17 2 0 6 2 2 1 926| 26= Semi/det
+{FAMILY LIFE-Routine of Kathryn Fey(11)
+  7.30-Rise,wash,dress |6.30-Horse ride
+  8.00-Breakfast       |8.00-Go home   
+  8.40-Leave for school|8.15-Watch T.V.
+  9.00-School starts   |9.00-Get washed
+  3.20-School finishes |9.15-Go to bed 
+  5.00-Tea                             
+                                       
+                                       </content>
+	</page></content></entry>

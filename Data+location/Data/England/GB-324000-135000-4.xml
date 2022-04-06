@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-32-13/GB-324000-135000-4.xml</id><title type="text"> Entry: pages-GB-32-13 GB-324000-135000-4</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-32-13/GB-324000-135000-4.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-32-13/GB-324000-135000-4.xml/1" rel="edit" /><as:entryId>GB-324000-135000-4</as:entryId><as:updateIndex>296417</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T18:59:06.000Z</updated><published>2011-05-02T18:59:06.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-324000-135000</dblock_id>
+		<year>1986</year>
+		<title>04POPULATION</title>
+		<content> ALL RESIDENTS                         
+ **************************************
+ *       *TOTAL  *  MALES   * RET'D    
+ *  AGE  *PERSONS* SWD MRRD * MALES    
+ **************************************
+ * TOTAL * 1826    399  510    89      
+ * 0-4   *  116     53  xxx   xxx      
+ * 5-9   *  133     72  xxx   xxx      
+ * 10-14 *  168     95  xxx   xxx      
+ * 15    *   30     19  xxx   xxx      
+ * 16-19 *  106     58    0   xxx      
+ * 20-24 *   80     39    6   xxx      
+ * 25-29 *  108     12   33   xxx      
+ * 30-34 *  161      6   76   xxx      
+ * 35-39 *  152      8   70     0      
+ * 40-44 *  114      5   44     0      
+ * 45-49 *  121      5   61     0      
+ * 50-54 *  118      3   54     1      
+ * 55-59 *  112      1   53     2      
+ * 60-64 *   94      4   40     8      
+ * 65-69 *   73      6   32    27      
+ * 70-74 *   69      6   31    28      </content>
+	</page></content></entry>

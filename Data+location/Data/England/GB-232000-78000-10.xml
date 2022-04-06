@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-23-78/GB-232000-78000-10.xml</id><title type="text"> Entry: pages-GB-23-78 GB-232000-78000-10</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-23-78/GB-232000-78000-10.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-23-78/GB-232000-78000-10.xml/1" rel="edit" /><as:entryId>GB-232000-78000-10</as:entryId><as:updateIndex>135807</as:updateIndex><as:revision>0</as:revision><updated>2011-04-30T10:59:36.000Z</updated><published>2011-04-30T10:59:36.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-232000-78000</dblock_id>
+		<year>1986</year>
+		<title>10Housing in Trekenner</title>
+		<content> We conducted a survey of housing types
+ and ages in Trekenner.                
+                                       
+{OCCUPANTS           TYPE      AGE(YRS)
+ Mr &amp; Mrs Kibbles    Bungalow     13   
+ Mr &amp; Mrs James      Bungalow     11   
+ Mr &amp; Mrs Halfyard   Bungalow     11   
+ Mr &amp; Mrs Crew       Bungalow     11   
+ Mr &amp; Mrs Pathyjohns Bungalow     15   
+ Mr &amp; Mrs Rogers     Bungalow     15   
+ Mr &amp; Mrs Rich       Bungalow      9   
+ Mr &amp; Mrs Garland    Bungalow     13   
+ Mr Finnamore        Bungalow     13   
+ Mr &amp; Mrs Saffelle   Bungalow     13   
+ Mr &amp; Mrs Hughes     Cottage     200   
+ Trekenner Cottage   Cottage     250   
+ Mr &amp; Mrs Knights    Cottage     105   
+ Trehane             Cottage     175   
+ Miss Wise           Cottage     450   
+ Mr &amp; Mrs Gladwell   Cottage     200   
+ Mr &amp; Mrs Daniel     Farm        200   
+ Mr &amp; Mrs Nash       Farm        400   </content>
+	</page></content></entry>

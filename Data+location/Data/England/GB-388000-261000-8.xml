@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-38-26/GB-388000-261000-8.xml</id><title type="text"> Entry: pages-GB-38-26 GB-388000-261000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-38-26/GB-388000-261000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-38-26/GB-388000-261000-8.xml/2" rel="edit" /><as:entryId>GB-388000-261000-8</as:entryId><as:updateIndex>164493</as:updateIndex><as:revision>1</as:revision><updated>2011-04-30T19:46:43.000Z</updated><published>2011-04-30T19:32:28.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-388000-261000</dblock_id>
+		<year>1986</year>
+		<title>08Droitwich-Housing Survey</title>
+		<content>{Number of houses in sample-}66        
+{Type of house-}Detached-32            
+               Semi-detached-25        
+               Terraced-8              
+               Flats-1                 
+{Age of house   Number of bedrooms     
+  0- 5yrs  6   {per house }            
+  5-10yrs 20     2 rooms  7            
+ 10-15yrs 12     3 rooms 33            
+ 15-30yrs 15     4 rooms 23            
+ 30-50yrs  2     5+rooms  1            
+ 50+  yrs 11                           
+{Services connected to house}          
+   mains gas  52                       
+   mains electricity  66               
+   mains water  66                     
+   mains drainage and sewerage  63     
+   septic tank drainage  3             
+   telephone  58                       
+   cable television  5                 
+   bulk gas tank  4                    
+                                       </content>
+	</page></content></entry>

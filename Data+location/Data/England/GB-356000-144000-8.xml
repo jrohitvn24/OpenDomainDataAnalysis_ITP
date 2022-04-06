@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-35-14/GB-356000-144000-8.xml</id><title type="text"> Entry: pages-GB-35-14 GB-356000-144000-8</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-35-14/GB-356000-144000-8.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-35-14/GB-356000-144000-8.xml/5" rel="edit" /><as:entryId>GB-356000-144000-8</as:entryId><as:updateIndex>217995</as:updateIndex><as:revision>4</as:revision><updated>2011-05-01T08:43:53.000Z</updated><published>2011-05-01T07:38:36.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-356000-144000</dblock_id>
+		<year>1986</year>
+		<title>08SHOPPING SURVEY PART 1</title>
+		<content> Questionnaire results from villages   
+ showing where shoppers buy groceries  
+ chemists and electrical goods{        
+{                                      
+{EAST WELLS:_  GROC FURN CHEM ELEC     
+{Wells }        l2    l   ll    9      
+{Bath          } 0    3    0    2      
+{Bristol       } 0    1    0    0      
+{Shepton Mallet }0    4    0    0      
+{Other}          0    0    1    0      
+{                                      
+{CR0SCOMBE:_   }                       
+{Croscombe}      2    0    0    0      
+{Wells}          5    0    6    6      
+{Shepton Mallet} 2    6    3    2      
+{Street    }     1    2    1    2      
+{                                      
+{DINDER:_                              
+{Wells}          7    l    7    7      
+{Bath}           0    0    0    2      
+{Croscombe    }  l    l    l    l      
+{Shepton Mallet }2    2    2    0      </content>
+	</page></content></entry>

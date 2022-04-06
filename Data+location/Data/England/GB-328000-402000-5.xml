@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-32-40/GB-328000-402000-5.xml</id><title type="text"> Entry: pages-GB-32-40 GB-328000-402000-5</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-32-40/GB-328000-402000-5.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-32-40/GB-328000-402000-5.xml/1" rel="edit" /><as:entryId>GB-328000-402000-5</as:entryId><as:updateIndex>316233</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T20:21:08.000Z</updated><published>2011-05-02T20:21:08.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-328000-402000</dblock_id>
+		<year>1986</year>
+		<title>05FARM ACCOUNTS PART(3)</title>
+		<content>                   GROSS    NET    VAT 
+                 { _____    ___    ___ 
+{10th}JENSINSONS  1685.00 1685.00      
+   (Turkeys)                           
+{13th}HEPBURNS     209.36  182.00 27.30
+   (Petrol Bill)                       
+{14th}J.RIMMER     104.40  104.40      
+   (Geese)                             
+{14th}M.HOUGHTON    28.00   28.00      
+   (Eggs)                              
+{17th}EXPRESS TOOLS 93.23   81.07 12.16
+   (Taps &amp; Dyes)                       
+{18th}KEN WRIGHT    11.50   10.00  1.50
+   (Tractor Work)                      
+{24th}DICKENSONS    42.51   42.51      
+   (Sweets &amp; Chocs)                    
+{24th}ASHE &amp; NEPHEW 79.21   79.21      
+   (Drinks Bill)                       
+                 {_______ _______ _____
+     {TOTALS:}    6835.19 6782.29 52.90
+                 {_______ _______ _____
+ VAT=Value Added Tax-to gov'n/3 monthly</content>
+	</page></content></entry>

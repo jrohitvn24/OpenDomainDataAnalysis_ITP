@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-32-38/GB-320000-387000-18.xml</id><title type="text"> Entry: pages-GB-32-38 GB-320000-387000-18</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-32-38/GB-320000-387000-18.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-32-38/GB-320000-387000-18.xml/1" rel="edit" /><as:entryId>GB-320000-387000-18</as:entryId><as:updateIndex>299983</as:updateIndex><as:revision>0</as:revision><updated>2011-05-02T19:07:23.000Z</updated><published>2011-05-02T19:07:23.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-320000-387000</dblock_id>
+		<year>1986</year>
+		<title>18MODERN APPLIANCES</title>
+		<content> Data from a survey of 30 homes:       
+                                       
+     {ITEM       0    10   20   30     
+ Telephone      { **************   }28 
+ Home computer  { **********       }20 
+ Video recorder { ******           }12 
+ Television B/W { *************    }26 
+ T.V. Colour    { ***************  }30 
+ Washing machine{ **************+  }29 
+ Tumble drier   { ********+        }17 
+ Spin drier     { *+                }3 
+ Refrigerator   { **************+  }29 
+ Freezer        { ***********+     }23 
+ Dishwasher       {                 }0 
+ Shower         { **********+      }21 
+ Motor car      { ************+    }25 
+ Microwave cooker{****              }8 
+ Sewing machine { **********       }20 
+ Coffee maker   { *******          }14 
+ Food mixer     { *********+       }19 
+ Knitting machine{**                }4 
+                                       </content>
+	</page></content></entry>

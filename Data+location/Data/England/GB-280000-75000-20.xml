@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:as="http://atomserver.org/namespaces/1.0/"><id>/electron/atom/v1/domesday/pages-GB-28-75/GB-280000-75000-20.xml</id><title type="text"> Entry: pages-GB-28-75 GB-280000-75000-20</title><author><name>AtomServer APP Service</name></author><link href="/electron/atom/v1/domesday/pages-GB-28-75/GB-280000-75000-20.xml" rel="self" /><link href="/electron/atom/v1/domesday/pages-GB-28-75/GB-280000-75000-20.xml/1" rel="edit" /><as:entryId>GB-280000-75000-20</as:entryId><as:updateIndex>238275</as:updateIndex><as:revision>0</as:revision><updated>2011-05-01T11:34:42.000Z</updated><published>2011-05-01T11:34:42.000Z</published><content type="application/xml"><page xmlns="">
+		<dblock_id>GB-280000-75000</dblock_id>
+		<year>1986</year>
+		<title>20TRAFFIC SURVEY HEATHFEILD</title>
+		<content>{TRAFFIC ALONG A382 (OS 828756)        
+ Time and Day: 14.5.85 2.00pm-3.00pm   
+{TRAFFIC TRAVELLING TOWARDS NEWTON     
+{ABBOT.  VEHICLE TYPE:}Cars:260        
+ Lorries:42 Coach or Bus:4 Vans:33     
+ Motorbikes:3 Others:8 Total:350 {CAR  
+{AGE }83_85:121 80_82:56 77_79:34      
+ 74_76:22 71_73:13 Before 71:14        
+ Total:260 {CAR COLOURS }Red:47        
+ Orange:2  Yellow:19 Blue:40 White:51  
+ Green:32 Grey:22 Brown:23 Black:5     
+ Other:19 Total:260 {TRAFFIC TRAVELLING
+{TOWARDS BOVEY TRACEY VEHICLE TYPE: }  
+ Cars:222 Lorries:59 Coach or Bus:3    
+ Vans:58 Motorbikes:6 Others:2         
+ Total:350 {CAR AGE }83_85:108 80_82:41
+ 77_79:34 74_76:19 71_73:13 Before 71:7
+ Total:222 {CAR COLOURS }Red:43        
+ Orange:6 Yellow:15 Blue:51 White:29   
+ Green:23 Grey:6 Brown:21 Black:4      
+ Other:24 Total:222                    
+                                       </content>
+	</page></content></entry>
