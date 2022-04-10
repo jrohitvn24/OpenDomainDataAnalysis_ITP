@@ -20,9 +20,9 @@ os.chdir(dname)
 raw_data = pd.read_csv('England.csv')
 raw_data = raw_data.dropna()
 
-class LDATextClassification:
+class TopicClassification:
     
-    def __init__(self, num_topics=10, passes = 2,data = None, weighting_scheme = 'tfidf', keep_topN = 100000, min_df = 15, max_df = 0.5):
+    def __init__(self, num_topics=10, passes = 2,data = None,  weighting_scheme = 'tfidf',technique = 'LDA', keep_topN = 100000, min_df = 15, max_df = 0.5):
         self.num_topics = num_topics
         self.passes = passes
         self.data = data
@@ -30,6 +30,7 @@ class LDATextClassification:
         self.keep_topN = keep_topN
         self.min_df = min_df
         self.max_df = max_df
+        self.technique = technique
     
     def lemmatize_stemming(self,text):
         stemmer = PorterStemmer()
@@ -55,18 +56,32 @@ class LDATextClassification:
         bow_corpus = [dictionary.doc2bow(doc) for doc in processed_docs]
         
         if self.weighting_scheme == 'tf':                
-            lda_model = gensim.models.LdaModel(bow_corpus, num_topics=self.num_topics, id2word=dictionary, passes=self.passes)
+            if self.technique == 'LDA':
+                model = gensim.models.LdaModel(bow_corpus, num_topics=self.num_topics, id2word=dictionary, passes=self.passes)
+            else:
+                model = gensim.models.LsiModel(bow_corpus, num_topics=self.num_topics, id2word=dictionary, onepass = False, power_iters = self.passes)
         else:
             tfidf = models.TfidfModel(bow_corpus)
             corpus_tfidf = tfidf[bow_corpus]  
-            lda_model = gensim.models.LdaModel(corpus_tfidf, num_topics=self.num_topics, id2word=dictionary, passes=self.passes)        
-        return lda_model
+            if self.technique == 'LDA':
+                model = gensim.models.LdaModel(corpus_tfidf, num_topics=self.num_topics, id2word=dictionary, passes=self.passes)        
+            else:
+                model = gensim.models.LsiModel(corpus_tfidf, num_topics=self.num_topics, id2word=dictionary, onepass = False, power_iters = self.passes)
+        return model
 
 
-ldatextclassifier = LDATextClassification(5,2,raw_data,'tfidf')
+ldatextclassifier = TopicClassification(num_topics=5,passes=2,data = raw_data,weighting_scheme = 'tfidf',technique = 'LDA')
 
 lda_model = ldatextclassifier.train_model()
 
 
 for idx, topic in lda_model.print_topics(-1):
+    print('Topic: {} Word: {}'.format(idx, topic))
+
+lsitextclassifier = TopicClassification(num_topics=5,passes=2,data = raw_data,weighting_scheme = 'tfidf',technique = 'LSI')
+
+lsi_model = lsitextclassifier.train_model()
+
+
+for idx, topic in lsi_model.print_topics(-1):
     print('Topic: {} Word: {}'.format(idx, topic))
